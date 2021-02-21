@@ -3,16 +3,16 @@
     var app = {}
 
     // Configuration variables to set
-    startYear   = 1993;  // first year of budget data
-    endYear     = 2017;  // last year of budget data
-    activeYear  = 2016;  // default year to select
-    debugMode   = false; // change to true for debugging message in the javascript console
-    municipalityName = 'Cook County Budget'; // name of budget municipality 
-    apropTitle  = 'Appropriations'; // label for first chart line
-    expendTitle = 'Expenditures';   // label for second chart line
+    startYear   = 2018;  // first year of budget data
+    endYear     = 2021;  // last year of budget data
+    activeYear  = 2021;  // default year to select
+    debugMode   = true; // change to true for debugging message in the javascript console
+    municipalityName = 'Oak Park Village Budget'; // name of budget municipality 
+    apropTitle  = 'Budgeted'; // label for first chart line
+    expendTitle = 'DELETE';   // label for second chart line
 
     // CSV data source for budget data
-    dataSource  = '/data/cook_county_budget_cleaned.csv';
+    dataSource  = '/data/final/oak_park_budget_cleaned.csv';
     
     app.GlobalChartOpts = {
         apropColor:   '#264870',
@@ -28,7 +28,7 @@
 
     app.MainChartModel = Backbone.Model.extend({
         setYear: function(year, index){
-            var exp = this.get('expenditures');
+            var exp = this.get('actual');
             var approp = this.get('appropriations');
             var expChange = BudgetHelpers.calc_change(exp[index], exp[index -1]);
             var appropChange = BudgetHelpers.calc_change(approp[index], approp[index - 1]);
@@ -223,9 +223,9 @@
                             console.log("Process row");
                             console.log(j);
                         }
-                        j['Fund Slug'] = BudgetHelpers.convertToSlug(j['Fund']);
-                        j['Department Slug'] = BudgetHelpers.convertToSlug(j['Department']);
-                        j['Control Officer Slug'] = BudgetHelpers.convertToSlug(j['Control Officer']);
+                        j['Fund Slug'] = BudgetHelpers.convertToSlug(j['Fund ID']);
+                        j['Department Slug'] = BudgetHelpers.convertToSlug(j['Department ID']);
+                        j['Control Officer Slug'] = BudgetHelpers.convertToSlug(j['Program ID']);
                         loadit.push(j)
                     });
                     self.reset(loadit);
@@ -234,8 +234,8 @@
                         console.log(loadit);
                     }
                     self.hierarchy = {
-                        Fund: ['Fund', 'Department'],
-                        "Control Officer": ['Control Officer', 'Department']
+                        Fund: ['Fund', 'Department', 'Description'],
+                        "Control Officer": ['Program ID', 'Department', 'Description']
                     }
                     if (typeof init === 'undefined'){
                         self.topLevelView = 'Fund';

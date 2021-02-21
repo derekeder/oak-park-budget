@@ -1,0 +1,1730 @@
+Fund ID,Department ID,Program ID,Account ID,Fund Name,Department,Description,2018 Actual,2019 Actual,2020 Adopted,2021 Adopted
+1001,41030,101,510501,General Fund,Adjudication,Regular Salaries,205481,217719,228328,215680
+1001,41030,101,510503,General Fund,Adjudication,Overtime,9592,12608,10000,10000
+1001,41030,101,520515,General Fund,Adjudication,Health Insurance Opt Out,0,0,0,0
+1001,41030,101,520520,General Fund,Adjudication,Life Insurance Expense,294,281,279,279
+1001,41030,101,520521,General Fund,Adjudication,Health Insurance Expense,56255,54299,53691,56223
+1001,41030,101,520522,General Fund,Adjudication,Social Security Expense,12080,13014,14781,13997
+1001,41030,101,520523,General Fund,Adjudication,Medicare Expense,2825,3044,3456,3272
+1001,41030,101,520527,General Fund,Adjudication,IMRF Contributions,21245,14629,20151,18041
+1001,41030,101,530650,General Fund,Adjudication,Conferences Training,679,326,2000,2000
+1001,41030,101,530658,General Fund,Adjudication,Temporary Services,0,0,0,0
+1001,41030,101,530660,General Fund,Adjudication,General Contractuals,0,0,0,0
+1001,41030,101,530667,General Fund,Adjudication,External Support,146139,159036,186100,159100
+1001,41030,101,550601,General Fund,Adjudication,Printing,464,5384,6000,6000
+1001,41030,101,550602,General Fund,Adjudication,Membership Dues,0,0,0,0
+1001,41030,101,550603,General Fund,Adjudication,Postage,23635,11633,30000,30000
+1001,41030,101,550606,General Fund,Adjudication,Books & Subscriptions,366,817,1760,1760
+1001,41030,101,550652,General Fund,Adjudication,Legal Postings and Doc. Fees,187,92,1000,1000
+1001,41030,101,550663,General Fund,Adjudication,Software License Updates,5188,350,6000,6000
+1001,41030,101,560620,General Fund,Adjudication,Office Supplies,4952,3647,6100,4000
+1001,41030,101,570720,General Fund,Adjudication,Computer Equipment,0,0,2000,0
+1001,41030,134,560639,General Fund,Adjudication,Advertising,0,0,0,0
+1001,41020,101,510501,General Fund,Village Manager's Office (VMO),Regular Salaries,450262,464258,466424,593725
+1001,41020,101,510503,General Fund,Village Manager's Office (VMO),Overtime,152,139,500,500
+1001,41020,101,510506,General Fund,Village Manager's Office (VMO),"Equip Allow (Auto,Phone,Tools)",1215,1209,1215,1215
+1001,41020,101,520515,General Fund,Village Manager's Office (VMO),Health Insurance Opt‐out,1504,0,0,0
+1001,41020,101,520520,General Fund,Village Manager's Office (VMO),Life Insurance Expense,1012,913,908,1001
+1001,41020,101,520521,General Fund,Village Manager's Office (VMO),Health Insurance Expense,58907,74833,64757,96624
+1001,41020,101,520522,General Fund,Village Manager's Office (VMO),Social Security Expense,22843,23200,23165,30950
+1001,41020,101,520523,General Fund,Village Manager's Office (VMO),Medicare Expense,6347,6453,6770,8616
+1001,41020,101,520527,General Fund,Village Manager's Office (VMO),IMRF Contributions,44624,30131,41136,49558
+1001,41020,101,560651,General Fund,Village Manager's Office (VMO),Employees Awards Recognition,7926,12400,9500,8000
+1001,41020,101,530650,General Fund,Village Manager's Office (VMO),Conferences Training,7581,8422,9000,6500
+1001,41020,101,530651,General Fund,Village Manager's Office (VMO),Incentives,0,0,0,0
+1001,41020,101,530662,General Fund,Village Manager's Office (VMO),Boards Commissions Support,5937,18268,18000,15000
+1001,41020,103,530662,General Fund,Village Manager's Office (VMO),Boards Commissions Support,0,0,0,0
+1001,41020,321,530662,General Fund,Village Manager's Office (VMO),Boards Commissions Support,0,0,0,0
+1001,41020,332,530662,General Fund,Village Manager's Office (VMO),Boards Commissions Support,0,0,0,0
+1001,41020,101,530667,General Fund,Village Manager's Office (VMO),External Support,370238,472830,413816,389716
+1001,41020,101,530687,General Fund,Village Manager's Office (VMO),Township Interventionist Program,0,0,0,0
+1001,41020,101,550601,General Fund,Village Manager's Office (VMO),Printing,41,41,3500,3000
+1001,41020,101,550602,General Fund,Village Manager's Office (VMO),Membership Dues,32000,13815,30700,34500
+1001,41020,101,550603,General Fund,Village Manager's Office (VMO),Postage,158,133,700,400
+1001,41020,101,550605,General Fund,Village Manager's Office (VMO),Travel & Mileage Reimbursement,65,87,150,50
+1001,41020,101,550606,General Fund,Village Manager's Office (VMO),Books & Subscriptions,119,413,300,150
+1001,41020,101,560616,General Fund,Village Manager's Office (VMO),Toner Cartridges,0,0,0,0
+1001,41020,101,560620,General Fund,Village Manager's Office (VMO),Office Supplies,3261,4570,5000,4000
+1001,41020,101,560625,General Fund,Village Manager's Office (VMO),Clothing,571,436,1000,0
+1001,41020,101,560638,General Fund,Village Manager's Office (VMO),Special Events,2115,5956,6000,4500
+1001,41110,101,510501,General Fund,Communication,Regular Salaries,238541,262790,271534,269650
+1001,41110,101,510503,General Fund,Communication,Overtime,0,7,0,0
+1001,41110,101,510506,General Fund,Communication,"Equip Allow (Auto,Phone,Tools)",505,505,504,504
+1001,41110,101,520515,General Fund,Communication,Health Insurance Opt Out,2407,0,0,0
+1001,41110,101,520520,General Fund,Communication,Life Insurance Expense,294,328,279,279
+1001,41110,101,520521,General Fund,Communication,Health Insurance Expense,36246,38471,37644,37644
+1001,41110,101,520522,General Fund,Communication,Social Security Expense,13988,15557,16835,16718
+1001,41110,101,520523,General Fund,Communication,Medicare Expense,3271,3638,3937,3910
+1001,41110,101,520527,General Fund,Communication,IMRF Contributions,23792,15845,21880,20556
+1001,41110,101,530650,General Fund,Communication,Conferences Training,0,0,0,1100
+1001,41110,101,530660,General Fund,Communication,General Contractuals,32925,34764,87100,58000
+1001,41110,113,530660,General Fund,Communication,General Contractuals,0,0,0,0
+1001,41110,101,530667,General Fund,Communication,External Support,6765,8706,11200,9500
+1001,41110,113,530667,General Fund,Communication,External Support,0,0,0,0
+1001,41110,101,550601,General Fund,Communication,Printing,17350,22015,24500,23000
+1001,41110,101,550602,General Fund,Communication,Membership Dues,0,0,1100,0
+1001,41110,101,550603,General Fund,Communication,Postage,24225,19345,27300,27800
+1001,41110,101,550605,General Fund,Communication,Travel & Mileage Reimbursement,0,0,50,50
+1001,41110,101,550606,General Fund,Communication,Books & Subscriptions,491,500,500,500
+1001,41110,101,550666,General Fund,Communication,Public Information Promotions,0,0,0,0
+1001,41110,101,560620,General Fund,Communication,Office Supplies,363,201,400,400
+1001,41110,101,560631,General Fund,Communication,Operational Supplies,368,1946,2500,2500
+1001,41110,113,560631,General Fund,Communication,Operational Supplies,0,0,0,0
+1001,41110,101,570710,General Fund,Communication,Equipment,4407,13867,23400,12500
+1001,41110,101,570711,General Fund,Communication,Software,0,0,3100,3100
+1001,41080,101,510501,General Fund,HR ‐ Human Resources,Regular Salaries,280783,295332,230570,235839
+1001,41080,101,510503,General Fund,HR ‐ Human Resources,Overtime,457,187,1000,1000
+1001,41080,101,510515,General Fund,HR ‐ Human Resources,Comp Time,0,0,0,0
+1001,41080,101,510506,General Fund,HR ‐ Human Resources,"Equip Allow (Auto,Phone,Tools)",505,181,504,504
+1001,41080,101,510519,General Fund,HR ‐ Human Resources,Vacation Time Payout,0,7523,0,0
+1001,41080,101,520505,General Fund,HR ‐ Human Resources,Tuition Reimbursement,2891,4184,5000,5000
+1001,41080,101,520515,General Fund,HR ‐ Human Resources,Health Insurance Opt Out,2596,420,0,0
+1001,41080,101,520520,General Fund,HR ‐ Human Resources,Life Insurance Expense,294,251,256,256
+1001,41080,101,520521,General Fund,HR ‐ Human Resources,Health Insurance Expense,39869,30334,45339,49390
+1001,41080,101,520522,General Fund,HR ‐ Human Resources,Social Security Expense,16181,14710,16123,16354
+1001,41080,101,520523,General Fund,HR ‐ Human Resources,Medicare Expense,3872,3440,3358,3434
+1001,41080,101,520527,General Fund,HR ‐ Human Resources,IMRF Contributions,28027,16182,20401,19752
+1001,41080,133,520668,General Fund,HR ‐ Human Resources,Unemployment Ins Payments,28870,2815,25000,25000
+1001,41080,101,530646,General Fund,HR ‐ Human Resources,Pre‐employment Testing,7646,6730,12000,12000
+1001,41080,101,530642,General Fund,HR ‐ Human Resources,Background Check,2878,3383,5000,5000
+1001,41080,134,530642,General Fund,HR ‐ Human Resources,Background Check,892,2029,5000,2500
+1001,41080,101,530650,General Fund,HR ‐ Human Resources,Conferences Training,6738,7091,8000,5000
+1001,41080,131,530650,General Fund,HR ‐ Human Resources,Conferences Training,0,0,0,0
+1001,41080,101,530652,General Fund,HR ‐ Human Resources,Training Services,15102,3083,22000,30000
+1001,41080,134,530655,General Fund,HR ‐ Human Resources,Consultant Fees,0,0,0,0
+1001,41080,101,530658,General Fund,HR ‐ Human Resources,Temporary Services,36032,33729,50000,50000
+1001,41080,101,530667,General Fund,HR ‐ Human Resources,External Support,77125,47454,60000,60000
+1001,41080,131,530667,General Fund,HR ‐ Human Resources,External Support,0,0,0,0
+1001,41080,134,530678,General Fund,HR ‐ Human Resources,Medical Fees,3591,2246,5000,2500
+1001,41080,134,530667,General Fund,HR ‐ Human Resources,External Support,20900,74888,74000,74000
+1001,41080,101,550601,General Fund,HR ‐ Human Resources,Printing,106,263,250,250
+1001,41080,101,550602,General Fund,HR ‐ Human Resources,Membership Dues,3380,2422,5000,5000
+1001,41080,101,550603,General Fund,HR ‐ Human Resources,Postage,773,778,2000,1000
+1001,41080,101,550605,General Fund,HR ‐ Human Resources,Travel & Mileage Reimbursement,46,38,200,200
+1001,41080,101,550606,General Fund,HR ‐ Human Resources,Books & Subscriptions,0,0,200,200
+1001,41080,101,560620,General Fund,HR ‐ Human Resources,Office Supplies,2098,3022,3000,2000
+1001,41080,131,560620,General Fund,HR ‐ Human Resources,Office Supplies,0,0,0,0
+1001,41080,132,560620,General Fund,HR ‐ Human Resources,Office Supplies,0,0,0,0
+1001,41080,133,560620,General Fund,HR ‐ Human Resources,Office Supplies,0,0,0,0
+1001,41080,134,560620,General Fund,HR ‐ Human Resources,Office Supplies,0,0,0,0
+1001,41080,134,550652,General Fund,HR ‐ Human Resources,Legal Postings and Doc. Fees,0,0,0,0
+1001,41080,101,550671,General Fund,HR ‐ Human Resources,Office Machine Service,0,0,200,200
+1001,41080,101,560616,General Fund,HR ‐ Human Resources,Toner Cartridges,306,650,1000,1000
+1001,41080,101,560638,General Fund,HR ‐ Human Resources,Special Events,855,978,1000,1000
+1001,41080,101,560639,General Fund,HR ‐ Human Resources,Advertising,15068,11382,16000,10000
+1001,41080,134,560639,General Fund,HR ‐ Human Resources,Advertising,0,0,0,0
+1001,41080,101,560651,General Fund,HR ‐ Human Resources,Employees Awards Recognition,1000,83,2000,2000
+1001,41080,101,560652,General Fund,HR ‐ Human Resources,Employee Physicals,6038,15507,10000,10000
+1001,41070,101,510501,General Fund,LEGAL ‐ Law,Regular Salaries,333092,342229,366623,365100
+1001,41070,101,510503,General Fund,LEGAL ‐ Law,Overtime,0,57,1000,1000
+1001,41070,101,510506,General Fund,LEGAL ‐ Law,"Equip Allow (Auto,Phone,Tools)",505,505,504,504
+1001,41070,101,520520,General Fund,LEGAL ‐ Law,Life Insurance Expense,294,280,279,279
+1001,41070,101,520521,General Fund,LEGAL ‐ Law,Health Insurance Expense,26517,25643,25092,25092
+1001,41070,101,520522,General Fund,LEGAL ‐ Law,Social Security Expense,17923,18279,19606,19512
+1001,41070,101,520523,General Fund,LEGAL ‐ Law,Medicare Expense,4713,4797,5331,5308
+1001,41070,101,520515,General Fund,LEGAL ‐ Law,Health Insurance Opt Out,2407,0,0,0
+1001,41070,101,520527,General Fund,LEGAL ‐ Law,IMRF Contributions,33050,22117,32388,30533
+1001,41070,101,530650,General Fund,LEGAL ‐ Law,Conferences Training,3899,2843,6000,4000
+1001,41070,101,530658,General Fund,LEGAL ‐ Law,Temporary Services,0,0,0,0
+1001,41070,101,530667,General Fund,LEGAL ‐ Law,External Support,153620,171272,200000,200000
+1001,41070,101,550601,General Fund,LEGAL ‐ Law,Printing,0,0,100,100
+1001,41070,101,550602,General Fund,LEGAL ‐ Law,Membership Dues,1729,2029,2500,2000
+1001,41070,101,550603,General Fund,LEGAL ‐ Law,Postage,0,751,1100,1000
+1001,41070,101,550605,General Fund,LEGAL ‐ Law,Travel & Mileage Reimbursement,833,806,800,1500
+1001,41070,101,550606,General Fund,LEGAL ‐ Law,Books & Subscriptions,3164,3632,6000,4500
+1001,41070,101,560620,General Fund,LEGAL ‐ Law,Office Supplies,1549,2266,3000,2500
+1001,46300,101,510501,General Fund,Community Relations,Regular Salaries,161153,170578,182051,171371
+1001,46300,101,510503,General Fund,Community Relations,Overtime,199,0,0,0
+1001,46300,101,510515,General Fund,Community Relations,Comp Time,705,0,0,0
+1001,46300,101,510509,General Fund,Community Relations,Comp Time Payout,0,66,0,0
+1001,46300,101,520515,General Fund,Community Relations,Health Insurance Opt Out,1504,0,0,0
+1001,46300,101,520520,General Fund,Community Relations,Life Insurance Expense,196,187,186,186
+1001,46300,101,520521,General Fund,Community Relations,Health Insurance Expense,17883,18358,17069,25092
+1001,46300,101,520522,General Fund,Community Relations,Social Security Expense,9806,10249,11287,10625
+1001,46300,101,520523,General Fund,Community Relations,Medicare Expense,2293,2397,2640,2485
+1001,46300,101,520527,General Fund,Community Relations,IMRF Contributions,16149,10862,14979,14292
+1001,46300,101,530662,General Fund,Community Relations,Boards Commissions Support,1732,100,0,0
+1001,46300,101,530667,General Fund,Community Relations,External Support,20440,19234,22500,22500
+1001,46300,101,550601,General Fund,Community Relations,Printing,0,0,2500,1000
+1001,46300,101,550602,General Fund,Community Relations,Membership Dues,50,50,50,50
+1001,46300,101,550603,General Fund,Community Relations,Postage,10,8,150,100
+1001,46300,101,530650,General Fund,Community Relations,Conferences Training,1000,0,1000,1000
+1001,46300,101,560620,General Fund,Community Relations,Office Supplies,297,134,600,500
+1001,46202,101,510501,General Fund,DCS ‐ Planning Division,Regular Salaries,221818,259105,254591,255166
+1001,46202,101,510503,General Fund,DCS ‐ Planning Division,Overtime,106,48,0,0
+1001,46202,101,510515,General Fund,DCS ‐ Planning Division,Comp Time,866,1835,0,0
+1001,46202,101,510509,General Fund,DCS ‐ Planning Division,Comp Time Payout,558,2056,0,0
+1001,46202,101,520515,General Fund,DCS ‐ Planning Division,Health Insurance Opt Out,2407,0,0,0
+1001,46202,101,520520,General Fund,DCS ‐ Planning Division,Life Insurance Expense,263,280,279,279
+1001,46202,101,520521,General Fund,DCS ‐ Planning Division,Health Insurance Expense,29939,33090,32379,32379
+1001,46202,101,520522,General Fund,DCS ‐ Planning Division,Social Security Expense,13299,15610,15785,15820
+1001,46202,101,520523,General Fund,DCS ‐ Planning Division,Medicare Expense,3110,3651,3692,3700
+1001,46202,101,520527,General Fund,DCS ‐ Planning Division,IMRF Contributions,22270,16435,22429,21281
+1001,46202,101,530650,General Fund,DCS ‐ Planning Division,Conferences Training,2718,2509,3800,500
+1001,46202,101,530667,General Fund,DCS ‐ Planning Division,External Support,37676,34174,48000,38000
+1001,46202,101,550601,General Fund,DCS ‐ Planning Division,Printing,3173,90,150,100
+1001,46202,101,550602,General Fund,DCS ‐ Planning Division,Membership Dues,2092,1609,2265,1200
+1001,46202,101,550603,General Fund,DCS ‐ Planning Division,Postage,0,0,0,0
+1001,46202,101,550605,General Fund,DCS ‐ Planning Division,Travel & Mileage Reimbursement,4,0,50,50
+1001,46202,101,550606,General Fund,DCS ‐ Planning Division,Books & Subscriptions,695,0,865,870
+1001,46202,101,550652,General Fund,DCS ‐ Planning Division,Legal Postings and Doc. Fees,5971,7973,6000,6000
+1001,46205,101,510501,General Fund,DCS ‐ Business Services,Regular Salaries,129806,0,0,0
+1001,46205,101,510503,General Fund,DCS ‐ Business Services,Overtime,20,0,0,0
+1001,46205,101,520520,General Fund,DCS ‐ Business Services,Life Insurance Expense,219,0,0,0
+1001,46205,101,520521,General Fund,DCS ‐ Business Services,Health Insurance Expense,17728,0,0,0
+1001,46205,101,520522,General Fund,DCS ‐ Business Services,Social Security Expense,7835,0,0,0
+1001,46205,101,520523,General Fund,DCS ‐ Business Services,Medicare Expense,1832,0,0,0
+1001,46205,101,520527,General Fund,DCS ‐ Business Services,IMRF Contributions,12836,0,0,0
+1001,46205,101,530642,General Fund,DCS ‐ Business Services,Background Check,1998,0,0,0
+1001,46205,101,585651,General Fund,DCS ‐ Business Services,Retail Rehab Grant Programs,30300,0,0,0
+1001,46205,101,530658,General Fund,DCS ‐ Business Services,Temporary Services,0,0,0,0
+1001,46205,101,530650,General Fund,DCS ‐ Business Services,Conferences Training,209,0,0,0
+1001,46205,101,530667,General Fund,DCS ‐ Business Services,External Support,100000,0,0,0
+1001,46205,233,585652,General Fund,DCS ‐ Business Services,Operating Subsidies,197928,0,0,0
+1001,46205,101,550601,General Fund,DCS ‐ Business Services,Printing,497,0,0,0
+1001,46205,101,550602,General Fund,DCS ‐ Business Services,Membership Dues,800,0,0,0
+1001,46205,101,550605,General Fund,DCS ‐ Business Services,Travel & Mileage Reimbursement,46,0,0,0
+1001,46205,101,560634,General Fund,DCS ‐ Business Services,Sign Replacement,0,0,0,0
+1001,46206,101,510501,General Fund,DCS ‐ Neighborhood Services,Regular Salaries,525810,607310,739746,754930
+1001,46206,101,510503,General Fund,DCS ‐ Neighborhood Services,Overtime,586,1682,3500,3500
+1001,46206,101,510515,General Fund,DCS ‐ Neighborhood Services,Comp Time,0,403,0,0
+1001,46206,101,510999,General Fund,DCS ‐ Neighborhood Services,Grant Admin. ‐ Salaries,223220,197482,293511,148308
+1001,46206,101,510506,General Fund,DCS ‐ Neighborhood Services,"Equip Allow (Auto,Phone,Tools)",0,0,0,0
+1001,46206,101,510509,General Fund,DCS ‐ Neighborhood Services,Comp Time Payout,11,166,0,0
+1001,46206,101,510519,General Fund,DCS ‐ Neighborhood Services,Vacation Time Payout,1479,1281,0,0
+1001,46206,101,520515,General Fund,DCS ‐ Neighborhood Services,Health Insurance Opt Out,3912,107,0,0
+1001,46206,101,520520,General Fund,DCS ‐ Neighborhood Services,Life Insurance Expense,913,1068,1116,1116
+1001,46206,101,520521,General Fund,DCS ‐ Neighborhood Services,Health Insurance Expense,129780,131303,159813,133688
+1001,46206,101,520522,General Fund,DCS ‐ Neighborhood Services,Social Security Expense,33518,41761,46081,47023
+1001,46206,101,520523,General Fund,DCS ‐ Neighborhood Services,Medicare Expense,7839,9766,10777,10997
+1001,46206,101,520527,General Fund,DCS ‐ Neighborhood Services,IMRF Contributions,57119,46080,65480,63253
+1001,46206,101,520999,General Fund,DCS ‐ Neighborhood Services,Grant Admin. ‐ Benefits,60981,49038,51183,62149
+1001,46206,101,530642,General Fund,DCS ‐ Neighborhood Services,Background Check,0,1249,2000,1750
+1001,46206,101,530650,General Fund,DCS ‐ Neighborhood Services,Conferences Training,2335,1750,7600,0
+1001,46206,101,530667,General Fund,DCS ‐ Neighborhood Services,External Support,9956,10929,15085,15000
+1001,46206,101,540660,General Fund,DCS ‐ Neighborhood Services,Emergency Services (bps),7401,3040,25000,10000
+1001,46206,101,550601,General Fund,DCS ‐ Neighborhood Services,Printing,90,382,540,540
+1001,46206,101,550602,General Fund,DCS ‐ Neighborhood Services,Membership Dues,287,209,2575,500
+1001,46206,101,550603,General Fund,DCS ‐ Neighborhood Services,Postage,0,0,0,0
+1001,46206,201,550605,General Fund,DCS ‐ Neighborhood Services,Travel & Mileage Reimbursement,0,0,100,100
+1001,46206,101,550606,General Fund,DCS ‐ Neighborhood Services,Books and Subscriptions,49,0,600,600
+1001,46206,101,550652,General Fund,DCS ‐ Neighborhood Services,Legal Postings and Doc. Fees,0,0,200,200
+1001,46206,101,560620,General Fund,DCS ‐ Neighborhood Services,Office Supplies,0,0,0,0
+1001,46206,101,560625,General Fund,DCS ‐ Neighborhood Services,Clothing,0,385,1288,950
+1001,46206,101,560631,General Fund,DCS ‐ Neighborhood Services,Operational Supplies,1097,698,2065,1545
+1001,46206,101,570711,General Fund,DCS ‐ Neighborhood Services,Software,0,0,3740,0
+1001,46206,300,585612,General Fund,DCS ‐ Neighborhood Services,Housing Rehab Property Grants,184133,4333,150000,0
+1001,46206,357,585616,General Fund,DCS ‐ Neighborhood Services,Relocation Expenses,0,0,5000,5000
+1001,46206,101,585651,General Fund,DCS ‐ Neighborhood Services,Retail Rehab Grant Programs,0,29360,0,0
+1001,46206,230,585652,General Fund,DCS ‐ Neighborhood Services,Operating Subsidies‐ OP Housing Auth.,35000,35000,35000,0
+1001,46206,240,585652,General Fund,DCS ‐ Neighborhood Services,Operating Subsidies‐ OP Reg. Hous. Ctr.,425000,391382,300000,300000
+1001,46206,280,585652,General Fund,DCS ‐ Neighborhood Services,Operating Subsidies‐ OP Residence Corp.,35000,38750,42500,35000
+1001,46250,101,510501,General Fund,DCS ‐ Permit Processing,Regular Salaries,348821,354745,378613,353958
+1001,46250,101,510503,General Fund,DCS ‐ Permit Processing,Overtime,384,979,5000,2500
+1001,46250,101,510509,General Fund,DCS ‐ Permit Processing,Comp Time Payout,544,0,0,0
+1001,46250,101,520515,General Fund,DCS ‐ Permit Processing,Health Insurance Opt Out,264,171,0,0
+1001,46250,101,510519,General Fund,DCS ‐ Permit Processing,Vacation Time Payout,3745,0,0,0
+1001,46250,101,520520,General Fund,DCS ‐ Permit Processing,Life Insurance Expense,580,525,558,512
+1001,46250,101,520521,General Fund,DCS ‐ Permit Processing,Health Insurance Expense,90804,70753,83959,31947
+1001,46250,101,520522,General Fund,DCS ‐ Permit Processing,Social Security Expense,20359,20980,23784,22255
+1001,46250,101,520523,General Fund,DCS ‐ Permit Processing,Medicare Expense,4761,4906,5562,5205
+1001,46250,101,520527,General Fund,DCS ‐ Permit Processing,IMRF Contributions,34420,22845,33796,29937
+1001,46250,101,530650,General Fund,DCS ‐ Permit Processing,Conferences Training,8444,6891,7000,3150
+1001,46250,101,530662,General Fund,DCS ‐ Permit Processing,Boards Commissions Support,0,0,0,0
+1001,46250,101,530667,General Fund,DCS ‐ Permit Processing,External Support,978479,926080,945500,950500
+1001,46250,101,530675,General Fund,DCS ‐ Permit Processing,Bank Charges,13785,19492,16000,20000
+1001,46250,101,550601,General Fund,DCS ‐ Permit Processing,Printing,1434,1386,1500,1500
+1001,46250,101,550602,General Fund,DCS ‐ Permit Processing,Membership Dues,75,550,1000,400
+1001,46250,101,550605,General Fund,DCS ‐ Permit Processing,Travel & Mileage Reimbursement,0,0,200,200
+1001,46250,101,550606,General Fund,DCS ‐ Permit Processing,Books & Subscriptions,5321,5219,5600,5200
+1001,46250,101,560620,General Fund,DCS ‐ Permit Processing,Office Supplies,0,0,0,0
+1001,46250,101,560631,General Fund,DCS ‐ Permit Processing,Operational Supplies,541,3358,6000,1800
+1001,46260,101,510501,General Fund,DCS Administration,Regular Salaries,168091,220239,227699,239014
+1001,46260,101,510503,General Fund,DCS Administration,Overtime,85,528,500,500
+1001,46260,101,510506,General Fund,DCS Administration,"Equip Allow (Auto,Phone,Tools)",168,168,168,168
+1001,46260,101,520515,General Fund,DCS Administration,Health Insurance Opt Out,525,0,0,0
+1001,46260,101,520520,General Fund,DCS Administration,Life Insurance Expense,235,256,294,294
+1001,46260,101,520521,General Fund,DCS Administration,Health Insurance Expense,30148,28601,58471,23066
+1001,46260,101,520522,General Fund,DCS Administration,Social Security Expense,9747,12879,13932,14269
+1001,46260,101,520523,General Fund,DCS Administration,Medicare Expense,2336,3068,3394,3473
+1001,46260,101,520527,General Fund,DCS Administration,IMRF Contributions,14052,13269,21249,19975
+1001,46260,101,530649,General Fund,DCS Administration,Sales Tax Rebate,66913,348373,235000,210000
+1001,46260,101,530650,General Fund,DCS Administration,Conferences Training,5355,7902,10600,1500
+1001,46260,101,530658,General Fund,DCS Administration,Temporary services,0,0,0,0
+1001,46260,101,530667,General Fund,DCS Administration,External Support,174800,174568,176300,183000
+1001,46260,101,540668,General Fund,DCS Administration,Business District Outdoor Dining,0,0,0,50000
+1001,46260,101,550601,General Fund,DCS Administration,Printing,176,180,200,200
+1001,46260,101,550602,General Fund,DCS Administration,Membership Dues,395,2095,2262,2325
+1001,46260,101,550603,General Fund,DCS Administration,Postage,3759,4021,6000,6000
+1001,46260,101,550690,General Fund,DCS Administration,Public Art,0,0,50000,50000
+1001,46260,101,550605,General Fund,DCS Administration,Travel & Mileage Reimbursement,0,140,155,150
+1001,46260,101,560620,General Fund,DCS Administration,Office Supplies,9827,11516,13390,11000
+1001,46260,101,560625,General Fund,DCS Administration,Clothing,0,0,0,0
+1001,46260,101,581807,General Fund,DCS Administration,Loan Principal,1022146,0,0,0
+1001,46260,101,581808,General Fund,DCS Administration,Loan Interest Expense,22032,0,0,0
+1001,46260,101,583670,General Fund,DCS Administration,Affordable Housing,500000,77315,303108,295000
+1001,46260,101,585651,General Fund,DCS Administration,Retail Rehab Grants,0,0,55000,55000
+1001,46260,231,585652,General Fund,DCS Administration,Operating Subsidies‐ Visit OP,212500,212500,222000,155000
+1001,46260,101,570665,General Fund,DCS Administration,Census Expenses,0,0,0,0
+1001,46260,232,585652,General Fund,DCS Administration,Operating Subsidies‐ OPEDC,670786,571500,571500,521500
+1001,46260,233,585652,General Fund,DCS Administration,Operating Subsidies‐ OP Arts Council,0,192000,227000,184500
+1001,46260,101,585656,General Fund,DCS Administration,Operating Subsidies‐ Chamber of Comm.,0,0,0,0
+1001,41300,101,510501,General Fund,Finance,Regular Salaries,639235,645929,660547,585308
+1001,41300,171,510501,General Fund,Finance,Regular Salaries,0,0,0,0
+1001,41300,101,510502,General Fund,Finance,Merit Incentives,0,0,100000,100000
+1001,41300,101,510503,General Fund,Finance,Overtime,6838,3003,10000,10000
+1001,41300,101,510515,General Fund,Finance,Comp Time,503,0,0,0
+1001,41300,101,510522,General Fund,Finance,Turnover savings‐ Villagewide,0,0,1825000,1500000
+1001,41300,101,510523,General Fund,Finance,Health Insurance Offset,0,0,1000000,1000000
+1001,41300,101,510999,General Fund,Finance,Grant Admin. ‐ Salaries,619,657,662,700
+1001,41300,101,510506,General Fund,Finance,"Equip Allow (Auto,Phone,Tools)",1527,1502,1512,1512
+1001,41300,101,510519,General Fund,Finance,Vacation Time Payout,11125,317,0,0
+1001,41300,101,520515,General Fund,Finance,Health Insurance Opt Out,1139,67723,65000,65000
+1001,41300,101,520520,General Fund,Finance,Life Insurance Expense,1533,831,744,744
+1001,41300,101,520521,General Fund,Finance,Health Insurance Expense,129507,96223,97644,89109
+1001,41300,101,520522,General Fund,Finance,Social Security Expense,37189,39066,39859,35195
+1001,41300,171,520522,General Fund,Finance,Social Security Expense,0,0,0,0
+1001,41300,101,520523,General Fund,Finance,Medicare Expense,8976,9579,9703,8612
+1001,41300,171,520523,General Fund,Finance,Medicare Expense,0,0,0,0
+1001,41300,101,520527,General Fund,Finance,IMRF Contributions,73233,43281,61517,49649
+1001,41300,171,520527,General Fund,Finance,IMRF Contributions,0,0,0,0
+1001,41300,101,520999,General Fund,Finance,Grant Admin. ‐ Benefits,211,291,246,250
+1001,41300,101,530650,General Fund,Finance,Conferences Training,2024,3415,5176,3600
+1001,41300,101,530654,General Fund,Finance,Collection Agency Expense,47906,35308,60000,65000
+1001,41300,101,530658,General Fund,Finance,Temporary Services,0,0,0,0
+1001,41300,101,530660,General Fund,Finance,General Contractuals,0,0,0,0
+1001,41300,101,530667,General Fund,Finance,External Support,57333,53935,154950,80200
+1001,41300,101,530668,General Fund,Finance,ADP Payroll Services,0,0,0,0
+1001,41300,101,530670,General Fund,Finance,Audit Service Fees,65279,65300,67500,69277
+1001,41300,101,530675,General Fund,Finance,Bank Charges,131276,139424,190000,190000
+1001,41300,175,540690,General Fund,Finance,Telecomminication Charges,0,0,0,0
+1001,41300,101,550601,General Fund,Finance,Printing,6386,8384,8700,7500
+1001,41300,101,550602,General Fund,Finance,Membership Dues,2325,2700,2600,2300
+1001,41300,101,550603,General Fund,Finance,Postage,903,925,2000,1500
+1001,41300,101,550605,General Fund,Finance,Travel & Mileage Reimbursement,17,85,300,200
+1001,41300,101,550606,General Fund,Finance,Books & Subscriptions,0,0,0,0
+1001,41300,101,550652,General Fund,Finance,Legal Postings and Doc. Fees,1160,1473,2300,2000
+1001,41300,101,550656,General Fund,Finance,Miscellaneous Expense,22,0,0,0
+1001,41300,101,550663,General Fund,Finance,Software License Updates,69050,69999,71900,75400
+1001,41300,101,560616,General Fund,Finance,Toner Cartridges,0,0,0,0
+1001,41300,101,560617,General Fund,Finance,Paper Supply,15257,9045,14600,12000
+1001,41300,101,560620,General Fund,Finance,Office Supplies,5000,4796,5700,3550
+1001,41300,171,560620,General Fund,Finance,Office Supplies,0,0,0,0
+1001,41300,101,560623,General Fund,Finance,Cleaning Supplies,0,0,0,0
+1001,41300,101,560625,General Fund,Finance,Clothing,474,598,840,0
+1001,41300,101,560670,General Fund,Finance,Equipment Rental,46908,45711,45600,46676
+1001,41300,101,581804,General Fund,Finance,Penalties & Fines,9356,533,0,0
+1001,41300,101,582100,General Fund,Finance,Loss on Investments,15309,0,0,0
+1001,41300,101,591825,General Fund,Finance,Transfer To Debt Service Fund,500000,500000,500000,500000
+1001,41300,101,591826,General Fund,Finance,Transfer To Sir Fund,750000,3000000,500000,1000000
+1001,41300,101,591860,General Fund,Finance,Transfer To Parking,40000,40000,40000,40000
+1001,41300,101,591895,General Fund,Finance,Transfer To Cip Fund,1836000,1700000,1930000,0
+1001,42500,101,510501,General Fund,FIRE ‐ Admin,Regular Salaries,485175,533699,563222,546494
+1001,42500,101,510503,General Fund,FIRE ‐ Admin,Overtime,66,0,0,0
+1001,42500,101,520519,General Fund,FIRE ‐ Admin,Vacatiob Time Payout,0,0,0,0
+1001,42500,101,520520,General Fund,FIRE ‐ Admin,Life Insurance Expense,351,324,372,372
+1001,42500,101,520521,General Fund,FIRE ‐ Admin,Health Insurance Expense,81059,78118,77366,77366
+1001,42500,101,520522,General Fund,FIRE ‐ Admin,Social Security Expense,3519,5434,7077,6263
+1001,42500,101,520523,General Fund,FIRE ‐ Admin,Medicare Expense,4528,5143,5861,5619
+1001,42500,101,520525,General Fund,FIRE ‐ Admin,Fire Pension Contributions,5550647,5411662,5438948,6138212
+1001,42500,101,520527,General Fund,FIRE ‐ Admin,IMRF Contributions,5779,3808,5316,4048
+1001,42500,101,530650,General Fund,FIRE ‐ Admin,Conferences Training,7847,2058,8000,4000
+1001,42500,101,530667,General Fund,FIRE ‐ Admin,External Support,53416,57714,72650,70850
+1001,42500,101,550601,General Fund,FIRE ‐ Admin,Printing,39,133,250,250
+1001,42500,101,550602,General Fund,FIRE ‐ Admin,Membership Dues,11500,11348,11800,11550
+1001,42500,101,550603,General Fund,FIRE ‐ Admin,Postage,1789,1717,1700,1700
+1001,42500,101,550671,General Fund,FIRE ‐ Admin,Office Machine Service,3998,3950,4000,4000
+1001,42500,101,560620,General Fund,FIRE ‐ Admin,Office Supplies,3993,3996,4000,3000
+1001,42500,101,560625,General Fund,FIRE ‐ Admin,Clothing,2389,1753,3000,3000
+1001,42500,101,560638,General Fund,FIRE ‐ Admin,Special Events,819,1492,1500,1000
+1001,42510,101,510501,General Fund,FIRE ‐ Operations,Regular Salaries,5979402,6327359,6923871,6600946
+1001,42510,101,510503,General Fund,FIRE ‐ Operations,Overtime,289188,423322,500000,500000
+1001,42510,101,510999,General Fund,FIRE ‐ Operations,Contra Salaries,0,0,0,0
+1001,42510,101,510509,General Fund,FIRE ‐ Operations,Comp Time Payout,1714,4306,0,0
+1001,42510,101,510510,General Fund,FIRE ‐ Operations,Sick Time Payout,30869,35413,65000,65000
+1001,42510,101,510516,General Fund,FIRE ‐ Operations,FD 7G Pay,189237,126222,185000,185000
+1001,42510,101,510519,General Fund,FIRE ‐ Operations,Vacation Time Payout,62657,6907,40000,40000
+1001,42510,101,510521,General Fund,FIRE ‐ Operations,Holiday Pay,0,0,90358,90358
+1001,42510,101,520515,General Fund,FIRE ‐ Operations,Health Insurance Opt Out,7386,0,0,0
+1001,42510,101,520520,General Fund,FIRE ‐ Operations,Life Insurance Expense,5995,5857,5859,5859
+1001,42510,101,520521,General Fund,FIRE ‐ Operations,Health Insurance Expense,1138049,1149109,1130572,1187253
+1001,42510,101,520522,General Fund,FIRE ‐ Operations,Social Security Expense,11733,7827,11470,14152
+1001,42510,101,520523,General Fund,FIRE ‐ Operations,Medicare Expense,86898,89169,101058,96425
+1001,42510,101,520525,General Fund,FIRE ‐ Operations,Fire Pension Contributions,885,0,0,0
+1001,42510,101,520999,General Fund,FIRE ‐ Operations,Contra Benefits,0,0,0,0
+1001,42510,101,530660,General Fund,FIRE ‐ Operations,General Contractuals,108643,45819,87100,65100
+1001,42510,101,530675,General Fund,FIRE ‐ Operations,Bank Charges,34,0,0,0
+1001,42510,101,530681,General Fund,FIRE ‐ Operations,WSCDC Contract,502222,507179,607000,632000
+1001,42510,101,550673,General Fund,FIRE ‐ Operations,Repairs,14988,14991,16300,16800
+1001,42510,101,540690,General Fund,FIRE ‐ Operations,Telecommunication Charges,21704,26000,27000,27000
+1001,42510,101,560625,General Fund,FIRE ‐ Operations,Clothing,82951,85257,93000,93000
+1001,42510,101,560630,General Fund,FIRE ‐ Operations,Small Tools,19736,19628,23000,27000
+1001,42510,101,560631,General Fund,FIRE ‐ Operations,Operational Supplies,0,0,0,0
+1001,42510,101,570710,General Fund,FIRE ‐ Operations,Equipment,19987,14351,18000,18000
+1001,42510,101,570720,General Fund,FIRE ‐ Operations,Computer Equipment,14956,14852,16900,16900
+1001,42520,101,530660,General Fund,FIRE ‐ EMS,General Contractuals,7194,9978,13500,13500
+1001,42520,101,550601,General Fund,FIRE ‐ EMS,Printing,146,400,400,400
+1001,42520,101,550602,General Fund,FIRE ‐ EMS,Membership Dues,675,707,1000,1000
+1001,42520,101,550673,General Fund,FIRE ‐ EMS,Repairs,875,1221,2500,2500
+1001,42520,101,560631,General Fund,FIRE ‐ EMS,Operational Supplies,26596,25959,30500,30500
+1001,42520,101,570710,General Fund,FIRE ‐ EMS,Equipment,441,8722,6000,6000
+1001,42530,101,550602,General Fund,FIRE ‐ Prev. and Inv.,Membership Dues,2021,1635,2400,2400
+1001,42530,101,550673,General Fund,FIRE ‐ Prev. and Inv.,Repairs,0,1000,1000,500
+1001,42530,101,560630,General Fund,FIRE ‐ Prev. and Inv.,Small Tools,2000,2000,2000,1000
+1001,42540,101,530650,General Fund,FIRE ‐ Training and Public Ed.,Conferences Training,31583,28614,50000,50000
+1001,42540,101,550601,General Fund,FIRE ‐ Training and Public Ed.,Printing,994,1413,1500,1500
+1001,42540,101,550602,General Fund,FIRE ‐ Training and Public Ed.,Membership Dues,190,733,1350,1350
+1001,42540,101,550673,General Fund,FIRE ‐ Training and Public Ed.,Repairs,3000,977,4000,2000
+1001,42540,101,560630,General Fund,FIRE ‐ Training and Public Ed.,Small Tools,717,0,0,0
+1001,42540,101,560631,General Fund,FIRE ‐ Training and Public Ed.,Operational Supplies,14425,19649,33520,33520
+1001,42540,101,560638,General Fund,FIRE ‐ Training and Public Ed.,Special Events,1797,931,4000,4000
+1001,41040,101,510501,General Fund,Information Technology,Regular Salaries,548658,559813,642661,642459
+1001,41040,101,510503,General Fund,Information Technology,Overtime,429,971,1500,1500
+1001,41040,101,510515,General Fund,Information Technology,Comp Time,199,536,0,0
+1001,41040,101,510506,General Fund,Information Technology,"Equip Allow (Auto,Phone,Tools)",1011,745,1200,1200
+1001,41040,101,510509,General Fund,Information Technology,Comp Time Payout,23,0,0,0
+1001,41040,101,510519,General Fund,Information Technology,Vacation Time Payout,0,1377,0,0
+1001,41040,101,520515,General Fund,Information Technology,Health Insurance Opt‐out,1504,0,0,0
+1001,41040,101,520520,General Fund,Information Technology,Life Insurance Expense,686,655,744,744
+1001,41040,101,520521,General Fund,Information Technology,Health Insurance Expense,124001,116715,129003,129003
+1001,41040,101,520522,General Fund,Information Technology,Social Security Expense,31949,32533,39466,39454
+1001,41040,101,520523,General Fund,Information Technology,Medicare Expense,7472,7609,9340,9337
+1001,41040,101,520527,General Fund,Information Technology,IMRF Contributions,54395,36508,56751,53706
+1001,41040,101,530650,General Fund,Information Technology,Conferences Training,2723,7822,9000,500
+1001,41040,101,530667,General Fund,Information Technology,External Support,102134,118636,125000,117000
+1001,41040,101,540690,General Fund,Information Technology,Telecommunication Charges,137264,162045,217500,216800
+1001,41040,101,540698,General Fund,Information Technology,Computer Supplies,6057,4966,10000,6000
+1001,41040,101,540699,General Fund,Information Technology,Hardware Maintenance,13739,44263,40000,36000
+1001,41040,101,550602,General Fund,Information Technology,Membership Dues,300,300,500,500
+1001,41040,101,550603,General Fund,Information Technology,Postage,253,178,1000,500
+1001,41040,721,550603,General Fund,Information Technology,Postage,0,0,0,0
+1001,41040,101,550605,General Fund,Information Technology,Travel & Mileage Reimbursement,0,159,500,150
+1001,41040,101,550606,General Fund,Information Technology,Books & Subscriptions,0,0,700,500
+1001,41040,101,550663,General Fund,Information Technology,Software License Updates,82826,168960,187000,145000
+1001,41040,101,550671,General Fund,Information Technology,Office Machine Service,0,0,1000,0
+1001,41040,101,550672,General Fund,Information Technology,Telephone Maintenance,22277,34819,30000,23000
+1001,41040,101,560620,General Fund,Information Technology,Office Supplies,897,1482,1500,1500
+1001,42400,101,510501,General Fund,POLICE,Regular Salaries,627322,585152,616812,582915
+1001,42400,412,510501,General Fund,POLICE,Regular Salaries,7875182,7887477,8903357,8541356
+1001,42400,421,510501,General Fund,POLICE,Regular Salaries,3238767,3604392,4247334,4381796
+1001,42400,101,510503,General Fund,POLICE,Overtime,27290,7688,14000,10300
+1001,42400,412,510503,General Fund,POLICE,Overtime,529154,479768,523000,538690
+1001,42400,421,510503,General Fund,POLICE,Overtime,188032,242703,200450,206464
+1001,42400,101,510508,General Fund,POLICE,CTA Patrol Pay,0,1558,0,0
+1001,42400,412,510508,General Fund,POLICE,CTA Patrol Pay,76251,112015,130000,133900
+1001,42400,421,510508,General Fund,POLICE,CTA Patrol Pay,24247,15690,21500,22145
+1001,42400,101,510514,General Fund,POLICE,Court Time,3064,0,0,0
+1001,42400,412,510514,General Fund,POLICE,Court Time,106883,123710,115000,118450
+1001,42400,421,510514,General Fund,POLICE,Court Time,29003,16017,25000,25750
+1001,42400,101,510515,General Fund,POLICE,Comp Time,786,0,0,0
+1001,42400,412,510515,General Fund,POLICE,Comp Time,32930,1223,0,0
+1001,42400,421,510515,General Fund,POLICE,Comp Time,18013,0,0,0
+1001,42400,101,510999,General Fund,POLICE,Grant Admin. ‐ Salaries,0,0,0,0
+1001,42400,412,510999,General Fund,POLICE,Grant Admin. ‐ Salaries,679,0,0,0
+1001,42400,421,510999,General Fund,POLICE,Grant Admin. ‐ Salaries,611,0,0,0
+1001,42400,101,510509,General Fund,POLICE,Comp Time Payout,0,3003,0,0
+1001,42400,421,510509,General Fund,POLICE,Comp Time Payout,34895,63951,25000,75000
+1001,42400,412,510509,General Fund,POLICE,Comp Time Payout,100488,85539,75000,25000
+1001,42400,101,510510,General Fund,POLICE,Sick Time Payout,2236,2329,0,0
+1001,42400,412,510510,General Fund,POLICE,Sick Time Payout,43151,28875,50000,50000
+1001,42400,421,510510,General Fund,POLICE,Sick Time Payout,14681,28619,30000,30000
+1001,42400,101,510519,General Fund,POLICE,Vacation Time Payout,17690,2311,0,0
+1001,42400,412,510519,General Fund,POLICE,Vacation Time Payout,23093,35504,15000,15000
+1001,42400,421,510519,General Fund,POLICE,Vacation Time Payout,25870,28089,30000,30000
+1001,42400,101,520515,General Fund,POLICE,Health Insurance Opt Out,5366,0,0,0
+1001,42400,412,520515,General Fund,POLICE,Health Insurance Opt Out,10249,448,0,0
+1001,42400,421,520515,General Fund,POLICE,Health Insurance Opt Out,9506,107,0,0
+1001,42400,101,520520,General Fund,POLICE,Life Insurance Expense,733,571,465,465
+1001,42400,412,520520,General Fund,POLICE,Life Insurance Expense,8558,8099,9067,8742
+1001,42400,421,520520,General Fund,POLICE,Life Insurance Expense,3711,3827,4464,4464
+1001,42400,101,520521,General Fund,POLICE,Health Insurance Expense,81103,102476,80067,95377
+1001,42400,412,520521,General Fund,POLICE,Health Insurance Expense,1403736,1385308,1424555,1387385
+1001,42400,421,520521,General Fund,POLICE,Health Insurance Expense,557095,547603,944851,874238
+1001,42400,101,520522,General Fund,POLICE,Social Security Expense,20228,9363,3809,3716
+1001,42400,412,520522,General Fund,POLICE,Social Security Expense,31325,39825,41412,36391
+1001,42400,421,520522,General Fund,POLICE,Social Security Expense,20167,32665,33661,33663
+1001,42400,101,520523,General Fund,POLICE,Medicare Expense,6209,7015,6865,6334
+1001,42400,412,520523,General Fund,POLICE,Medicare Expense,121081,121391,136682,131661
+1001,42400,421,520523,General Fund,POLICE,Medicare Expense,49217,54422,62971,65044
+1001,42400,101,520524,General Fund,POLICE,Police Pension Contributions,5724005,6508618,6338241,6973534
+1001,42400,101,520527,General Fund,POLICE,IMRF Contributions,35855,4887,5413,4999
+1001,42400,412,520527,General Fund,POLICE,IMRF Contributions,71295,26298,58846,48952
+1001,42400,421,520527,General Fund,POLICE,IMRF Contributions,35558,35795,51924,49254
+1001,42400,101,520532,General Fund,POLICE,SLEP Contributions,4019,11150,0,0
+1001,42400,412,520999,General Fund,POLICE,Grant Admin. ‐ Benefits,10,0,0,0
+1001,42400,101,520999,General Fund,POLICE,Grant Admin. ‐ Benefits,0,0,0,0
+1001,42400,421,520999,General Fund,POLICE,Grant Admin. ‐ Benefits,9,0,0,0
+1001,42400,101,560651,General Fund,POLICE,Employee Awards Recognition,0,623,2500,0
+1001,42400,101,530642,General Fund,POLICE,Background Check,0,0,0,5000
+1001,42400,101,530650,General Fund,POLICE,Conferences Training,82892,109031,121050,154125
+1001,42400,101,530652,General Fund,POLICE,Training Services,0,0,0,0
+1001,42400,101,530657,General Fund,POLICE,Legal Fees,835,217,1000,500
+1001,42400,101,530660,General Fund,POLICE,General Contractuals,530663,432729,486200,495400
+1001,42400,101,530667,General Fund,POLICE,External Support,13780,147817,105947,152122
+1001,42400,101,530681,General Fund,POLICE,WSCDC Contract,502222,507179,607000,632000
+1001,42400,101,540659,General Fund,POLICE,Lease Payments,41234,49685,0,10800
+1001,42400,101,540690,General Fund,POLICE,Telecommunication Charges,209,2356,2400,4000
+1001,42400,101,540699,General Fund,POLICE,Hardware Maintenance,4267,2141,4500,3000
+1001,42400,101,550694,General Fund,POLICE,Contractual Disposal Costs,1054,0,500,500
+1001,42400,101,550697,General Fund,POLICE,Contractual Towing & Plowing,6427,6873,8000,8000
+1001,42400,101,550601,General Fund,POLICE,Printing,6519,6954,4500,3000
+1001,42400,101,550602,General Fund,POLICE,Membership Dues,2682,3204,7865,7690
+1001,42400,101,550603,General Fund,POLICE,Postage,3716,2924,3000,3000
+1001,42400,101,550605,General Fund,POLICE,Travel & Mileage Reimbursement,909,402,1000,1000
+1001,42400,101,550606,General Fund,POLICE,Books & Subscriptions,2575,709,763,850
+1001,42400,101,550652,General Fund,POLICE,Legal Postings and Doc. Fees,96,0,250,0
+1001,42400,101,550656,General Fund,POLICE,Miscellaneous Expense,400,342,5800,900
+1001,42400,101,550663,General Fund,POLICE,Software License Updates,516,550,600,700
+1001,42400,101,550673,General Fund,POLICE,Repairs,384,0,2000,1000
+1001,42400,101,550689,General Fund,POLICE,Operational Maintenance Support,0,0,5000,4350
+1001,42400,101,560616,General Fund,POLICE,Toner Cartridges,10307,8491,6000,6500
+1001,42400,101,560620,General Fund,POLICE,Office Supplies,8373,7602,8200,7000
+1001,42400,101,560625,General Fund,POLICE,Clothing,97485,72285,20000,20600
+1001,42400,412,560625,General Fund,POLICE,Clothing,24199,82473,80000,80000
+1001,42400,421,560625,General Fund,POLICE,Clothing,4876,23852,37200,30000
+1001,42400,101,560628,General Fund,POLICE,Lab Supplies,7373,7697,8000,5000
+1001,42400,101,560631,General Fund,POLICE,Operational Supplies,39791,43549,61000,58000
+1001,42400,101,560638,General Fund,POLICE,Special Events,0,749,3000,8500
+1001,42400,101,560642,General Fund,POLICE,Basketball Camp Expenses,167,1472,3000,3000
+1001,42400,101,560651,General Fund,POLICE,Employees Awards Recognition,0,0,0,5100
+1001,42400,101,560655,General Fund,POLICE,Reimbursements,351,181,400,400
+1001,42400,101,560670,General Fund,POLICE,Equipment Rental,0,0,0,0
+1001,42400,101,570710,General Fund,POLICE,Equipment,22930,15874,17000,82000
+1001,42400,101,570711,General Fund,POLICE,Software,0,0,5200,5200
+1001,42400,101,570720,General Fund,POLICE,Computer Equipment,309,3452,9000,2000
+1001,42400,101,570725,General Fund,POLICE,Office Equipment,199,928,1000,3000
+1001,44550,101,510501,General Fund,HEALTH ‐ Health Services,Regular Salaries,182863,286586,301015,299059
+1001,44550,612,510501,General Fund,HEALTH ‐ Health Services,Regular Salaries,109824,114801,117216,120391
+1001,44550,613,510501,General Fund,HEALTH ‐ Health Services,Regular Salaries,43785,45706,71750,110833
+1001,44550,615,510501,General Fund,HEALTH ‐ Health Services,Regular Salaries,22728,40749,40882,41904
+1001,44550,612,510503,General Fund,HEALTH ‐ Health Services,Overtime,1045,406,2600,2600
+1001,44550,615,510503,General Fund,HEALTH ‐ Health Services,Overtime,58,1222,433,433
+1001,44550,101,510999,General Fund,HEALTH ‐ Health Services,Grant Admin. ‐ Salaries,158172,240772,299000,358806
+1001,44550,612,510506,General Fund,HEALTH ‐ Health Services,"Equip Allow (Auto,Phone,Tools)",675,278,504,882
+1001,44550,613,510506,General Fund,HEALTH ‐ Health Services,"Equip Allow (Auto, Phone, Tools)",349,38,0,504
+1001,44550,612,510509,General Fund,HEALTH ‐ Health Services,Comp Time Payout,26,0,0,0
+1001,44550,613,510519,General Fund,HEALTH ‐ Health Services,Vacation Time Payout,887,1233,0,0
+1001,44550,613,520515,General Fund,HEALTH ‐ Health Services,Health Insurance Opt Out,1722,0,0,0
+1001,44550,101,520520,General Fund,HEALTH ‐ Health Services,Life Insurance Expense,196,187,372,372
+1001,44550,612,520520,General Fund,HEALTH ‐ Health Services,Life Insurance Expense,173,187,186,186
+1001,44550,613,520520,General Fund,HEALTH ‐ Health Services,Life Insurance Expense,44,70,93,147
+1001,44550,615,520520,General Fund,HEALTH ‐ Health Services,Life Insurance Expense,67,93,93,93
+1001,44550,101,520521,General Fund,HEALTH ‐ Health Services,Health Insurance Expense,27220,26558,25988,25988
+1001,44550,612,520521,General Fund,HEALTH ‐ Health Services,Health Insurance Expense,11922,15835,15377,17069
+1001,44550,613,520521,General Fund,HEALTH ‐ Health Services,Health Insurance Expense,0,4339,23844,27199
+1001,44550,615,520521,General Fund,HEALTH ‐ Health Services,Health Insurance Expense,5466,0,0,0
+1001,44550,101,520522,General Fund,HEALTH ‐ Health Services,Social Security Expense,10956,17524,18663,18542
+1001,44550,612,520522,General Fund,HEALTH ‐ Health Services,Social Security Expense,6822,6971,7429,7625
+1001,44550,613,520522,General Fund,HEALTH ‐ Health Services,Social Security Expense,2831,2875,4449,6872
+1001,44550,615,520522,General Fund,HEALTH ‐ Health Services,Social Security Expense,1363,2533,2562,2625
+1001,44550,101,520523,General Fund,HEALTH ‐ Health Services,Medicare Expense,2562,4098,4365,4336
+1001,44550,612,520523,General Fund,HEALTH ‐ Health Services,Medicare Expense,1596,1630,1737,1783
+1001,44550,613,520523,General Fund,HEALTH ‐ Health Services,Medicare Expense,662,672,1040,1607
+1001,44550,615,520523,General Fund,HEALTH ‐ Health Services,Medicare Expense,319,592,599,614
+1001,44550,101,520527,General Fund,HEALTH ‐ Health Services,IMRF Contributions,15881,18621,26519,24942
+1001,44550,612,520527,General Fund,HEALTH ‐ Health Services,IMRF Contributions,10381,7135,9948,9648
+1001,44550,613,520527,General Fund,HEALTH ‐ Health Services,IMRF Contributions,4456,3061,6321,9244
+1001,44550,615,520527,General Fund,HEALTH ‐ Health Services,IMRF Contributions,2230,2647,3640,3531
+1001,44550,101,520999,General Fund,HEALTH ‐ Health Services,Grant Admin. ‐ Benefits,18005,8288,0,40242
+1001,44550,612,530650,General Fund,HEALTH ‐ Health Services,Conferences Training,1453,2703,1944,1944
+1001,44550,613,530650,General Fund,HEALTH ‐ Health Services,Conferences Training,0,473,500,1894
+1001,44550,615,530650,General Fund,HEALTH ‐ Health Services,Conferences Training,125,0,501,500
+1001,44550,101,530667,General Fund,HEALTH ‐ Health Services,External Support,0,0,12718,6700
+1001,44550,612,530667,General Fund,HEALTH ‐ Health Services,External Support,21200,21199,21620,21620
+1001,44550,613,530667,General Fund,HEALTH ‐ Health Services,External Support,0,0,0,0
+1001,44550,615,530667,General Fund,HEALTH ‐ Health Services,External Support,115179,115624,121866,124221
+1001,44550,612,550601,General Fund,HEALTH ‐ Health Services,Printing,0,122,400,400
+1001,44550,615,550601,General Fund,HEALTH ‐ Health Services,Printing,143,180,300,300
+1001,44550,101,550602,General Fund,HEALTH ‐ Health Services,Membership Dues,500,461,750,750
+1001,44550,612,550602,General Fund,HEALTH ‐ Health Services,Membership Dues,461,165,1125,625
+1001,44550,101,550603,General Fund,HEALTH ‐ Health Services,Postage,353,404,500,400
+1001,44550,615,550603,General Fund,HEALTH ‐ Health Services,Postage,1847,1688,3500,2500
+1001,44550,101,550605,General Fund,HEALTH ‐ Health Services,Travel & Mileage Reimbursement,0,0,200,200
+1001,44550,612,550605,General Fund,HEALTH ‐ Health Services,Travel & Mileage Reimbursement,0,58,100,100
+1001,44550,613,550605,General Fund,HEALTH ‐ Health Services,Travel & Mileage Reimbursement,0,228,250,250
+1001,44550,101,560620,General Fund,HEALTH ‐ Health Services,Office Supplies,1506,0,1500,1500
+1001,44550,615,560625,General Fund,HEALTH ‐ Health Services,Clothing,351,464,560,560
+1001,44550,101,560631,General Fund,HEALTH ‐ Health Services,Operational Supplies,0,1500,0,0
+1001,44550,612,560631,General Fund,HEALTH ‐ Health Services,Operational Supplies,403,487,500,500
+1001,44550,613,560631,General Fund,HEALTH ‐ Health Services,Operational Supplies,2699,2075,2524,2500
+1001,44550,615,560631,General Fund,HEALTH ‐ Health Services,Operational Supplies,3295,1365,1500,1500
+1001,43700,101,510501,General Fund,DPW ‐ Engineering,Regular Salaries,91940,95818,100172,80134
+1001,43700,722,510501,General Fund,DPW ‐ Engineering,Regular Salaries,49074,50602,54452,23074
+1001,43700,723,510501,General Fund,DPW ‐ Engineering,Regular Salaries,114474,117361,135685,89510
+1001,43700,777,510501,General Fund,DPW ‐ Engineering,Regular Salaries,22325,29728,31519,30750
+1001,43700,101,510503,General Fund,DPW ‐ Engineering,Overtime,0,6,0,0
+1001,43700,101,510515,General Fund,DPW ‐ Engineering,Comp Time,354,0,0,0
+1001,43700,101,510519,General Fund,DPW ‐ Engineering,Vacation Time Payout,0,0,0,0
+1001,43700,101,520520,General Fund,DPW ‐ Engineering,Life Insurance Expense,78,75,74,58
+1001,43700,722,520520,General Fund,DPW ‐ Engineering,Life Insurance Expense,49,49,47,19
+1001,43700,723,520520,General Fund,DPW ‐ Engineering,Life Insurance Expense,137,131,130,102
+1001,43700,777,520520,General Fund,DPW ‐ Engineering,Life Insurance Expense,36,44,47,47
+1001,43700,101,520521,General Fund,DPW ‐ Engineering,Health Insurance Expense,11600,11315,11072,9365
+1001,43700,722,520521,General Fund,DPW ‐ Engineering,Health Insurance Expense,5583,5445,5328,2768
+1001,43700,723,520521,General Fund,DPW ‐ Engineering,Health Insurance Expense,13630,13295,13009,10449
+1001,43700,777,520521,General Fund,DPW ‐ Engineering,Health Insurance Expense,0,0,0,0
+1001,43700,101,520522,General Fund,DPW ‐ Engineering,Social Security Expense,5442,5661,6088,4845
+1001,43700,722,520522,General Fund,DPW ‐ Engineering,Social Security Expense,2877,2978,3553,1623
+1001,43700,723,520522,General Fund,DPW ‐ Engineering,Social Security Expense,6746,6933,8412,5550
+1001,43700,777,520522,General Fund,DPW ‐ Engineering,Social Security Expense,1379,1864,1954,1906
+1001,43700,101,520523,General Fund,DPW ‐ Engineering,Medicare Expense,1273,1324,1452,1162
+1001,43700,722,520523,General Fund,DPW ‐ Engineering,Medicare Expense,673,696,790,335
+1001,43700,723,520523,General Fund,DPW ‐ Engineering,Medicare Expense,1577,1621,1967,1298
+1001,43700,777,520523,General Fund,DPW ‐ Engineering,Medicare Expense,323,436,457,446
+1001,43700,101,520527,General Fund,DPW ‐ Engineering,IMRF Contributions,8529,5856,8288,6073
+1001,43700,722,520527,General Fund,DPW ‐ Engineering,IMRF Contributions,4845,3279,4797,1924
+1001,43700,723,520527,General Fund,DPW ‐ Engineering,IMRF Contributions,11305,7605,11954,7465
+1001,43700,777,520527,General Fund,DPW ‐ Engineering,IMRF Contributions,2170,1993,2777,2565
+1001,43700,723,530650,General Fund,DPW ‐ Engineering,Conferences Training,642,95,3100,1500
+1001,43700,101,530667,General Fund,DPW ‐ Engineering,External Support,0,101263,151650,151650
+1001,43700,723,530667,General Fund,DPW ‐ Engineering,External Support,5230,950,10000,10000
+1001,43700,722,550601,General Fund,DPW ‐ Engineering,Printing,275,0,250,250
+1001,43700,723,550602,General Fund,DPW ‐ Engineering,Membership Dues,620,620,895,375
+1001,43700,101,550603,General Fund,DPW ‐ Engineering,Postage,220,2118,4000,3000
+1001,43700,421,550603,General Fund,DPW ‐ Engineering,Postage,0,0,0,0
+1001,43700,721,550603,General Fund,DPW ‐ Engineering,Postage,0,0,0,0
+1001,43700,722,550603,General Fund,DPW ‐ Engineering,Postage,150,0,150,150
+1001,43700,723,550603,General Fund,DPW ‐ Engineering,Postage,324,300,300,300
+1001,43700,723,550663,General Fund,DPW ‐ Engineering,Software License Updates,3000,5400,7000,12200
+1001,43700,101,550671,General Fund,DPW ‐ Engineering,Office Machine Service,0,0,0,0
+1001,43700,722,550671,General Fund,DPW ‐ Engineering,Office Machine Service,0,0,0,0
+1001,43700,101,560620,General Fund,DPW ‐ Engineering,Office Supplies,338,82,400,400
+1001,43700,722,560620,General Fund,DPW ‐ Engineering,Office Supplies,226,0,450,450
+1001,43700,101,560631,General Fund,DPW ‐ Engineering,Operational Supplies,100,0,0,0
+1001,43700,101,560730,General Fund,DPW ‐ Engineering,Reference Material,0,54,0,0
+1001,43700,723,560730,General Fund,DPW ‐ Engineering,Reference Material,180,156,500,500
+1001,43710,101,510501,General Fund,DPW ‐ Administration,Regular Salaries,347216,391132,471358,471671
+1001,43710,101,510503,General Fund,DPW ‐ Administration,Overtime,2044,1436,3000,3000
+1001,43710,101,510515,General Fund,DPW ‐ Administration,Comp Time,709,131,0,0
+1001,43710,101,510506,General Fund,DPW ‐ Administration,"Equip Allow (Auto,Phone,Tools)",0,0,0,0
+1001,43710,101,510509,General Fund,DPW ‐ Administration,Comp Time Payout,388,0,0,0
+1001,43710,101,520520,General Fund,DPW ‐ Administration,Life Insurance Expense,449,473,605,605
+1001,43710,101,520521,General Fund,DPW ‐ Administration,Health Insurance Expense,86319,82486,112687,75882
+1001,43710,101,520522,General Fund,DPW ‐ Administration,Social Security Expense,18590,21222,26804,27320
+1001,43710,101,520523,General Fund,DPW ‐ Administration,Medicare Expense,4646,5249,6878,6883
+1001,43710,101,520527,General Fund,DPW ‐ Administration,IMRF Contributions,33714,24332,41791,39588
+1001,43710,101,530650,General Fund,DPW ‐ Administration,Conferences Training,1315,6497,6000,2000
+1001,43710,710,530650,General Fund,DPW ‐ Administration,Conferences Training,0,25,250,250
+1001,43710,101,530667,General Fund,DPW ‐ Administration,External Support,0,0,0,0
+1001,43710,101,540690,General Fund,DPW ‐ Administration,Telecommunication Charges,590,408,500,500
+1001,43710,101,550601,General Fund,DPW ‐ Administration,Printing,0,82,50,0
+1001,43710,101,550602,General Fund,DPW ‐ Administration,Membership Dues,1900,2150,2150,2000
+1001,43710,710,550602,General Fund,DPW ‐ Administration,Membership Dues,0,495,495,0
+1001,43710,101,550603,General Fund,DPW ‐ Administration,Postage,1269,1480,1500,1500
+1001,43710,101,550652,General Fund,DPW ‐ Administration,Legal Postings and Doc. Fees,1442,2483,2500,2500
+1001,43710,101,550671,General Fund,DPW ‐ Administration,Office Machine Service,1215,1620,3000,3000
+1001,43710,101,560620,General Fund,DPW ‐ Administration,Office Supplies,2889,2656,4000,4000
+1001,43710,101,560625,General Fund,DPW ‐ Administration,Clothing,218,140,250,250
+1001,43710,101,560631,General Fund,DPW ‐ Administration,Operational Supplies,3000,3646,4000,4000
+1001,43710,710,560631,General Fund,DPW ‐ Administration,Operational Supplies,4897,3055,6600,6600
+1001,43720,101,510501,General Fund,DPW ‐ Street Lighting,Regular Salaries,21001,24385,24726,0
+1001,43720,751,510501,General Fund,DPW ‐ Street Lighting,Regular Salaries,49001,56898,57694,0
+1001,43720,752,510501,General Fund,DPW ‐ Street Lighting,Regular Salaries,42000,48770,49452,0
+1001,43720,753,510501,General Fund,DPW ‐ Street Lighting,Regular Salaries,28000,32513,32968,0
+1001,43720,101,510503,General Fund,DPW ‐ Street Lighting,Overtime,2147,1915,1800,0
+1001,43720,751,510503,General Fund,DPW ‐ Street Lighting,Overtime,5009,4469,4200,0
+1001,43720,752,510503,General Fund,DPW ‐ Street Lighting,Overtime,4293,3831,3600,0
+1001,43720,753,510503,General Fund,DPW ‐ Street Lighting,Overtime,2862,2554,3000,0
+1001,43720,101,520515,General Fund,DPW ‐ Street Lighting,Health Insurance Opt Out,1764,0,0,0
+1001,43720,753,510519,General Fund,DPW ‐ Street Lighting,Vacation Time Payout,0,0,0,0
+1001,43720,752,510519,General Fund,DPW ‐ Street Lighting,Vacation Time Payout,0,0,0,0
+1001,43720,101,510519,General Fund,DPW ‐ Street Lighting,Vacation Time Payout,0,0,0,0
+1001,43720,751,510519,General Fund,DPW ‐ Street Lighting,Vacation Time Payout,0,0,0,0
+1001,43720,101,520520,General Fund,DPW ‐ Street Lighting,Life Insurance Expense,26,28,28,0
+1001,43720,751,520520,General Fund,DPW ‐ Street Lighting,Life Insurance Expense,60,65,65,0
+1001,43720,752,520520,General Fund,DPW ‐ Street Lighting,Life Insurance Expense,52,56,56,0
+1001,43720,753,520520,General Fund,DPW ‐ Street Lighting,Life Insurance Expense,35,37,37,0
+1001,43720,101,520521,General Fund,DPW ‐ Street Lighting,Health Insurance Expense,3747,3655,3577,0
+1001,43720,751,520521,General Fund,DPW ‐ Street Lighting,Health Insurance Expense,8744,8529,8345,0
+1001,43720,752,520521,General Fund,DPW ‐ Street Lighting,Health Insurance Expense,7495,7310,7153,0
+1001,43720,753,520521,General Fund,DPW ‐ Street Lighting,Health Insurance Expense,4997,4874,4769,0
+1001,43720,101,520522,General Fund,DPW ‐ Street Lighting,Social Security Expense,1472,1616,1645,0
+1001,43720,751,520522,General Fund,DPW ‐ Street Lighting,Social Security Expense,3179,3635,3837,0
+1001,43720,752,520522,General Fund,DPW ‐ Street Lighting,Social Security Expense,2725,3116,3289,0
+1001,43720,753,520522,General Fund,DPW ‐ Street Lighting,Social Security Expense,1816,2077,2193,0
+1001,43720,101,520523,General Fund,DPW ‐ Street Lighting,Medicare Expense,344,377,385,0
+1001,43720,751,520523,General Fund,DPW ‐ Street Lighting,Medicare Expense,743,850,897,0
+1001,43720,752,520523,General Fund,DPW ‐ Street Lighting,Medicare Expense,637,729,769,0
+1001,43720,753,520523,General Fund,DPW ‐ Street Lighting,Medicare Expense,425,485,513,0
+1001,43720,101,520527,General Fund,DPW ‐ Street Lighting,IMRF Contributions,2448,1765,2337,0
+1001,43720,751,520527,General Fund,DPW ‐ Street Lighting,IMRF Contributions,5308,3976,5453,0
+1001,43720,752,520527,General Fund,DPW ‐ Street Lighting,IMRF Contributions,4550,3408,4674,0
+1001,43720,753,520527,General Fund,DPW ‐ Street Lighting,IMRF Contributions,3033,2272,3116,0
+1001,43720,101,530650,General Fund,DPW ‐ Street Lighting,Conferences Training,3359,2310,3500,2500
+1001,43720,751,530660,General Fund,DPW ‐ Street Lighting,General Contractuals,20978,13099,45000,45000
+1001,43720,752,530660,General Fund,DPW ‐ Street Lighting,General Contractuals,3908,29660,10000,10000
+1001,43720,753,530660,General Fund,DPW ‐ Street Lighting,General Contractuals,0,0,0,160000
+1001,43720,751,540692,General Fund,DPW ‐ Street Lighting,Electricity,107742,100894,110000,0
+1001,43720,101,550602,General Fund,DPW ‐ Street Lighting,Membership Dues,180,200,200,200
+1001,43720,101,550632,General Fund,DPW ‐ Street Lighting,Laundry Service,215,200,300,0
+1001,43720,753,550671,General Fund,DPW ‐ Street Lighting,Office Machine Service,3000,2417,2300,2500
+1001,43720,752,550673,General Fund,DPW ‐ Street Lighting,Repairs,0,750,1000,1000
+1001,43720,753,550673,General Fund,DPW ‐ Street Lighting,Repairs,549,0,750,750
+1001,43720,101,560625,General Fund,DPW ‐ Street Lighting,Clothing,473,585,1000,1300
+1001,43720,751,560631,General Fund,DPW ‐ Street Lighting,Operational Supplies,708,750,750,750
+1001,43720,752,560631,General Fund,DPW ‐ Street Lighting,Operational Supplies,1000,735,750,750
+1001,43720,753,560631,General Fund,DPW ‐ Street Lighting,Operational Supplies,4121,699,750,5750
+1001,43720,751,560633,General Fund,DPW ‐ Street Lighting,Roadway Maintenance,35404,33746,40000,40000
+1001,43720,752,560633,General Fund,DPW ‐ Street Lighting,Roadway Maintenance,4705,9739,10000,10000
+1001,43720,751,570710,General Fund,DPW ‐ Street Lighting,Equipment,0,0,0,0
+1001,43740,101,510501,General Fund,DPW ‐ Street Services,Regular Salaries,174844,174433,183795,180680
+1001,43740,761,510501,General Fund,DPW ‐ Street Services,Regular Salaries,204301,246862,282991,0
+1001,43740,764,510501,General Fund,DPW ‐ Street Services,Regular Salaries,145,0,0,0
+1001,43740,765,510501,General Fund,DPW ‐ Street Services,Regular Salaries,61173,70903,84897,80262
+1001,43740,766,510501,General Fund,DPW ‐ Street Services,Regular Salaries,81563,94537,113196,0
+1001,43740,101,510503,General Fund,DPW ‐ Street Services,Overtime,5,0,0,0
+1001,43740,761,510503,General Fund,DPW ‐ Street Services,Overtime,9657,11003,20000,0
+1001,43740,764,510503,General Fund,DPW ‐ Street Services,Overtime,0,0,0,0
+1001,43740,765,510503,General Fund,DPW ‐ Street Services,Overtime,134678,132195,140000,140000
+1001,43740,766,510503,General Fund,DPW ‐ Street Services,Overtime,3863,4401,0,0
+1001,43740,101,510518,General Fund,DPW ‐ Street Services,Seasonal Employees,0,5269,0,0
+1001,43740,101,510506,General Fund,DPW ‐ Street Services,"Equip Allow (Auto,Phone,Tools)",505,505,550,550
+1001,43740,761,510519,General Fund,DPW ‐ Street Services,Vacation Time Payout,1551,775,0,0
+1001,43740,101,520520,General Fund,DPW ‐ Street Services,Life Insurance Expense,196,187,186,186
+1001,43740,761,520520,General Fund,DPW ‐ Street Services,Life Insurance Expense,302,373,419,0
+1001,43740,764,520520,General Fund,DPW ‐ Street Services,Life Insurance Expense,1,0,0,0
+1001,43740,765,520520,General Fund,DPW ‐ Street Services,Life Insurance Expense,113,111,126,126
+1001,43740,766,520520,General Fund,DPW ‐ Street Services,Life Insurance Expense,121,149,167,0
+1001,43740,101,520521,General Fund,DPW ‐ Street Services,Health Insurance Expense,37175,30272,29621,29621
+1001,43740,761,520521,General Fund,DPW ‐ Street Services,Health Insurance Expense,55926,67210,86007,0
+1001,43740,765,520521,General Fund,DPW ‐ Street Services,Health Insurance Expense,16778,20163,20864,22292
+1001,43740,766,520521,General Fund,DPW ‐ Street Services,Health Insurance Expense,22371,26884,27818,0
+1001,43740,101,520522,General Fund,DPW ‐ Street Services,Social Security Expense,10160,10694,11395,11202
+1001,43740,761,520522,General Fund,DPW ‐ Street Services,Social Security Expense,12512,15063,18165,0
+1001,43740,764,520522,General Fund,DPW ‐ Street Services,Social Security Expense,10,0,0,0
+1001,43740,765,520522,General Fund,DPW ‐ Street Services,Social Security Expense,11382,11877,13944,4976
+1001,43740,766,520522,General Fund,DPW ‐ Street Services,Social Security Expense,4960,5747,7018,0
+1001,43740,101,520523,General Fund,DPW ‐ Street Services,Medicare Expense,2376,2501,2665,2620
+1001,43740,761,520523,General Fund,DPW ‐ Street Services,Medicare Expense,2926,3523,4248,0
+1001,43740,764,520523,General Fund,DPW ‐ Street Services,Medicare Expense,2,0,0,0
+1001,43740,765,520523,General Fund,DPW ‐ Street Services,Medicare Expense,2662,2777,3261,1164
+1001,43740,766,520523,General Fund,DPW ‐ Street Services,Medicare Expense,1160,1344,1641,0
+1001,43740,101,520527,General Fund,DPW ‐ Street Services,IMRF Contributions,16782,11303,15656,14459
+1001,43740,761,520527,General Fund,DPW ‐ Street Services,IMRF Contributions,21243,16784,25812,0
+1001,43740,764,520527,General Fund,DPW ‐ Street Services,IMRF Contributions,16,0,0,0
+1001,43740,765,520527,General Fund,DPW ‐ Street Services,IMRF Contributions,19035,13161,19813,6694
+1001,43740,766,520527,General Fund,DPW ‐ Street Services,IMRF Contributions,8444,6411,9973,0
+1001,43740,101,530650,General Fund,DPW ‐ Street Services,Conferences Training,3762,4037,5000,5000
+1001,43740,761,530660,General Fund,DPW ‐ Street Services,General Contractuals,307432,233703,255000,207000
+1001,43740,765,530660,General Fund,DPW ‐ Street Services,General Contractuals,0,0,0,0
+1001,43740,761,530667,General Fund,DPW ‐ Street Services,External Support,0,0,0,0
+1001,43740,765,530667,General Fund,DPW ‐ Street Services,External Support,47824,52370,84300,84800
+1001,43740,101,550602,General Fund,DPW ‐ Street Services,Membership Dues,200,190,200,200
+1001,43740,101,550632,General Fund,DPW ‐ Street Services,Laundry Service,1932,1925,2500,2500
+1001,43740,761,550673,General Fund,DPW ‐ Street Services,Repairs,223,388,1000,1000
+1001,43740,101,560620,General Fund,DPW ‐ Street Services,Office Supplies,128,200,200,200
+1001,43740,101,560625,General Fund,DPW ‐ Street Services,Clothing,2500,2380,3000,3000
+1001,43740,761,560631,General Fund,DPW ‐ Street Services,Operational Supplies,16935,6713,10000,10000
+1001,43740,765,560631,General Fund,DPW ‐ Street Services,Operational Supplies,1786,1395,2000,2000
+1001,43740,761,560633,General Fund,DPW ‐ Street Services,Roadway Maintenance,38148,31242,53500,0
+1001,43740,765,560633,General Fund,DPW ‐ Street Services,Roadway Maintenance,140564,187809,341000,0
+1001,43740,761,560634,General Fund,DPW ‐ Street Services,Sign Replacement,45529,41080,50000,50000
+1001,43740,761,570710,General Fund,DPW ‐ Street Services,Equipment,0,0,2600,2600
+1001,43790,101,510501,General Fund,DPW ‐ Building Maintenance,Regular Salaries,159414,164310,167595,163507
+1001,43790,101,510503,General Fund,DPW ‐ Building Maintenance,Overtime,0,0,0,0
+1001,43790,101,520520,General Fund,DPW ‐ Building Maintenance,Life Insurance Expense,196,187,186,186
+1001,43790,101,520521,General Fund,DPW ‐ Building Maintenance,Health Insurance Expense,42330,41289,40401,40401
+1001,43790,101,520522,General Fund,DPW ‐ Building Maintenance,Social Security Expense,8955,9247,10391,10137
+1001,43790,101,520523,General Fund,DPW ‐ Building Maintenance,Medicare Expense,2094,2163,2430,2371
+1001,43790,101,520527,General Fund,DPW ‐ Building Maintenance,IMRF Contributions,15740,10647,14765,13637
+1001,43790,101,530650,General Fund,DPW ‐ Building Maintenance,Conferences Training,328,895,500,500
+1001,43790,711,530660,General Fund,DPW ‐ Building Maintenance,General Contractuals,236199,245219,252600,243000
+1001,43790,712,530660,General Fund,DPW ‐ Building Maintenance,General Contractuals,64672,21479,0,0
+1001,43790,713,530660,General Fund,DPW ‐ Building Maintenance,General Contractuals,118712,133201,184350,194000
+1001,43790,714,530660,General Fund,DPW ‐ Building Maintenance,General Contractuals,12911,23641,26750,24110
+1001,43790,717,530660,General Fund,DPW ‐ Building Maintenance,General Contractuals,17938,22086,26700,26310
+1001,43790,101,540674,General Fund,DPW ‐ Building Maintenance,Property Repair,70963,8380,0,0
+1001,43790,711,540674,General Fund,DPW ‐ Building Maintenance,Property Repair,38951,71525,65000,65000
+1001,43790,712,540674,General Fund,DPW ‐ Building Maintenance,Property Repair,3329,515,0,0
+1001,43790,713,540674,General Fund,DPW ‐ Building Maintenance,Property Repair,21465,42468,45000,45000
+1001,43790,714,540674,General Fund,DPW ‐ Building Maintenance,Property Repair,7221,11301,10000,10000
+1001,43790,717,540674,General Fund,DPW ‐ Building Maintenance,Property Repair,1622,1484,3000,1500
+1001,43790,711,540691,General Fund,DPW ‐ Building Maintenance,Water Charges,45628,38908,38000,40000
+1001,43790,713,540691,General Fund,DPW ‐ Building Maintenance,Water Charges,5513,3727,6000,5000
+1001,43790,714,540691,General Fund,DPW ‐ Building Maintenance,Water Charges,7406,5419,7000,7000
+1001,43790,717,540691,General Fund,DPW ‐ Building Maintenance,Water Charges,262,173,500,500
+1001,43790,713,540692,General Fund,DPW ‐ Building Maintenance,Electricity,119727,136629,135000,135000
+1001,43790,714,540692,General Fund,DPW ‐ Building Maintenance,Electricity,7328,7268,10000,10000
+1001,43790,717,540692,General Fund,DPW ‐ Building Maintenance,Electricity,0,0,0,0
+1001,43790,717,540693,General Fund,DPW ‐ Building Maintenance,Natural Gas,635,629,500,650
+1001,43790,101,560625,General Fund,DPW ‐ Building Maintenance,Clothing,192,0,300,300
+1001,43790,711,560627,General Fund,DPW ‐ Building Maintenance,Building Materials,32336,24067,40000,40000
+1001,43790,712,560627,General Fund,DPW ‐ Building Maintenance,Building Materials,196,207,0,0
+1001,43790,713,560627,General Fund,DPW ‐ Building Maintenance,Building Materials,17234,13052,25000,35000
+1001,43790,714,560627,General Fund,DPW ‐ Building Maintenance,Building Materials,523,255,2500,2500
+1001,43790,717,560627,General Fund,DPW ‐ Building Maintenance,Building Materials,242,245,500,500
+1001,43800,101,510501,General Fund,DPW ‐ Forestry,Regular Salaries,139161,136929,160569,157991
+1001,43800,741,510501,General Fund,DPW ‐ Forestry,Regular Salaries,168629,98565,114206,111296
+1001,43800,101,510503,General Fund,DPW ‐ Forestry,Overtime,3119,1099,5000,5000
+1001,43800,741,510503,General Fund,DPW ‐ Forestry,Overtime,1780,642,5000,10000
+1001,43800,101,510518,General Fund,DPW ‐ Forestry,Seasonal Employees,0,487,12554,0
+1001,43800,101,510506,General Fund,DPW ‐ Forestry,"Equip Allow (Auto,Phone,Tools)",299,0,0,0
+1001,43800,101,510519,General Fund,DPW ‐ Forestry,Vacation Time Payout,192,7387,0,0
+1001,43800,101,520520,General Fund,DPW ‐ Forestry,Life Insurance Expense,159,145,186,186
+1001,43800,741,520520,General Fund,DPW ‐ Forestry,Life Insurance Expense,277,150,186,177
+1001,43800,101,520521,General Fund,DPW ‐ Forestry,Health Insurance Expense,32652,30919,40232,47688
+1001,43800,741,520521,General Fund,DPW ‐ Forestry,Health Insurance Expense,50042,29662,34376,38220
+1001,43800,101,520522,General Fund,DPW ‐ Forestry,Social Security Expense,8005,7836,10265,10105
+1001,43800,741,520522,General Fund,DPW ‐ Forestry,Social Security Expense,9986,6198,7701,7520
+1001,43800,101,520523,General Fund,DPW ‐ Forestry,Medicare Expense,1872,1833,2401,2363
+1001,43800,741,520523,General Fund,DPW ‐ Forestry,Medicare Expense,2335,1449,1801,1759
+1001,43800,101,520527,General Fund,DPW ‐ Forestry,IMRF Contributions,13033,7909,13513,12374
+1001,43800,741,520527,General Fund,DPW ‐ Forestry,IMRF Contributions,16869,6907,10943,10116
+1001,43800,101,530650,General Fund,DPW ‐ Forestry,Conferences Training,3554,4377,5675,3000
+1001,43800,742,530660,General Fund,DPW ‐ Forestry,General Contractuals,301849,316213,384200,255500
+1001,43800,101,530667,General Fund,DPW ‐ Forestry,External Support,25999,27051,27500,27500
+1001,43800,741,530667,General Fund,DPW ‐ Forestry,External Support,432182,450456,710000,630000
+1001,43800,101,540691,General Fund,DPW ‐ Forestry,Water Charges,0,0,0,0
+1001,43800,742,540691,General Fund,DPW ‐ Forestry,Water Charges,5594,8077,6000,4000
+1001,43800,101,540690,General Fund,DPW ‐ Forestry,Telecommunication Charges,281,28,0,0
+1001,43800,101,550602,General Fund,DPW ‐ Forestry,Membership Dues,2157,1845,2485,2575
+1001,43800,101,550603,General Fund,DPW ‐ Forestry,Postage,253,355,500,500
+1001,43800,101,550632,General Fund,DPW ‐ Forestry,Laundry Service,1137,1497,1500,0
+1001,43800,101,550652,General Fund,DPW ‐ Forestry,Legal Postings and Doc. Fees,126,133,400,400
+1001,43800,101,550663,General Fund,DPW ‐ Forestry,Software License Updates,0,0,180,180
+1001,43800,741,550673,General Fund,DPW ‐ Forestry,Repairs,0,0,0,0
+1001,43800,101,560625,General Fund,DPW ‐ Forestry,Clothing,545,1088,1250,3000
+1001,43800,101,560631,General Fund,DPW ‐ Forestry,Operational Supplies,8146,11804,15000,10000
+1001,43800,742,560631,General Fund,DPW ‐ Forestry,Operational Supplies,1866,0,0,0
+1001,43800,741,560670,General Fund,DPW ‐ Forestry,Equipment Rental,0,0,0,0
+1001,43900,101,510501,General Fund,DPW ‐ Fleet Operations,Regular Salaries,183122,184327,185635,185564
+1001,43900,731,510501,General Fund,DPW ‐ Fleet Operations,Regular Salaries,83011,88124,87522,90234
+1001,43900,732,510501,General Fund,DPW ‐ Fleet Operations,Regular Salaries,140082,143905,147693,152269
+1001,43900,733,510501,General Fund,DPW ‐ Fleet Operations,Regular Salaries,191964,197202,202394,180467
+1001,43900,734,510501,General Fund,DPW ‐ Fleet Operations,Regular Salaries,103765,107106,109402,112792
+1001,43900,101,510503,General Fund,DPW ‐ Fleet Operations,Overtime,1708,1580,5000,10000
+1001,43900,731,510503,General Fund,DPW ‐ Fleet Operations,Overtime,294,428,0,0
+1001,43900,732,510503,General Fund,DPW ‐ Fleet Operations,Overtime,495,722,0,0
+1001,43900,733,510503,General Fund,DPW ‐ Fleet Operations,Overtime,679,990,0,0
+1001,43900,734,510503,General Fund,DPW ‐ Fleet Operations,Overtime,367,535,0,0
+1001,43900,731,510515,General Fund,DPW ‐ Fleet Operations,Comp Time,278,0,0,0
+1001,43900,732,510515,General Fund,DPW ‐ Fleet Operations,Comp Time,469,823,0,0
+1001,43900,733,510515,General Fund,DPW ‐ Fleet Operations,Comp Time,643,1128,0,0
+1001,43900,734,510515,General Fund,DPW ‐ Fleet Operations,Comp Time,348,609,0,0
+1001,43900,101,510518,General Fund,DPW ‐ Fleet Operations,Seasonal Employees,0,3175,0,0
+1001,43900,101,510506,General Fund,DPW ‐ Fleet Operations,"Equip Allow (Auto,Phone,Tools)",1305,1505,1505,0
+1001,43900,731,510506,General Fund,DPW ‐ Fleet Operations,"Equip Allow (Auto,Phone,Tools)",768,960,959,959
+1001,43900,732,510506,General Fund,DPW ‐ Fleet Operations,"Equip Allow (Auto,Phone,Tools)",1296,1620,1610,1610
+1001,43900,733,510506,General Fund,DPW ‐ Fleet Operations,"Equip Allow (Auto,Phone,Tools)",1776,2220,2240,2240
+1001,43900,734,510506,General Fund,DPW ‐ Fleet Operations,"Equip Allow (Auto,Phone,Tools)",960,1200,1190,0
+1001,43900,731,520515,General Fund,DPW ‐ Fleet Operations,Health Insurance Opt‐Out,43,0,0,0
+1001,43900,732,520515,General Fund,DPW ‐ Fleet Operations,Health Insurance Opt‐Out,0,0,0,0
+1001,43900,733,520515,General Fund,DPW ‐ Fleet Operations,Health Insurance Opt‐Out,0,0,0,0
+1001,43900,734,520515,General Fund,DPW ‐ Fleet Operations,Health Insurance Opt‐Out,0,0,0,0
+1001,43900,101,520520,General Fund,DPW ‐ Fleet Operations,Life Insurance Expense,195,187,186,186
+1001,43900,731,520520,General Fund,DPW ‐ Fleet Operations,Life Insurance Expense,124,119,119,119
+1001,43900,732,520520,General Fund,DPW ‐ Fleet Operations,Life Insurance Expense,209,201,201,201
+1001,43900,733,520520,General Fund,DPW ‐ Fleet Operations,Life Insurance Expense,287,277,275,238
+1001,43900,734,520520,General Fund,DPW ‐ Fleet Operations,Life Insurance Expense,155,149,149,149
+1001,43900,101,520521,General Fund,DPW ‐ Fleet Operations,Health Insurance Expense,39441,38471,37644,37644
+1001,43900,731,520521,General Fund,DPW ‐ Fleet Operations,Health Insurance Expense,21802,21393,20933,20933
+1001,43900,732,520521,General Fund,DPW ‐ Fleet Operations,Health Insurance Expense,36791,36100,35324,35324
+1001,43900,733,520521,General Fund,DPW ‐ Fleet Operations,Health Insurance Expense,50417,49471,48407,41866
+1001,43900,734,520521,General Fund,DPW ‐ Fleet Operations,Health Insurance Expense,27253,26742,26166,26166
+1001,43900,101,520522,General Fund,DPW ‐ Fleet Operations,Social Security Expense,10317,10785,11819,12125
+1001,43900,731,520522,General Fund,DPW ‐ Fleet Operations,Social Security Expense,4790,5119,5426,5594
+1001,43900,732,520522,General Fund,DPW ‐ Fleet Operations,Social Security Expense,8079,8379,9157,9441
+1001,43900,733,520522,General Fund,DPW ‐ Fleet Operations,Social Security Expense,11072,11482,12548,11189
+1001,43900,734,520522,General Fund,DPW ‐ Fleet Operations,Social Security Expense,5985,6207,6783,6993
+1001,43900,101,520523,General Fund,DPW ‐ Fleet Operations,Medicare Expense,2413,2522,2765,2836
+1001,43900,731,520523,General Fund,DPW ‐ Fleet Operations,Medicare Expense,1120,1197,1269,1308
+1001,43900,732,520523,General Fund,DPW ‐ Fleet Operations,Medicare Expense,1889,1959,2142,2208
+1001,43900,733,520523,General Fund,DPW ‐ Fleet Operations,Medicare Expense,2589,2685,2935,2617
+1001,43900,734,520523,General Fund,DPW ‐ Fleet Operations,Medicare Expense,1400,1451,1586,1635
+1001,43900,101,520527,General Fund,DPW ‐ Fleet Operations,IMRF Contributions,17827,12046,16795,16310
+1001,43900,731,520527,General Fund,DPW ‐ Fleet Operations,IMRF Contributions,8252,5770,7711,7525
+1001,43900,732,520527,General Fund,DPW ‐ Fleet Operations,IMRF Contributions,13918,9425,13012,12699
+1001,43900,733,520527,General Fund,DPW ‐ Fleet Operations,IMRF Contributions,19073,12915,17831,15051
+1001,43900,734,520527,General Fund,DPW ‐ Fleet Operations,IMRF Contributions,10310,6981,9638,9407
+1001,43900,101,530650,General Fund,DPW ‐ Fleet Operations,Conferences Training,9251,8074,9420,5000
+1001,43900,101,530667,General Fund,DPW ‐ Fleet Operations,External Support,0,750,1700,1950
+1001,43900,731,530667,General Fund,DPW ‐ Fleet Operations,External Support,13830,12416,15000,15000
+1001,43900,732,530667,General Fund,DPW ‐ Fleet Operations,External Support,14530,23076,20000,30000
+1001,43900,733,530667,General Fund,DPW ‐ Fleet Operations,External Support,24808,13858,50000,30000
+1001,43900,734,530667,General Fund,DPW ‐ Fleet Operations,External Support,14705,3965,10000,7000
+1001,43900,733,540693,General Fund,DPW ‐ Fleet Operations,Natural Gas,0,0,0,0
+1001,43900,734,540693,General Fund,DPW ‐ Fleet Operations,Natural Gas,0,0,0,0
+1001,43900,101,550601,General Fund,DPW ‐ Fleet Operations,Printing,0,25,0,0
+1001,43900,101,550602,General Fund,DPW ‐ Fleet Operations,Membership Dues,1861,2638,2888,2842
+1001,43900,101,550603,General Fund,DPW ‐ Fleet Operations,Postage,992,1033,1100,1100
+1001,43900,101,550605,General Fund,DPW ‐ Fleet Operations,Travel & Mileage Reimbursement,80,180,200,200
+1001,43900,101,550632,General Fund,DPW ‐ Fleet Operations,Laundry Service,4380,5324,4000,5750
+1001,43900,101,550652,General Fund,DPW ‐ Fleet Operations,Legal Postings and Doc. Fees,112,142,300,300
+1001,43900,101,550671,General Fund,DPW ‐ Fleet Operations,Office Machine Service,451,0,1000,1000
+1001,43900,101,560620,General Fund,DPW ‐ Fleet Operations,Office Supplies,1509,1351,1500,1500
+1001,43900,101,560625,General Fund,DPW ‐ Fleet Operations,Clothing,1337,1974,1500,1500
+1001,43900,713,560627,General Fund,DPW ‐ Fleet Operations,Building Materials,0,0,0,0
+1001,43900,101,560631,General Fund,DPW ‐ Fleet Operations,Operational Supplies,14824,16984,17200,17000
+1001,43900,731,560636,General Fund,DPW ‐ Fleet Operations,Fuel,36340,31493,40000,32000
+1001,43900,732,560636,General Fund,DPW ‐ Fleet Operations,Fuel,145848,147057,150000,150000
+1001,43900,733,560636,General Fund,DPW ‐ Fleet Operations,Fuel,71070,80688,75000,75000
+1001,43900,734,560636,General Fund,DPW ‐ Fleet Operations,Fuel,70354,80566,80000,84000
+1001,43900,101,560637,General Fund,DPW ‐ Fleet Operations,Vehicle Equipment Parts,0,0,0,0
+1001,43900,731,560637,General Fund,DPW ‐ Fleet Operations,Vehicle Equipment Parts,42126,28025,35000,33000
+1001,43900,732,560637,General Fund,DPW ‐ Fleet Operations,Vehicle Equipment Parts,63302,50609,75000,60000
+1001,43900,733,560637,General Fund,DPW ‐ Fleet Operations,Vehicle Equipment Parts,79867,73880,90000,80000
+1001,43900,734,560637,General Fund,DPW ‐ Fleet Operations,Vehicle Equipment Parts,21236,17793,25000,25000
+1001,43900,731,560644,General Fund,DPW ‐ Fleet Operations,Lubricants,2429,2416,3500,3000
+1001,43900,732,560644,General Fund,DPW ‐ Fleet Operations,Lubricants,1805,1766,3500,3000
+1001,43900,733,560644,General Fund,DPW ‐ Fleet Operations,Lubricants,2418,2108,3500,3000
+1001,43900,734,560644,General Fund,DPW ‐ Fleet Operations,Lubricants,2396,2108,2500,2500
+1001,43900,101,570720,General Fund,DPW ‐ Fleet Operations,Computer Equipment,23,2500,2500,0
+1001,41100,101,510501,General Fund,Village Clerk's Office (VCO),Regular Salaries,132985,134410,137267,139867
+1001,41100,101,520520,General Fund,Village Clerk's Office (VCO),Life Insurance Expense,196,187,186,186
+1001,41100,101,520521,General Fund,Village Clerk's Office (VCO),Health Insurance Expense,31272,30737,29847,40401
+1001,41100,101,520522,General Fund,Village Clerk's Office (VCO),Social Security Expense,7689,7811,8511,8672
+1001,41100,101,520523,General Fund,Village Clerk's Office (VCO),Medicare Expense,1798,1827,1990,2028
+1001,41100,101,520527,General Fund,Village Clerk's Office (VCO),IMRF Contributions,13133,8710,12093,11665
+1001,41100,101,530650,General Fund,Village Clerk's Office (VCO),Conferences Training,730,1305,1500,1200
+1001,41100,101,530658,General Fund,Village Clerk's Office (VCO),Temporary Services,0,0,0,0
+1001,41100,101,530667,General Fund,Village Clerk's Office (VCO),External Support,17938,12327,17000,14000
+1001,41100,101,550601,General Fund,Village Clerk's Office (VCO),Printing,90,0,125,125
+1001,41100,101,550602,General Fund,Village Clerk's Office (VCO),Membership Dues,320,290,350,350
+1001,41100,101,550603,General Fund,Village Clerk's Office (VCO),Postage,152,60,175,75
+1001,41100,101,550604,General Fund,Village Clerk's Office (VCO),Freight & Shipping Expense,0,0,0,0
+1001,41100,101,550605,General Fund,Village Clerk's Office (VCO),Travel & Mileage Reimbursement,951,593,1500,1000
+1001,41100,101,550652,General Fund,Village Clerk's Office (VCO),Legal Postings and Doc. Fees,0,0,600,600
+1001,41100,101,560620,General Fund,Village Clerk's Office (VCO),Office Supplies,722,832,2500,2500
+1001,41100,113,560620,General Fund,Village Clerk's Office (VCO),Office Supplies,0,0,0,0
+1001,41100,101,570711,General Fund,Village Clerk's Office (VCO),Software,0,0,17000,17000
+1001,41010,101,510501,General Fund,Board of Trustees,Regular Salaries,92052,107545,115200,115200
+1001,41010,101,520520,General Fund,Board of Trustees,Life Insurance Expense,0,0,0,0
+1001,41010,101,520522,General Fund,Board of Trustees,Social Security Expense,4245,6002,7142,7142
+1001,41010,101,520523,General Fund,Board of Trustees,Medicare Expense,993,1404,1670,1670
+1001,41010,101,530650,General Fund,Board of Trustees,Conferences Training,228,3613,4400,1500
+1001,41010,101,550601,General Fund,Board of Trustees,Printing,0,0,0,0
+1001,41010,101,550602,General Fund,Board of Trustees,Membership Dues,10158,4353,11247,11247
+1001,41010,101,550603,General Fund,Board of Trustees,Postage,2,28,100,75
+1001,41010,101,550605,General Fund,Board of Trustees,Travel & Mileage Reimbursement,0,0,100,50
+1001,41010,101,550606,General Fund,Board of Trustees,Books & Subscriptions,0,0,200,200
+1001,41010,101,550656,General Fund,Board of Trustees,Miscellaneous Expense,134,0,250,200
+1001,41010,101,560620,General Fund,Board of Trustees,Office Supplies,217,1223,1500,6500
+1001,41010,101,560631,General Fund,Board of Trustees,Operational Supplies,0,235,1000,1000
+1001,41010,101,560638,General Fund,Board of Trustees,Special Events,960,1671,1500,2000
+1001,41010,101,560651,General Fund,Board of Trustees,Employee Awards Recognition,48,0,0,0
+2200,42490,101,560625,Bullet Proof Vest Grant,POLICE ‐ Grants,Clothing,7226,16193,4500,5500
+2083,46201,101,510501,Community Dev Block Grant,DCS ‐ Neig. Srv. ‐ CDBG,Regular Salaries,128112,124633,132617,148308
+2083,46201,101,510503,Community Dev Block Grant,DCS ‐ Neig. Srv. ‐ CDBG,Overtime,0,0,125,0
+2083,46201,101,520520,Community Dev Block Grant,DCS ‐ Neig. Srv. ‐ CDBG,Life Insurance Expense,0,0,177,186
+2083,46201,101,520521,Community Dev Block Grant,DCS ‐ Neig. Srv. ‐ CDBG,Health Insurance Expense,30616,29328,28518,37134
+2083,46201,101,520522,Community Dev Block Grant,DCS ‐ Neig. Srv. ‐ CDBG,Social Security Expense,7907,7628,8222,9055
+2083,46201,101,520523,Community Dev Block Grant,DCS ‐ Neig. Srv. ‐ CDBG,Medicare Expense,1849,1784,1924,2117
+2083,46201,101,520527,Community Dev Block Grant,DCS ‐ Neig. Srv. ‐ CDBG,IMRF Contributions,17888,7923,11683,12180
+2083,46201,101,530650,Community Dev Block Grant,DCS ‐ Neig. Srv. ‐ CDBG,Conferences Training,4367,5137,0,0
+2083,46201,101,530675,Community Dev Block Grant,DCS ‐ Neig. Srv. ‐ CDBG,Bank Charges,0,968,972,972
+2083,46201,101,550601,Community Dev Block Grant,DCS ‐ Neig. Srv. ‐ CDBG,Printing,588,0,0,0
+2083,46201,101,550602,Community Dev Block Grant,DCS ‐ Neig. Srv. ‐ CDBG,Membership Dues,550,550,0,0
+2083,46201,101,550603,Community Dev Block Grant,DCS ‐ Neig. Srv. ‐ CDBG,Postage,336,70,0,0
+2083,46201,101,550605,Community Dev Block Grant,DCS ‐ Neig. Srv. ‐ CDBG,Travel & Mileage Reimbursement,23,10,0,0
+2083,46201,101,550652,Community Dev Block Grant,DCS ‐ Neig. Srv. ‐ CDBG,Legal Postings and Doc. Fees,819,1428,0,0
+2083,46201,101,560620,Community Dev Block Grant,DCS ‐ Neig. Srv. ‐ CDBG,Office Supplies,545,220,0,0
+2083,46201,101,583602,Community Dev Block Grant,DCS ‐ Neig. Srv. ‐ CDBG,Administration Village,0,0,20100,20100
+2083,46201,101,583604,Community Dev Block Grant,DCS ‐ Neig. Srv. ‐ CDBG,African American Christian Foundation,2655,500,0,750
+2083,46201,101,583605,Community Dev Block Grant,DCS ‐ Neig. Srv. ‐ CDBG,Way Back Inn,5645,3174,2847,3000
+2083,46201,101,583600,Community Dev Block Grant,DCS ‐ Neig. Srv. ‐ CDBG,Way Back Inn Facility Improvement,0,0,0,6740
+2083,46201,101,583608,Community Dev Block Grant,DCS ‐ Neig. Srv. ‐ CDBG,Housing Ctr Planning Support,86609,104665,90438,90438
+2083,46201,101,583616,Community Dev Block Grant,DCS ‐ Neig. Srv. ‐ CDBG,Children's Clinic,17509,27816,22000,22000
+2083,46201,101,583617,Community Dev Block Grant,DCS ‐ Neig. Srv. ‐ CDBG,Community Support Services,0,8202,6500,7500
+2083,46201,101,583619,Community Dev Block Grant,DCS ‐ Neig. Srv. ‐ CDBG,Day Nursery,0,0,7500,3000
+2083,46201,101,583618,Community Dev Block Grant,DCS ‐ Neig. Srv. ‐ CDBG,OPRF Food Pantry (Beyond Hunger),17887,16711,16631,22000
+2083,46201,101,583621,Community Dev Block Grant,DCS ‐ Neig. Srv. ‐ CDBG,Thrive Counseling Center,0,0,12000,13500
+2083,46201,101,583622,Community Dev Block Grant,DCS ‐ Neig. Srv. ‐ CDBG,Nami Metro Suburban,9844,13908,11000,11000
+2083,46201,101,583624,Community Dev Block Grant,DCS ‐ Neig. Srv. ‐ CDBG,Oakleyden,0,18000,15600,0
+2083,46201,101,583625,Community Dev Block Grant,DCS ‐ Neig. Srv. ‐ CDBG,Seguin,20300,22000,24400,32000
+2083,46201,101,583626,Community Dev Block Grant,DCS ‐ Neig. Srv. ‐ CDBG,West Cook YMCA,12931,12695,12000,12000
+2083,46201,101,583628,Community Dev Block Grant,DCS ‐ Neig. Srv. ‐ CDBG,Parenthesis‐Mothering,15927,18718,18500,18500
+2083,46201,101,583630,Community Dev Block Grant,DCS ‐ Neig. Srv. ‐ CDBG,VOP Health Department,9889,11701,13000,13000
+2083,46201,101,583609,Community Dev Block Grant,DCS ‐ Neig. Srv. ‐ CDBG,CARES Housing Assistance,0,0,0,200000
+2083,46201,101,583610,Community Dev Block Grant,DCS ‐ Neig. Srv. ‐ CDBG,CARES Business Assistance,0,0,0,250000
+2083,46201,101,583611,Community Dev Block Grant,DCS ‐ Neig. Srv. ‐ CDBG,CARES Public Services Assistance,0,0,0,50000
+2083,46201,101,583629,Community Dev Block Grant,DCS ‐ Neig. Srv. ‐ CDBG,CARES Admin/Implementation,0,0,0,77647
+2083,46201,101,583635,Community Dev Block Grant,DCS ‐ Neig. Srv. ‐ CDBG,VOP Code Enforcement Prop Insp,46862,95440,75000,75000
+2083,46201,101,583640,Community Dev Block Grant,DCS ‐ Neig. Srv. ‐ CDBG,Hephzibah,15222,16553,16000,16000
+2083,46201,101,583651,Community Dev Block Grant,DCS ‐ Neig. Srv. ‐ CDBG,VOP Street & Sidewalks,594132,118719,105000,405000
+2083,46201,101,583654,Community Dev Block Grant,DCS ‐ Neig. Srv. ‐ CDBG,VOP PW ‐ Sidewalks II,0,0,0,0
+2083,46201,101,583655,Community Dev Block Grant,DCS ‐ Neig. Srv. ‐ CDBG,Lead Water Private Service Replacement,0,0,50000,50000
+2083,46201,101,583656,Community Dev Block Grant,DCS ‐ Neig. Srv. ‐ CDBG,VOP PW Infra ‐ Sidewalks,200000,278751,300000,200000
+2083,46201,101,583657,Community Dev Block Grant,DCS ‐ Neig. Srv. ‐ CDBG,VOP PW ‐ Alley,171515,300000,300000,400000
+2083,46201,101,583660,Community Dev Block Grant,DCS ‐ Neig. Srv. ‐ CDBG,Oak Park Housing Center,56569,75305,73000,73000
+2083,46201,101,583676,Community Dev Block Grant,DCS ‐ Neig. Srv. ‐ CDBG,Housing Forward‐ Planning & Admin.,0,0,11000,11000
+2083,46201,101,583678,Community Dev Block Grant,DCS ‐ Neig. Srv. ‐ CDBG,PADS‐Employment Readiness,12184,12274,10000,10000
+2083,46201,101,583680,Community Dev Block Grant,DCS ‐ Neig. Srv. ‐ CDBG,Pads Emergency Shelter,17678,15410,13000,30000
+2083,46201,101,583681,Community Dev Block Grant,DCS ‐ Neig. Srv. ‐ CDBG,Sarahs Inn Emergency Shelter,7549,13908,11000,11000
+2083,46201,101,583682,Community Dev Block Grant,DCS ‐ Neig. Srv. ‐ CDBG,OP Housing Authority,0,119954,0,0
+2083,46201,101,583697,Community Dev Block Grant,DCS ‐ Neig. Srv. ‐ CDBG,S108 Loan Consultant Fees,4200,0,52622,52622
+2083,46201,101,585611,Community Dev Block Grant,DCS ‐ Neig. Srv. ‐ CDBG,VOP HP SFR/SRR Imp.,89327,68501,85894,85900
+2083,46201,101,585612,Community Dev Block Grant,DCS ‐ Neig. Srv. ‐ CDBG,Housing Rehab Property Grants (Lead Hazard Red. Grant Prog.),37489,37490,99064,99150
+2083,46206,101,585613,Community Dev Block Grant,DCS ‐ Neig. Srv. ‐ CDBG,VOPHP Sg FamHousing Rehab Loan,0,0,108000,108000
+2083,46201,101,585617,Community Dev Block Grant,DCS ‐ Neig. Srv. ‐ CDBG,VOP HP Small Rental Rehab,39810,0,90946,90950
+2020,46206,101,530675,Community Development Loan,DCS ‐ Neighborhood Services,Bank Charges,89,1179,1200,1200
+2020,46206,101,585613,Community Development Loan,DCS ‐ Neighborhood Services,Housing Rehab Property Loan,0,0,179000,175000
+2079,46206,101,585612,Cook County Lead Hazard Prevention DCS,DCS Neighborhood Services,Lead Hazard Control Grants,0,64100,80000,80000
+5057,43760,101,530667,Earth Fest,DPW ‐ Environmental Services,External Support,3574,4386,5600,5600
+5057,43760,101,560620,Earth Fest,DPW ‐ Environmental Services,Office Supplies,268,0,400,400
+5057,43760,101,560631,Earth Fest,DPW ‐ Environmental Services,Operational Supplies,887,0,1000,1000
+2080,46201,101,530675,Emergency Solutions Grant,DCS ‐ Neig. Serv.,Bank Charges,0,965,972,0
+2080,46201,101,583602,Emergency Solutions Grant,DCS ‐ Neig. Serv.,Administration Village,9918,9266,8047,0
+2080,46201,101,583701,Emergency Solutions Grant,DCS ‐ Neig. Serv.,ESG WS PADS ‐ Rapid Rehousing,48613,33524,31500,0
+2080,46201,101,583702,Emergency Solutions Grant,DCS ‐ Neig. Serv.,ESG WS PADS ‐ Emergency Shelter,22118,45423,24375,0
+2080,46201,101,583704,Emergency Solutions Grant,DCS ‐ Neig. Serv.,ESG WS PADS ‐ Homeless Prev,18658,21624,20016,0
+2080,46201,101,583705,Emergency Solutions Grant,DCS ‐ Neig. Serv.,ESG WS PADS ‐ Street Outreach,17765,17380,15750,0
+2080,46201,101,583707,Emergency Solutions Grant,DCS ‐ Neig. Serv.,ESG ‐ HMIS,9534,10287,7608,0
+2027,43014,101,510501,Farmers Market Com,HEALTH ‐ Farmer's Market,Regular Salaries,4870,22548,24813,24813
+2027,43014,101,510503,Farmers Market Com,HEALTH ‐ Farmer's Market,Overtime,0,0,2057,2057
+2027,43014,101,520522,Farmers Market Com,HEALTH ‐ Farmer's Market,Social Security Expense,296,1398,1551,1538
+2027,43014,101,520523,Farmers Market Com,HEALTH ‐ Farmer's Market,Medicare Expense,69,327,360,360
+2027,43014,101,520527,Farmers Market Com,HEALTH ‐ Farmer's Market,IMRF Contributions,61,0,0,0
+2027,43014,101,530667,Farmers Market Com,HEALTH ‐ Farmer's Market,External Support,18623,0,0,0
+2027,43014,101,530675,Farmers Market Com,HEALTH ‐ Farmer's Market,Bank Charges,483,374,600,600
+2027,43014,101,530851,Farmers Market Com,HEALTH ‐ Farmer's Market,Crossing Guard Sharing Program,10668,11000,11250,0
+2027,43014,101,540669,Farmers Market Com,HEALTH ‐ Farmer's Market,Rent Expense,5019,5095,5171,5249
+2027,43014,101,550601,Farmers Market Com,HEALTH ‐ Farmer's Market,Printing,0,0,300,300
+2027,43014,101,550603,Farmers Market Com,HEALTH ‐ Farmer's Market,Postage,6,27,50,50
+2027,43014,101,550605,Farmers Market Com,HEALTH ‐ Farmer's Market,Travel & Mileage Reimbursement,0,20,1500,1500
+2027,43014,101,560631,Farmers Market Com,HEALTH ‐ Farmer's Market,Operational Supplies,4834,4663,5000,12100
+2027,43014,101,560638,Farmers Market Com,HEALTH ‐ Farmer's Market,Special Events,855,778,900,900
+2027,43014,101,560639,Farmers Market Com,HEALTH ‐ Farmer's Market,Advertising,36,500,500,500
+2024,41300,101,530675,Federal RICO Forfeiture Fund,POLICE,Bank Charges,0,1383,1380,1380
+2024,42400,101,560655,Federal RICO Forfeiture Fund,POLICE,Reimbursements,972,0,0,0
+2024,42480,101,550705,Federal RICO Forfeiture Fund,POLICE,Ammunition and Guns,1825,1962,2000,3000
+2024,42480,101,560631,Federal RICO Forfeiture Fund,POLICE,Operational Supplies,0,0,0,78000
+2024,42480,101,560637,Federal RICO Forfeiture Fund,POLICE,Vehicle Equipment Parts,0,0,0,0
+2024,42480,101,560652,Federal RICO Forfeiture Fund,POLICE,Employee Physicals,3841,5281,4500,0
+2024,42480,101,591832,Federal RICO Forfeiture Fund,POLICE,Transfer To Fleet Replacement,190000,229559,214000,277500
+2014,41300,101,530675,Foreign Fire Insurance Fund,FIRE ‐ Foreign Fire Insurance,Bank Charges,0,1383,1380,1380
+2014,42550,101,530660,Foreign Fire Insurance Fund,FIRE ‐ Foreign Fire Insurance,General Contractuals,6495,6899,10000,10000
+2014,42550,101,540689,Foreign Fire Insurance Fund,FIRE ‐ Foreign Fire Insurance,Cable Television,5883,9680,12000,12000
+2014,42550,101,570720,Foreign Fire Insurance Fund,FIRE ‐ Foreign Fire Insurance,Computer Equipment,631,39279,50000,50000
+2014,42550,101,570725,Foreign Fire Insurance Fund,FIRE ‐ Foreign Fire Insurance,Office Equipment,34725,47052,50000,50000
+2108,44560,101,510501,Cook County ‐ WNV Grant FY 2017,HEALTH ‐ Health Grants,Regular Salaries,0,5251,17000,10000
+2108,44560,101,520999,Cook County ‐ WNV Grant FY 2017,HEALTH ‐ Health Grants,Grant Admin. ‐ Benefits,0,2422,0,0
+2108,44560,101,560631,Cook County ‐ WNV Grant FY 2017,HEALTH ‐ Health Grants,Operational Supplies,0,1514,4000,2000
+2113,44560,101,510501,Cities Readiness Init 2011‐12,HEALTH ‐ Health Grants,Regular Salaries,0,0,0,0
+2113,44560,101,520999,Cities Readiness Init 2011‐12,HEALTH ‐ Health Grants,Grant Admin. ‐ Benefits,0,0,0,0
+2114,44560,101,510501,IDPH‐ Cities Readiness Init FY2018,HEALTH ‐ Health Grants,Regular Salaries,36757,36275,42000,42000
+2114,44560,101,520999,IDPH‐ Cities Readiness Init FY2018,HEALTH ‐ Health Grants,Grant Admin. ‐ Benefits,996,750,0,0
+2114,44560,101,520999,IDPH‐ Cities Readiness Init FY2019,HEALTH ‐ Health Grants,Grant Admin. ‐ Benefits,750,0,0,0
+2114,44560,101,530656,IDPH‐ Cities Readiness Init FY2018,HEALTH ‐ Health Grants,Grant Contractuals,0,0,2000,1000
+2114,44560,101,540690,IDPH‐ Cities Readiness Init FY2018,HEALTH ‐ Health Grants,Telecommunications Charges,1611,1810,3400,2900
+2114,44560,101,550605,IDPH‐Cities Readiness Init FY 2020,HEALTH ‐ Health Grants,Travel & Mileage Reimbursement,0,140,0,0
+2114,44560,101,550602,IDPH‐ Cities Readiness Init FY2018,HEALTH ‐ Health Grants,Membership Dues,2000,0,0,0
+2114,44560,101,560631,Cities Readiness Init 2019,HEALTH ‐ Health Grants,Operational Supplies,0,2859,2700,1200
+2117,44560,101,530656,CDBG Farmer's Market Incen. FY 2018,HEALTH ‐ Health Grants,Grant Contractuals,9865,11476,15000,15000
+2117,44560,101,550601,CDBG Farmer's Market Incen. FY 2018,HEALTH ‐ Health Grants,Printing,0,225,0,0
+2117,44560,101,560638,CDBG Farmer's Market Incen. FY 2017,HEALTH ‐ Health Grants,Special Events,0,0,0,0
+2118,44560,101,530656,Shawnash Double Coupon FY18,HEALTH ‐ Health Grants,Grant Contractuals,8364,7562,15000,15000
+2118,44560,101,560638,Shawnash Double Coupon FY18,HEALTH ‐ Health Grants,Special Events,0,0,0,0
+2118,44560,101,550601,Shawnash Double Coupon FY18,HEALTH ‐ Health Grants,Printing,0,1401,3000,3000
+2119,44560,101,560638,Exp. Station Link Up IL FY 2018,HEALTH ‐ Health Grants,Special Events,0,0,0,0
+2119,44560,101,530656,Exp. Station Link Up IL FY 2018,HEALTH ‐ Health Grants,Grant Contractuals,1051,0,0,0
+2124,44560,101,510501,Tattoo Facility 2012‐13,HEALTH ‐ Health Grants,Regular Salaries,0,8250,7000,6250
+2132,44560,101,510501,IDHS‐ Family Case Mgmt FY19,HEALTH ‐ Health Grants,Regular Salaries,0,0,16000,5725
+2132,44560,101,520999,IDHS‐ Family Case Mgmt FY19,HEALTH ‐ Health Grants,Grant Admin‐ Benefits,0,0,0,0
+2132,44560,101,540669,IDHS‐ Family Case Mgmt FY19,HEALTH ‐ Health Grants,Rent Expense,0,0,0,0
+2134,44560,101,510501,IDHS‐High Risk Infant Follow‐Up FY 19,HEALTH ‐ Health Grants,Regular Salaries,0,150,14000,6240
+2134,44560,101,520999,IDHS‐ High Risk Infant Follow‐Up FY 19,HEALTH ‐ Health Grants,Grant Admin. ‐ Benefits,0,0,0,0
+2134,44560,101,560631,IDHS‐ Hight Risk Infant Follow‐Up,HEALTH ‐ Health Grants,Operational Supplies,0,0,2000,0
+2137,44560,101,510501,PHIMC ‐ Region 8 HIV Prev FY 2018,HEALTH ‐ Health Grants,Regular Salaries,10491,15004,30000,10375
+2137,44560,101,520999,PHIMC ‐ Region 8 HIV Prev FY 2018,HEALTH ‐ Health Grants,Grant Admin. ‐ Benefits,4898,3013,0,0
+2137,44560,101,560631,PHIMC ‐ Region 8 HIV Prev FY 2018,HEALTH ‐ Health Grants,Operational Supplies,89,0,1000,0
+2137,44560,101,530656,PHIMC ‐ Region 8 HIV Prev FY 2018,HEALTH ‐ Health Grants,Grant Contractuals,0,0,0,0
+2151,44560,101,510501,COVID‐19,HEALTH ‐ Health Grants,Grant Salaries,0,0,0,153167
+2151,44560,101,520999,COVID‐19,HEALTH ‐ Health Grants,Grant Admin Benefits,0,0,0,69424
+2151,44560,101,530652,COVID‐19,HEALTH ‐ Health Grants,Grant Training,0,0,0,4500
+2151,44560,101,530656,COVID‐19,HEALTH ‐ Health Grants,Grant Contractuals,0,0,0,40000
+2151,44560,101,540690,COVID‐19,HEALTH ‐ Health Grants,Telecommunications Charges,0,0,0,30000
+2151,44560,101,560631,COVID‐19,HEALTH ‐ Health Grants,Operational Supplies,0,0,0,80000
+2151,44560,101,570669,COVID‐19,HEALTH ‐ Health Grants,De Minimis,0,0,0,40000
+2157,44560,101,510501,W Nile Virus Prevent 2016‐17,HEALTH ‐ Health Grants,Regular Salaries,0,0,0,0
+2157,44560,101,520999,W Nile Virus Prevent 2016‐17,HEALTH ‐ Health Grants,Grant Admin. ‐ Benefits,0,0,0,0
+2157,44560,101,530656,W Nile Virus Prevent 2016‐17,HEALTH ‐ Health Grants,Grant Contractuals,0,0,0,0
+2157,44560,101,560631,W Nile Virus Prevent 2016‐17,HEALTH ‐ Health Grants,Operational Supplies,0,0,0,0
+2158,44560,101,510501,IDPH ‐ Vector Surv. & Cntl. FY 2018,HEALTH ‐ Health Grants,Regular Salaries,7259,9585,14000,12300
+2158,44560,101,520999,IDPH ‐ Vector Surv. & Cntl. FY 2018,HEALTH ‐ Health Grants,Grant Admin. ‐ Benefits,204,0,0,0
+2158,44560,101,530650,IDPH ‐ Vector Surv. & Cntl. FY 2018,HEALTH ‐ Health Grants,Conferences Training,0,0,0,0
+2158,44560,101,530656,IDPH ‐ Vector Surv. & Cntl. FY 2018,HEALTH ‐ Health Grants,Grant Contractuals,3485,0,0,0
+2158,44560,101,550603,IDPH ‐ Vector Surv. & Cntl. FY 2018,HEALTH ‐ Health Grants,Postage,378,40,800,500
+2162,44560,101,510501,Lead Poisoning 2011‐12,HEALTH ‐ Health Grants,Regular Salaries,0,0,0,0
+2163,44560,101,510501,IDPH ‐ Lead Case Mgmt. FY 2018,HEALTH ‐ Health Grants,Regular Salaries,10400,26113,30000,27450
+2173,44560,101,530656,Local Health Protect 2016‐17,HEALTH ‐ Health Grants,Grant Contractuals,0,0,0,0
+2173,44560,101,520999,Local Health Protect 2016‐17,HEALTH ‐ Health Grants,Local Health Protect 2017‐18,0,0,0,0
+2173,44560,101,510501,Local Health Protect 2016‐17,HEALTH ‐ Health Grants,Regular Salaries,0,0,0,0
+2174,44560,101,510501,IDPH ‐ Local Health Protection FY2018,HEALTH ‐ Health Grants,Regular Salaries,50094,70062,65000,59784
+2174,44560,101,520999,IDPH ‐ Local Health Protection FY2018,HEALTH ‐ Health Grants,Grant Admin. ‐ Benefits,9474,0,0,0
+2174,44560,101,530656,IDPH ‐ Local Health Protection FY2018,HEALTH ‐ Health Grants,Grant Contractuals,7690,7690,8000,7850
+2174,44560,101,560631,IDPH‐ Local Health Protection,HEALTH ‐ Health Grants,Operational Supplies,0,4025,0,0
+2175,44560,101,530650,NACCHO Medical Reserve Corps,HEALTH ‐ Health Grants,Conferences Training,140,0,3788,3788
+2175,44560,101,550605,NACCHO Medical Reserve Corps,HEALTH ‐ Health Grants,Travel & Mileage Reimbursement,0,0,3905,3905
+2175,44560,101,560631,NACCHO Medical Reserve Corps,HEALTH ‐ Health Grants,Operational Supplies,0,0,3200,3200
+2176,44560,101,560631,IDPH‐ Narcan,HEALTH ‐ Health Grants,Operational Supplies,0,0,3000,5000
+2183,44560,101,510501,Pub Hlth Emerg Prep 2016‐17,HEALTH ‐ Health Grants,Regular Salaries,0,0,0,0
+2183,44560,101,520999,Pub Hlth Emerg Prep 2016‐17,HEALTH ‐ Health Grants,Grant Admin. ‐ Benefits,0,0,0,0
+2183,44560,101,530650,Pub Hlth Emerg Prep 2016‐17,HEALTH ‐ Health Grants,Conferences Training,0,0,0,0
+2183,44560,101,530656,Pub Hlth Emerg Prep 2016‐17,HEALTH ‐ Health Grants,Grant Contractuals,0,0,0,0
+2183,44560,101,540690,Pub Hlth Emerg Prep 2016‐17,HEALTH ‐ Health Grants,Telecommunication Charges,0,0,0,0
+2183,44560,101,550605,Pub Hlth Emerg Prep 2016‐17,HEALTH ‐ Health Grants,Travel & Mileage Reimbursement,0,0,0,0
+2184,44560,101,510501,IDPH Pub Hlth Emrg Prep FY 2018,HEALTH ‐ Health Grants,Regular Salaries,30239,43251,42000,38978
+2184,44560,101,520999,IDPH Pub Hlth Emrg Prep FY 2018,HEALTH ‐ Health Grants,Grant Admin. ‐ Benefits,373,2104,0,0
+2184,44560,101,530650,IDPH Pub Hlth Emrg Prep FY 2018,HEALTH ‐ Health Grants,Conferences Training,590,0,0,0
+2184,44560,101,530656,IDPH Pub Hlth Emrg Prep FY 2018,HEALTH ‐ Health Grants,Grant Contractuals,7622,7632,11000,9200
+2184,44560,101,540690,IDPH Pub Hlth Emrg Prep FY 2018,HEALTH ‐ Health Grants,Telecommunication Charges,1280,1620,5000,700
+2184,44560,101,550605,IDPH Pub Hlth Emrg Prep FY 2018,HEALTH ‐ Health Grants,Travel & Mileage Reimbursement,0,3700,5500,3200
+2184,44560,101,560631,IDPH Pub Hlth Emrg Prep FY 2018,HEALTH ‐ Health Grants,Operational Supplies,0,0,3100,4500
+2188,44560,101,510501,Teen Preg Prevent 2016‐17,HEALTH ‐ Health Grants,Regular Salaries,0,0,0,0
+2188,44560,101,520999,Teen Preg Prevent 2016‐17,HEALTH ‐ Health Grants,Grant Admin. ‐ Benefits,0,0,0,0
+2188,44560,101,560631,Teen Preg Prevent 2016‐17,HEALTH ‐ Health Grants,Operational Supplies,0,0,0,0
+2188,44560,101,530656,Teen Preg Prevent 2016‐17,HEALTH ‐ Health Grants,Grant Contractuals,0,0,0,0
+2193,44560,101,510501,IDPH Tobacco Free 2016‐17,HEALTH ‐ Health Grants,Regular Salaries,0,0,0,0
+2193,44560,101,520999,IDPH Tobacco Free 2016‐17,HEALTH ‐ Health Grants,Grant Admin. ‐ Benefits,0,0,0,0
+2193,44560,101,530656,IDPH Tobacco Free 2016‐17,HEALTH ‐ Health Grants,Grant Contractuals,0,0,0,0
+2193,44560,101,560631,IDPH Tobacco Free 2016‐17,HEALTH ‐ Health Grants,Operational Supplies,0,0,0,0
+2194,44560,101,510501,IDPH ‐ IL Tobacco Free FY 2018,HEALTH ‐ Health Grants,Regular Salaries,13341,22333,22000,17000
+2194,44560,101,520999,IDPH ‐ IL Tobacco Free FY 2018,HEALTH ‐ Health Grants,Grant Admin. ‐ Benefits,1311,0,0,0
+2194,44560,101,550605,IDPH‐ IL Tobacco Free FY 2018,HEALTH ‐ Health Grants,Travel & Mileage Reimbursement,0,1234,3950,3000
+2194,44560,101,530656,IDPH ‐ IL Tobacco Free FY 2018,HEALTH ‐ Health Grants,Grant Contractuals,697,0,0,2700
+2194,44560,101,560631,IDPH ‐ IL Tobacco Free FY 2018,HEALTH ‐ Health Grants,Operational Supplies,0,0,0,0
+2198,44560,101,510501,IDPH FY Body Art FY 2018,HEALTH ‐ Health Grants,Regular Salaries,0,0,0,0
+2230,42490,419,560631,IL Dept of Trans. Grant,POLICE ‐ Grants,Operational Supplies,0,0,0,0
+2230,42490,419,510503,IL Dept of Trans. Grant,POLICE ‐ Grants,Overtime,16511,15497,20000,20000
+2072,41070,101,530667,Madison Street TIF Fund,Finance,External Support,0,0,0,0
+2072,41300,101,530667,Madison Street TIF Fund,Finance,External Support,0,0,0,0
+2072,41300,101,570698,Madison Street TIF Fund,Finance,Economic Development Initiativ,449139,3258209,7436315,695000
+2072,41300,101,570706,Madison Street TIF Fund,Finance,Project Engineering,0,0,0,0
+2072,41300,101,570707,Madison Street TIF Fund,Finance,Capital Improvements,367893,6815650,50000,0
+2072,46205,101,462476,Madison Street TIF Fund,Finance,Gain/Loss on Sale of Property,24109,0,0,0
+2038,43700,101,510501,Motor Fuel Tax Fund,DPW‐Engineering,Regular Salaries,0,0,0,0
+2038,43720,101,510501,Motor Fuel Tax Fund,DPW‐Street Lighting,Regular Salaries,0,0,0,24726
+2038,43720,751,510501,Motor Fuel Tax Fund,DPW‐Street Lighting,Regular Salaries,0,0,0,57694
+2038,43720,752,510501,Motor Fuel Tax Fund,DPW‐Street Lighting,Regular Salaries,0,0,0,49452
+2038,43720,753,510501,Motor Fuel Tax Fund,DPW‐Street Lighting,Regular Salaries,0,0,0,32968
+2038,43730,777,510501,Motor Fuel Tax Fund,DPW‐Water,Regular Salaries,0,0,0,26073
+2038,43740,101,510501,Motor Fuel Tax Fund,DPW‐Street Services,Regular Salaries,0,0,0,0
+2038,43740,761,510501,Motor Fuel Tax Fund,DPW‐Street Services,Regular Salaries,0,0,0,267541
+2038,43740,765,510501,Motor Fuel Tax Fund,DPW‐Street Services,Regular Salaries,0,0,0,107016
+2038,43800,741,510501,Motor Fuel Tax Fund,DPW‐Forestry,Regular Salaries,0,0,0,5729
+2038,43900,733,510501,Motor Fuel Tax Fund,DPW‐Fleet,Regular Salaries,0,0,0,27287
+2038,43700,101,510503,Motor Fuel Tax Fund,DPW‐Engineering,Overtime,0,0,0,0
+2038,43720,101,510503,Motor Fuel Tax Fund,DPW‐Street Lighting,Overtime,0,0,0,1800
+2038,43720,751,510503,Motor Fuel Tax Fund,DPW‐Street Lighting,Overtime,0,0,0,4200
+2038,43720,752,510503,Motor Fuel Tax Fund,DPW‐Street Lighting,Overtime,0,0,0,3600
+2038,43720,753,510503,Motor Fuel Tax Fund,DPW‐Street Lighting,Overtime,0,0,0,3000
+2038,43740,101,510503,Motor Fuel Tax Fund,DPW‐Street Services,Overtime,0,0,0,0
+2038,43740,761,510503,Motor Fuel Tax Fund,DPW‐Street Services,Overtime,0,0,0,20000
+2038,43740,765,510503,Motor Fuel Tax Fund,DPW‐Street Services,Overtime,0,0,0,140000
+2038,43800,741,510503,Motor Fuel Tax Fund,DPW‐Forestry,Overtime,0,0,0,0
+2038,43900,733,510503,Motor Fuel Tax Fund,DPW‐Fleet,Overtime,0,0,0,0
+2038,43700,101,520520,Motor Fuel Tax Fund,DPW‐Engineering,Life Insurance Expense,0,0,0,0
+2038,43720,101,520520,Motor Fuel Tax Fund,DPW‐Street Lighting,Life Insurance Expense,0,0,0,28
+2038,43720,751,520520,Motor Fuel Tax Fund,DPW‐Street Lighting,Life Insurance Expense,0,0,0,65
+2038,43720,752,520520,Motor Fuel Tax Fund,DPW‐Street Lighting,Life Insurance Expense,0,0,0,56
+2038,43720,753,520520,Motor Fuel Tax Fund,DPW‐Street Lighting,Life Insurance Expense,0,0,0,37
+2038,43730,777,520520,Motor Fuel Tax Fund,DPW‐Water,Life Insurance Expense,0,0,0,42
+2038,43740,101,520520,Motor Fuel Tax Fund,DPW‐Street Services,Life Insurance Expense,0,0,0,0
+2038,43740,761,520520,Motor Fuel Tax Fund,DPW‐Street Services,Life Insurance Expense,0,0,0,419
+2038,43740,765,520520,Motor Fuel Tax Fund,DPW‐Street Services,Life Insurance Expense,0,0,0,167
+2038,43800,741,520520,Motor Fuel Tax Fund,DPW‐Forestry,Life Insurance Expense,0,0,0,9
+2038,43900,733,520520,Motor Fuel Tax Fund,DPW‐Fleet,Life Insurance Expense,0,0,0,37
+2038,43700,101,520521,Motor Fuel Tax Fund,DPW‐Engineering,Health Insurance Expense,0,0,0,0
+2038,43720,101,520521,Motor Fuel Tax Fund,DPW‐Street Lighting,Health Insurance Expense,0,0,0,3577
+2038,43720,751,520521,Motor Fuel Tax Fund,DPW‐Street Lighting,Health Insurance Expense,0,0,0,8345
+2038,43720,752,520521,Motor Fuel Tax Fund,DPW‐Street Lighting,Health Insurance Expense,0,0,0,7153
+2038,43720,753,520521,Motor Fuel Tax Fund,DPW‐Street Lighting,Health Insurance Expense,0,0,0,4769
+2038,43730,777,520521,Motor Fuel Tax Fund,DPW‐Water,Health Insurance Expense,0,0,0,8218
+2038,43740,101,520521,Motor Fuel Tax Fund,DPW‐Street Services,Health Insurance Expense,0,0,0,0
+2038,43740,761,520521,Motor Fuel Tax Fund,DPW‐Street Services,Health Insurance Expense,0,0,0,74305
+2038,43740,765,520521,Motor Fuel Tax Fund,DPW‐Street Services,Health Insurance Expense,0,0,0,29722
+2038,43800,741,520521,Motor Fuel Tax Fund,DPW‐Forestry,Health Insurance Expense,0,0,0,2012
+2038,43900,733,520521,Motor Fuel Tax Fund,DPW‐Fleet,Health Insurance Expense,0,0,0,6542
+2038,43700,101,520522,Motor Fuel Tax Fund,DPW‐Engineering,Social Security Expense,0,0,0,0
+2038,43720,101,520522,Motor Fuel Tax Fund,DPW‐Street Lighting,Social Security Expense,0,0,0,1645
+2038,43720,751,520522,Motor Fuel Tax Fund,DPW‐Street Lighting,Social Security Expense,0,0,0,3838
+2038,43720,752,520522,Motor Fuel Tax Fund,DPW‐Street Lighting,Social Security Expense,0,0,0,3289
+2038,43720,753,520522,Motor Fuel Tax Fund,DPW‐Street Lighting,Social Security Expense,0,0,0,2230
+2038,43730,777,520522,Motor Fuel Tax Fund,DPW‐Water,Social Security Expense,0,0,0,1617
+2038,43740,101,520522,Motor Fuel Tax Fund,DPW‐Street Services,Social Security Expense,0,0,0,0
+2038,43740,761,520522,Motor Fuel Tax Fund,DPW‐Street Services,Social Security Expense,0,0,0,17828
+2038,43740,765,520522,Motor Fuel Tax Fund,DPW‐Street Services,Social Security Expense,0,0,0,15315
+2038,43800,741,520522,Motor Fuel Tax Fund,DPW‐Forestry,Social Security Expense,0,0,0,355
+2038,43900,733,520522,Motor Fuel Tax Fund,DPW‐Fleet,Social Security Expense,0,0,0,1692
+2038,43700,101,520523,Motor Fuel Tax Fund,DPW‐Engineering,Medicare Expense,0,0,0,0
+2038,43720,101,520523,Motor Fuel Tax Fund,DPW‐Street Lighting,Medicare Expense,0,0,0,385
+2038,43720,751,520523,Motor Fuel Tax Fund,DPW‐Street Lighting,Medicare Expense,0,0,0,897
+2038,43720,752,520523,Motor Fuel Tax Fund,DPW‐Street Lighting,Medicare Expense,0,0,0,769
+2038,43720,753,520523,Motor Fuel Tax Fund,DPW‐Street Lighting,Medicare Expense,0,0,0,522
+2038,43730,777,520523,Motor Fuel Tax Fund,DPW‐Water,Medicare Expense,0,0,0,378
+2038,43740,101,520523,Motor Fuel Tax Fund,DPW‐Street Services,Medicare Expense,0,0,0,0
+2038,43740,761,520523,Motor Fuel Tax Fund,DPW‐Street Services,Medicare Expense,0,0,0,4169
+2038,43740,765,520523,Motor Fuel Tax Fund,DPW‐Street Services,Medicare Expense,0,0,0,3582
+2038,43800,741,520523,Motor Fuel Tax Fund,DPW‐Forestry,Medicare Expense,0,0,0,83
+2038,43900,733,520523,Motor Fuel Tax Fund,DPW‐Fleet,Medicare Expense,0,0,0,396
+2038,43700,101,520527,Motor Fuel Tax Fund,DPW‐Engineering,IMRF Expense,0,0,0,0
+2038,43720,101,520527,Motor Fuel Tax Fund,DPW‐Street Lighting,IMRF Expense,0,0,0,2212
+2038,43720,751,520527,Motor Fuel Tax Fund,DPW‐Street Lighting,IMRF Expense,0,0,0,5162
+2038,43720,752,520527,Motor Fuel Tax Fund,DPW‐Street Lighting,IMRF Expense,0,0,0,4425
+2038,43720,753,520527,Motor Fuel Tax Fund,DPW‐Street Lighting,IMRF Expense,0,0,0,3000
+2038,43730,777,520527,Motor Fuel Tax Fund,DPW‐Water,IMRF Expense,0,0,0,2174
+2038,43740,101,520527,Motor Fuel Tax Fund,DPW‐Street Services,IMRF Expense,0,0,0,0
+2038,43740,761,520527,Motor Fuel Tax Fund,DPW‐Street Services,IMRF Expense,0,0,0,22313
+2038,43740,765,520527,Motor Fuel Tax Fund,DPW‐Street Services,IMRF Expense,0,0,0,20601
+2038,43800,741,520527,Motor Fuel Tax Fund,DPW‐Forestry,IMRF Expense,0,0,0,478
+2038,43900,733,520527,Motor Fuel Tax Fund,DPW‐Fleet,IMRF Expense,0,0,0,2276
+2038,41300,101,530675,Motor Fuel Tax Fund,DPW ‐ Administration,Bank Charges,30,966,1000,1000
+2038,43720,751,540692,Motor Fuel Tax Fund,DPW‐Street Lighting,Electricity,0,0,0,110000
+2038,43780,101,570951,Motor Fuel Tax Fund,Construction Resurfacing,Construction Resurfacing,0,0,0,257542
+2038,43740,761,560633,Motor Fuel Tax Fund,DPW‐Street Services,Roadway Maintenance,0,0,0,45500
+2038,43740,765,560633,Motor Fuel Tax Fund,DPW‐Street Services,Roadway Maintenance,0,0,0,356000
+2038,41300,101,591801,Motor Fuel Tax Fund,DPW ‐ Administration,Transfer To General Fund,1336000,1700000,2080000,0
+2081,41300,101,530667,SSA#1‐ Downtown Oak Park,Finance,External Support,700000,725000,725000,725000
+2081,41300,101,530675,SSA#1‐ Downtown Oak Park,Finance,Bank Charges,44,966,1000,1000
+2088,46201,101,583607,Section 108 Loan Fund,DCS ‐ Neig. Srv. ‐ CDBG,Loan Disbursements,0,0,3000000,3000000
+2090,41300,101,530675,SSA#7 Elmwood & Rossell,Finance,Bank Charges,104,1388,0,0
+2090,41300,101,570959,SSA#7 Elmwood & Rossell,Finance,Streetscaping,0,0,0,0
+2092,41300,101,570950,SSA#8 Construction,Finance,Construction*,0,0,0,0
+2021,42400,101,560655,State RICO Forfeiture Fund,POLICE,Reimbursements,0,0,20000,20000
+2021,41300,101,530675,State RICO Forfeiture Fund,POLICE,Bank Charges,95,1383,1380,1380
+2310,41020,101,510501,Sustainability Fund,Village Manager's Office (VMO),Regular Salaries,71428,72687,73544,71750
+2310,41020,101,520520,Sustainability Fund,Village Manager's Office (VMO),Life Insurance Expense,98,94,93,93
+2310,41020,101,520521,Sustainability Fund,Village Manager's Office (VMO),Health Insurance Expense,8942,8648,8534,7500
+2310,41020,101,520522,Sustainability Fund,Village Manager's Office (VMO),Social Security Expense,4267,4343,4560,4449
+2310,41020,101,520523,Sustainability Fund,Village Manager's Office (VMO),Medicare Expense,998,1016,1066,1040
+2310,41020,101,520527,Sustainability Fund,Village Manager's Office (VMO),IMRF Contributions,7052,4710,6479,5984
+2310,41020,101,530650,Sustainability Fund,Village Manager's Office (VMO),Conferences Training,445,206,2500,2500
+2310,41020,101,530667,Sustainability Fund,Village Manager's Office (VMO),External Support,22441,24888,73300,76500
+2310,41020,101,550601,Sustainability Fund,Village Manager's Office (VMO),Printing,635,812,17500,9000
+2310,41020,101,550602,Sustainability Fund,Village Manager's Office (VMO),Membership Dues,1095,1195,3595,3595
+2310,41020,101,550603,Sustainability Fund,Village Manager's Office (VMO),Postage,39,63,400,100
+2310,41020,101,550605,Sustainability Fund,Village Manager's Office (VMO),Travel & Mileage Reimbursement,64,192,375,375
+2310,41020,101,560606,Sustainability Fund,Village Manager's Office (VMO),Books & Subscriptions,0,0,250,250
+2310,41020,101,560620,Sustainability Fund,Village Manager's Office (VMO),Office Supplies,11,445,800,800
+2310,41020,101,570668,Sustainability Fund,Village Manager's Office (VMO),Energy Efficiency Grant Programs,0,0,220000,220000
+2310,41020,101,570850,Sustainability Fund,Village Manager's Office (VMO),On‐Site Solar,0,0,180000,270000
+2310,41020,101,570851,Sustainability Fund,Village Manager's Office (VMO),Sustainable VOP Projects,0,18000,50000,100000
+2310,41020,101,570954,Sustainability Fund,Village Manager's Office (VMO),Street Lighting Improvements,0,79555,110000,50000
+2310,41020,101,570967,Sustainability Fund,Village Manager's Office (VMO),Bikeway Capital Project,0,0,200000,165000
+2310,41020,101,591895,Sustainability Fund,Village Manager's Office (VMO),Transfer to CIP Fund,0,0,0,0
+2220,42490,101,550701,Tobacco Enforcement Grant,POLICE ‐ Grants,Tobacco Grant Expenditures,2051,2078,3000,3000
+1050,41020,101,530650,"Travel, Training & Wellness",Village Manager's Office,Conferences Training,18200,9697,30000,80000
+1050,42500,101,530650,"Travel, Training & Wellness",Fire ‐ Admin,Conferences Training,0,0,0,0
+1050,41020,101,530667,"Travel, Training & Wellness",Village Manager's Office,External Support,0,0,0,0
+3012,43790,101,540673,Capital Bldg Improvements,DPW ‐ Building Maintenance,Building Maintenance,260647,229770,4425000,1595000
+3029,43790,101,540673,Equipment Replacement Fund,Finance,Building Maintenance,0,0,0,0
+3029,41300,905,550689,Equipment Replacement Fund,Finance,Operational Mainten Support,0,0,0,0
+3029,41040,884,540690,Equipment Replacement Fund,Finance,Telecommunication Charges,0,0,0,0
+3029,41300,884,540690,Equipment Replacement Fund,Finance,Telecommunication Charges,0,0,1394490,0
+3029,41300,905,540690,Equipment Replacement Fund,Finance,Telecommunication Charges,0,0,0,0
+3029,41300,905,570290,Equipment Replacement Fund,Finance,WAN Equipment,0,0,0,0
+3029,41300,905,570294,Equipment Replacement Fund,Finance,Printers,2134,2982,3000,3000
+3029,41300,906,570710,Equipment Replacement Fund,Finance,Equipment,0,278680,88000,14000
+3029,41300,714,570710,Equipment Replacement Fund,Finance,Equipment,65000,221995,348846,138646
+3029,41300,910,570711,Equipment Replacement Fund,Finance,Equipment,0,0,0,0
+3029,41300,101,570711,Equipment Replacement Fund,Finance,Equipment,0,0,0,0
+3029,41300,905,570711,Equipment Replacement Fund,Finance,Software,18995,0,0,50000
+3029,41300,906,570711,Equipment Replacement Fund,Finance,Software,0,0,2000,0
+3029,41300,714,570711,Equipment Replacement Fund,Finance,Software,0,0,0,0
+3029,41300,909,570711,Equipment Replacement Fund,Finance,Software,91475,0,0,0
+3029,41300,915,570711,Equipment Replacement Fund,Finance,Software,0,0,0,0
+3029,41300,905,570720,Equipment Replacement Fund,Finance,Computer Equipment,38568,44179,79000,40000
+3029,41300,906,570720,Equipment Replacement Fund,Finance,Computer Equipment,36783,52886,56000,78000
+3029,41300,915,570720,Equipment Replacement Fund,Finance,Computer Equipment,0,0,0,0
+3029,41110,882,570720,Equipment Replacement Fund,Finance,Computer Equipment,0,0,0,0
+3029,41300,884,570720,Equipment Replacement Fund,Finance,Computer Equipment,74806,66705,95000,65000
+3029,41300,909,570720,Equipment Replacement Fund,Finance,Computer Equipment,0,0,0,0
+3029,41300,199,591895,Equipment Replacement Fund,Finance,Interfund Transfer to CIP Fund,0,700000,0,0
+3032,43900,101,570750,Fleet Replacement Fund,DPW ‐ Fleet Operations,Vehicles‐ Administration,0,35725,35000,0
+3032,43900,851,570750,Fleet Replacement Fund,DPW ‐ Fleet Operations,Vehicles‐ Fire,277183,0,295000,284000
+3032,43900,856,570750,Fleet Replacement Fund,DPW ‐ Fleet Operations,Vehicles‐ Parking Enforcement,22635,0,30000,34000
+3032,43900,857,570750,Fleet Replacement Fund,DPW ‐ Fleet Operations,Vehicles‐ Police,189678,225359,214000,277500
+3032,43900,858,570750,Fleet Replacement Fund,DPW ‐ Fleet Operations,Vehicles‐ Public Works,626315,507694,315000,55000
+3032,43900,851,570751,Fleet Replacement Fund,DPW ‐ Fleet Operations,Capital Lease Interest Expense,25736,16325,11682,8903
+3032,43900,851,570752,Fleet Replacement Fund,DPW ‐ Fleet Operations,Capital Lease Principal,240165,150316,83176,85954
+3095,43700,101,510501,Capital Improvement Fund,DPW ‐ Capital Projects,Regular Salaries,0,0,0,0
+3095,43710,101,510501,Capital Improvement Fund,DPW ‐ Capital Projects,Regular Salaries,0,0,35000,0
+3095,46260,101,510501,Capital Improvement Fund,DPW ‐ Capital Projects,Regular Salaries,76687,92852,94977,124932
+3095,43780,721,510501,Capital Improvement Fund,DPW ‐ Capital Projects,Regular Salaries,351616,400416,442439,261255
+3095,43700,721,510501,Capital Improvement Fund,DPW ‐ Capital Projects,Regular Salaries,0,0,0,0
+3095,43780,721,510503,Capital Improvement Fund,DPW ‐ Capital Projects,Overtime,6352,1686,21000,21000
+3095,46260,101,510506,Capital Improvement Fund,DPW ‐ Capital Projects,"Equip Allow (Auto,Phone,Tools)",168,167,0,0
+3095,43780,721,510515,Capital Improvement Fund,DPW ‐ Capital Projects,Comp Time,183,1361,0,0
+3095,43780,101,510518,Capital Improvement Fund,DPW ‐ Capital Projects,Seasonal Employees,0,0,0,0
+3095,43780,721,510519,Capital Improvement Fund,DPW ‐ Capital Projects,Vacation Time Payout,84,270,0,0
+3095,43780,721,510509,Capital Improvement Fund,DPW ‐ Capital Projects,Comp Time Payout,2683,91,0,0
+3095,46260,101,520520,Capital Improvement Fund,DPW ‐ Capital Projects,Life Insurance Expense,55,62,62,85
+3095,43780,721,520520,Capital Improvement Fund,DPW ‐ Capital Projects,Life Insurance Expense,468,519,539,335
+3095,43700,721,520520,Capital Improvement Fund,DPW ‐ Capital Projects,Life Insurance Expense,0,0,0,0
+3095,43710,101,520520,Capital Improvement Fund,DPW ‐ Capital Projects,Life Insurance Expense,0,0,23,0
+3095,46260,101,520521,Capital Improvement Fund,DPW ‐ Capital Projects,Health Insurance Expense,10088,11019,10782,15568
+3095,43780,721,520521,Capital Improvement Fund,DPW ‐ Capital Projects,Health Insurance Expense,60460,52418,53197,27975
+3095,43700,721,520521,Capital Improvement Fund,DPW ‐ Capital Projects,Health Insurance Expense,0,0,0,0
+3095,43710,101,520521,Capital Improvement Fund,DPW ‐ Capital Projects,Health Insurance Expense,0,0,5961,0
+3095,46260,101,520522,Capital Improvement Fund,DPW ‐ Capital Projects,Social Security Expense,4327,5249,5308,7234
+3095,43780,721,520522,Capital Improvement Fund,DPW ‐ Capital Projects,Social Security Expense,21180,23984,28610,17377
+3095,43700,721,520522,Capital Improvement Fund,DPW ‐ Capital Projects,Social Security Expense,0,0,0,0
+3095,43710,101,520522,Capital Improvement Fund,DPW ‐ Capital Projects,Social Security Expense,0,0,1990,0
+3095,46260,101,520523,Capital Improvement Fund,DPW ‐ Capital Projects,Medicare Expense,1068,1284,1377,1812
+3095,43780,721,520523,Capital Improvement Fund,DPW ‐ Capital Projects,Medicare Expense,4954,5609,6720,4093
+3095,43700,721,520523,Capital Improvement Fund,DPW ‐ Capital Projects,Medicare Expense,0,0,0,0
+3095,43710,101,520523,Capital Improvement Fund,DPW ‐ Capital Projects,Medicare Expense,0,0,508,0
+3095,46260,101,520527,Capital Improvement Fund,DPW ‐ Capital Projects,IMRF Contributions,7559,6017,8367,10419
+3095,43780,721,520527,Capital Improvement Fund,DPW ‐ Capital Projects,IMRF Contributions,35662,26175,40292,23540
+3095,43700,721,520527,Capital Improvement Fund,DPW ‐ Capital Projects,IMRF Contributions,0,0,0,0
+3095,43710,101,520527,Capital Improvement Fund,DPW ‐ Capital Projects,IMRF Contributions,0,0,3084,0
+3095,43780,101,530650,Capital Improvement Fund,DPW ‐ Capital Projects,Conferences Training,2767,3411,7500,1500
+3095,41020,101,530667,Capital Improvement Fund,DPW ‐ Capital Projects,External Support,1150,0,0,0
+3095,43780,101,530667,Capital Improvement Fund,DPW ‐ Capital Projects,External Support,141852,183714,167500,75000
+3095,43780,101,550601,Capital Improvement Fund,DPW ‐ Capital Projects,Printing,2696,4338,3000,2000
+3095,43780,101,550602,Capital Improvement Fund,DPW ‐ Capital Projects,Membership Dues,340,1302,1165,855
+3095,43780,101,550603,Capital Improvement Fund,DPW ‐ Capital Projects,Postage,3930,3576,4000,4000
+3095,43780,101,550652,Capital Improvement Fund,DPW ‐ Capital Projects,Legal Postings and Doc. Fees,3654,1771,3000,2000
+3095,41300,101,550656,Capital Improvement Fund,DPW ‐ Capital Projects,Miscellaneous Expense,0,0,0,0
+3095,43780,101,550663,Capital Improvement Fund,DPW ‐ Capital Projects,Software License Updates,17813,21357,23752,13750
+3095,43780,101,550671,Capital Improvement Fund,DPW ‐ Capital Projects,Office Machine Service,10281,10281,10350,9965
+3095,43780,101,550673,Capital Improvement Fund,DPW ‐ Capital Projects,Repairs,0,0,250,250
+3095,43780,101,550690,Capital Improvement Fund,DPW ‐ Capital Projects,Public Art,0,0,100000,0
+3095,46205,101,550690,Capital Improvement Fund,DPW ‐ Capital Projects,Public Art,0,0,0,0
+3095,43780,101,560620,Capital Improvement Fund,DPW ‐ Capital Projects,Office Supplies,1722,1288,2000,2000
+3095,43780,101,560625,Capital Improvement Fund,DPW ‐ Capital Projects,Clothing,310,513,1500,500
+3095,43780,101,560631,Capital Improvement Fund,DPW ‐ Capital Projects,Operational Supplies,402,1268,1500,1500
+3095,43780,101,570706,Capital Improvement Fund,DPW ‐ Capital Projects,Project Engineering,867824,785749,4745709,2415082
+3095,43780,721,570706,Capital Improvement Fund,DPW ‐ Capital Projects,Project Engineering,0,0,0,0
+3095,43780,101,570720,Capital Improvement Fund,DPW ‐ Capital Projects,Computer Equipment,0,0,0,0
+3095,43780,101,570951,Capital Improvement Fund,DPW ‐ Capital Projects,Local Street Construction,2641579,1645753,3542645,695060
+3095,43780,101,570953,Capital Improvement Fund,DPW ‐ Capital Projects,Sidewalk Improvements,25409,24131,50000,50000
+3095,43780,101,570954,Capital Improvement Fund,DPW ‐ Capital Projects,Street Lighting Improvements,30155,44448,50000,0
+3095,43780,101,570955,Capital Improvement Fund,DPW ‐ Capital Projects,Traffic Calming Improvements,13004,14190,812000,560000
+3095,43780,101,570957,Capital Improvement Fund,DPW ‐ Capital Projects,Tree Replacement,143496,176747,175000,100000
+3095,43780,101,570958,Capital Improvement Fund,DPW ‐ Capital Projects,Street Furnishings,0,0,15000,5000
+3095,43780,101,570959,Capital Improvement Fund,DPW ‐ Capital Projects,Streetscaping,625918,606199,7668336,3795432
+3095,43780,101,570962,Capital Improvement Fund,DPW ‐ Capital Projects,Bicycle Racks,0,3478,5000,0
+3095,43780,101,570963,Capital Improvement Fund,DPW ‐ Capital Projects,Landscape Improvements,42257,27642,50000,0
+3095,43780,101,570964,Capital Improvement Fund,DPW ‐ Capital Projects,Alley Improvements,2977363,1789707,1123050,0
+3095,43780,101,570966,Capital Improvement Fund,DPW ‐ Capital Projects,Traffic Signals,0,0,0,29459
+3095,43780,101,570967,Capital Improvement Fund,DPW ‐ Capital Projects,Bicycle Plan Improvements,3636,0,0,0
+3095,43780,101,570971,Capital Improvement Fund,DPW ‐ Capital Projects,Traffic Signal Management,31055,194312,45000,20000
+3095,43780,802,570971,Capital Improvement Fund,DPW ‐ Capital Projects,Traffic Signal Management,7983,0,0,0
+3095,43780,101,570972,Capital Improvement Fund,DPW ‐ Capital Projects,Viaducts,31071,0,0,0
+3095,43780,101,570974,Capital Improvement Fund,DPW ‐ Capital Projects,Microsurfacing,251575,0,0,0
+3095,43780,101,570977,Capital Improvement Fund,DPW ‐ Capital Projects,Pavement Preservation Treatments,0,353883,450000,150000
+3095,43780,101,560634,Capital Improvement Fund,DPW ‐ Capital Projects,FHWA Reflectivity Sign Upgrade,0,4953,5000,0
+3095,43780,101,591812,Capital Improvement Fund,DPW ‐ Capital Projects,Transfer To Capital Bldg Impr,567250,192000,4225000,0
+3095,43780,101,591829,Capital Improvement Fund,DPW ‐ Capital Projects,Transfer To Equip Repl,743057,0,1500000,620000
+3095,43780,101,591832,Capital Improvement Fund,DPW ‐ Capital Projects,Transfer To Fleet Replacement,1253903,750000,770000,200000
+5055,43760,101,510501,Environmental Services Fund,DPW ‐ Environmental Services,Regular Salaries,66426,79965,107567,105977
+5055,43760,764,510501,Environmental Services Fund,DPW ‐ Environmental Services,Regular Salaries,61026,70902,75464,80262
+5055,43760,797,510501,Environmental Services Fund,DPW ‐ Environmental Services,Regular Salaries,65648,66250,65927,65927
+5055,43760,101,510503,Environmental Services Fund,DPW ‐ Environmental Services,Overtime,0,0,0,0
+5055,43760,764,510503,Environmental Services Fund,DPW ‐ Environmental Services,Overtime,2897,3301,3000,3000
+5055,43760,101,510506,Environmental Services Fund,DPW ‐ Environmental Services,"Equip Allowance (Auto, Phone, Tools)",400,505,505,505
+5055,43760,764,520515,Environmental Services Fund,DPW ‐ Environmental Services,Health Insurance Opt Out,0,0,0,0
+5055,43760,101,520520,Environmental Services Fund,DPW ‐ Environmental Services,Life Insurance Expense,59,94,195,195
+5055,43760,764,520520,Environmental Services Fund,DPW ‐ Environmental Services,Life Insurance Expense,89,112,112,126
+5055,43760,797,520520,Environmental Services Fund,DPW ‐ Environmental Services,Life Insurance Expense,98,94,93,93
+5055,43760,101,520521,Environmental Services Fund,DPW ‐ Environmental Services,Health Insurance Expense,15175,19566,21530,21060
+5055,43760,764,520521,Environmental Services Fund,DPW ‐ Environmental Services,Health Insurance Expense,16778,20163,19583,22292
+5055,43760,797,520521,Environmental Services Fund,DPW ‐ Environmental Services,Health Insurance Expense,15337,14960,14638,14638
+5055,43760,101,520522,Environmental Services Fund,DPW ‐ Environmental Services,Social Security Expense,3485,4623,6597,6598
+5055,43760,764,520522,Environmental Services Fund,DPW ‐ Environmental Services,Social Security Expense,3710,4311,4865,5162
+5055,43760,797,520522,Environmental Services Fund,DPW ‐ Environmental Services,Social Security Expense,3862,3887,4087,4087
+5055,43760,101,520523,Environmental Services Fund,DPW ‐ Environmental Services,Medicare Expense,815,1081,1560,1537
+5055,43760,764,520523,Environmental Services Fund,DPW ‐ Environmental Services,Medicare Expense,868,1008,1138,1207
+5055,43760,797,520523,Environmental Services Fund,DPW ‐ Environmental Services,Medicare Expense,903,909,956,956
+5055,43760,101,520527,Environmental Services Fund,DPW ‐ Environmental Services,IMRF Contributions,5739,5006,8006,7446
+5055,43760,764,520527,Environmental Services Fund,DPW ‐ Environmental Services,IMRF Contributions,6317,4808,6913,6944
+5055,43760,797,520527,Environmental Services Fund,DPW ‐ Environmental Services,IMRF Contributions,6483,4293,6566,6566
+5055,41300,101,444453,Environmental Services Fund,DPW ‐ Environmental Services,Change in NPO,515,24389,0,0
+5055,43760,101,520528,Environmental Services Fund,DPW ‐ Environmental Services,S125 Admin. Expenses,4370,1884,0,0
+5055,41300,101,520900,Environmental Services Fund,DPW ‐ Environmental Services,Change in NPO,0,0,0,0
+5055,43760,101,530650,Environmental Services Fund,DPW ‐ Environmental Services,Conferences Training,923,468,4685,1585
+5055,43760,796,530650,Environmental Services Fund,DPW ‐ Environmental Services,Conferences Training,0,0,0,0
+5055,43760,797,530650,Environmental Services Fund,DPW ‐ Environmental Services,Conferences Training,75,489,600,600
+5055,43760,101,530660,Environmental Services Fund,DPW ‐ Environmental Services,General Contractuals,3023805,2945468,3315000,3315000
+5055,43760,764,530660,Environmental Services Fund,DPW ‐ Environmental Services,General Contractuals,207281,212463,219000,195000
+5055,43760,101,530667,Environmental Services Fund,DPW ‐ Environmental Services,External Support,163,573,1240,1240
+5055,43760,796,530667,Environmental Services Fund,DPW ‐ Environmental Services,External Support,715,0,0,0
+5055,43760,101,550601,Environmental Services Fund,DPW ‐ Environmental Services,Printing,108,100,600,600
+5055,43760,796,550601,Environmental Services Fund,DPW ‐ Environmental Services,Printing,45,0,0,0
+5055,43760,797,550601,Environmental Services Fund,DPW ‐ Environmental Services,Printing,0,0,0,0
+5055,43760,101,550602,Environmental Services Fund,DPW ‐ Environmental Services,Membership Dues,562,874,1015,1145
+5055,43760,796,550602,Environmental Services Fund,DPW ‐ Environmental Services,Membership Dues,275,275,275,285
+5055,43760,797,550602,Environmental Services Fund,DPW ‐ Environmental Services,Membership Dues,462,223,225,225
+5055,43760,101,550603,Environmental Services Fund,DPW ‐ Environmental Services,Postage,190,100,200,300
+5055,43760,797,550603,Environmental Services Fund,DPW ‐ Environmental Services,Postage,0,0,0,0
+5055,43760,101,560620,Environmental Services Fund,DPW ‐ Environmental Services,Office Supplies,0,0,0,0
+5055,43760,796,560620,Environmental Services Fund,DPW ‐ Environmental Services,Office Supplies,0,0,0,0
+5055,43760,797,560620,Environmental Services Fund,DPW ‐ Environmental Services,Office Supplies,0,0,0,0
+5055,43760,797,560625,Environmental Services Fund,DPW ‐ Environmental Services,Clothing,178,200,200,200
+5055,43760,101,560631,Environmental Services Fund,DPW ‐ Environmental Services,Operational Supplies,1659,4558,5000,5000
+5055,43760,764,560631,Environmental Services Fund,DPW ‐ Environmental Services,Operational Supplies,1000,5121,0,0
+5055,43760,795,560631,Environmental Services Fund,DPW ‐ Environmental Services,Operational Supplies,0,0,0,0
+5055,43760,796,560631,Environmental Services Fund,DPW ‐ Environmental Services,Operational Supplies,2975,0,5000,5000
+5055,43760,797,560631,Environmental Services Fund,DPW ‐ Environmental Services,Operational Supplies,0,3,0,0
+5055,43760,796,570667,Environmental Services Fund,DPW ‐ Environmental Services,Grant Expenses,0,0,0,0
+5055,43760,101,580599,Environmental Services Fund,DPW ‐ Environmental Services,Legal Settlements ‐ General,0,0,0,0
+5055,43760,101,580700,Environmental Services Fund,DPW ‐ Environmental Services,Bad Debt Expense,0,0,0,0
+5055,43760,101,580899,Environmental Services Fund,DPW ‐ Environmental Services,Depreciation Expense,0,0,0,0
+5055,43760,101,591801,Environmental Services Fund,DPW ‐ Environmental Services,Transfer To General Fund,0,0,0,0
+5055,43760,101,591890,Environmental Services Fund,DPW ‐ Environmental Services,Transfer To Other Funds,434000,437000,437000,507000
+5060,43770,101,510501,Parking Fund,DCS ‐ Parking Services,Regular Salaries,319146,270965,259081,158003
+5060,43770,783,510501,Parking Fund,DCS ‐ Parking Services,Regular Salaries,14584,14464,20246,19052
+5060,43770,784,510501,Parking Fund,DCS ‐ Parking Services,Regular Salaries,35418,35127,49169,46720
+5060,43770,785,510501,Parking Fund,DCS ‐ Parking Services,Regular Salaries,0,0,0,0
+5060,43770,786,510501,Parking Fund,DCS ‐ Parking Services,Regular Salaries,47192,75278,37600,35383
+5060,43770,787,510501,Parking Fund,DCS ‐ Parking Services,Regular Salaries,60418,59923,83877,78931
+5060,43770,788,510501,Parking Fund,DCS ‐ Parking Services,Regular Salaries,70836,70255,98339,92540
+5060,43770,793,510501,Parking Fund,DCS ‐ Parking Services,Regular Salaries,211463,157394,111990,93624
+5060,43770,101,510503,Parking Fund,DCS ‐ Parking Services,Overtime,2236,319,0,0
+5060,43770,783,510503,Parking Fund,DCS ‐ Parking Services,Overtime,56,35,0,0
+5060,43770,784,510503,Parking Fund,DCS ‐ Parking Services,Overtime,137,84,0,0
+5060,43770,785,510503,Parking Fund,DCS ‐ Parking Services,Overtime,0,0,0,0
+5060,43770,786,510503,Parking Fund,DCS ‐ Parking Services,Overtime,236,2355,6000,3000
+5060,43770,787,510503,Parking Fund,DCS ‐ Parking Services,Overtime,233,144,0,0
+5060,43770,788,510503,Parking Fund,DCS ‐ Parking Services,Overtime,273,168,0,0
+5060,43770,793,510503,Parking Fund,DCS ‐ Parking Services,Overtime,1006,3312,7500,3000
+5060,43770,101,510506,Parking Fund,DCS ‐ Parking Services,"Equip Allow (Auto,Phone,Tools)",713,467,0,0
+5060,43770,101,510509,Parking Fund,DCS ‐ Parking Services,Comp Time Payout,491,291,0,0
+5060,43770,793,510509,Parking Fund,DCS ‐ Parking Services,Comp Time Payout,598,1077,0,0
+5060,43770,101,510515,Parking Fund,DCS ‐ Parking Services,Comp Time,1076,0,0,0
+5060,43770,793,510515,Parking Fund,DCS ‐ Parking Services,Comp Time,1772,0,0,0
+5060,43770,101,510519,Parking Fund,DCS ‐ Parking Services,Vacation Time Payout,4478,3084,0,0
+5060,43770,793,510519,Parking Fund,DCS ‐ Parking Services,Vacation Time Payout,739,8720,0,0
+5060,43770,101,510520,Parking Fund,DCS ‐ Parking Services,Sick Time Payout,0,0,0,0
+5060,43770,101,520515,Parking Fund,DCS ‐ Parking Services,Health Insurance Opt Out,1007,171,0,0
+5060,43770,101,520520,Parking Fund,DCS ‐ Parking Services,Life Insurance Expense,401,286,326,263
+5060,43770,783,520520,Parking Fund,DCS ‐ Parking Services,Life Insurance Expense,32,25,33,33
+5060,43770,784,520520,Parking Fund,DCS ‐ Parking Services,Life Insurance Expense,77,61,79,79
+5060,43770,785,520520,Parking Fund,DCS ‐ Parking Services,Life Insurance Expense,0,0,0,0
+5060,43770,786,520520,Parking Fund,DCS ‐ Parking Services,Life Insurance Expense,79,89,60,60
+5060,43770,787,520520,Parking Fund,DCS ‐ Parking Services,Life Insurance Expense,131,104,135,135
+5060,43770,788,520520,Parking Fund,DCS ‐ Parking Services,Life Insurance Expense,154,122,158,158
+5060,43770,793,520520,Parking Fund,DCS ‐ Parking Services,Life Insurance Expense,500,276,279,233
+5060,43770,101,520521,Parking Fund,DCS ‐ Parking Services,Health Insurance Expense,55337,41153,56223,26995
+5060,43770,783,520521,Parking Fund,DCS ‐ Parking Services,Health Insurance Expense,2672,2569,3711,3685
+5060,43770,784,520521,Parking Fund,DCS ‐ Parking Services,Health Insurance Expense,6490,6239,9013,8949
+5060,43770,785,520521,Parking Fund,DCS ‐ Parking Services,Health Insurance Expense,0,0,0,0
+5060,43770,786,520521,Parking Fund,DCS ‐ Parking Services,Health Insurance Expense,8824,13493,6893,6844
+5060,43770,787,520521,Parking Fund,DCS ‐ Parking Services,Health Insurance Expense,11071,10643,15376,15267
+5060,43770,788,520521,Parking Fund,DCS ‐ Parking Services,Health Insurance Expense,12979,12478,18027,17899
+5060,43770,793,520521,Parking Fund,DCS ‐ Parking Services,Health Insurance Expense,63763,41609,17069,12801
+5060,43770,101,520522,Parking Fund,DCS ‐ Parking Services,Social Security Expense,19117,16106,21347,15016
+5060,43770,783,520522,Parking Fund,DCS ‐ Parking Services,Social Security Expense,872,863,1255,1181
+5060,43770,784,520522,Parking Fund,DCS ‐ Parking Services,Social Security Expense,2118,2097,3048,2869
+5060,43770,785,520522,Parking Fund,DCS ‐ Parking Services,Social Security Expense,0,0,0,0
+5060,43770,786,520522,Parking Fund,DCS ‐ Parking Services,Social Security Expense,2753,4555,3075,2938
+5060,43770,787,520522,Parking Fund,DCS ‐ Parking Services,Social Security Expense,3612,3578,5200,4894
+5060,43770,788,520522,Parking Fund,DCS ‐ Parking Services,Social Security Expense,4235,4736,6097,5737
+5060,43770,793,520522,Parking Fund,DCS ‐ Parking Services,Social Security Expense,12045,9212,7873,6735
+5060,43770,101,520523,Parking Fund,DCS ‐ Parking Services,Medicare Expense,4527,3822,5127,3646
+5060,43770,783,520523,Parking Fund,DCS ‐ Parking Services,Medicare Expense,204,202,294,276
+5060,43770,784,520523,Parking Fund,DCS ‐ Parking Services,Medicare Expense,495,490,713,671
+5060,43770,785,520523,Parking Fund,DCS ‐ Parking Services,Medicare Expense,0,0,0,0
+5060,43770,786,520523,Parking Fund,DCS ‐ Parking Services,Medicare Expense,644,1065,719,687
+5060,43770,787,520523,Parking Fund,DCS ‐ Parking Services,Medicare Expense,845,837,1216,1144
+5060,43770,788,520523,Parking Fund,DCS ‐ Parking Services,Medicare Expense,990,1108,1426,1342
+5060,43770,793,520523,Parking Fund,DCS ‐ Parking Services,Medicare Expense,2817,2154,1841,1575
+5060,43770,101,520527,Parking Fund,DCS ‐ Parking Services,IMRF Contributions,32586,18251,29643,20972
+5060,43770,783,520527,Parking Fund,DCS ‐ Parking Services,IMRF Contributions,1317,939,1784,1589
+5060,43770,784,520527,Parking Fund,DCS ‐ Parking Services,IMRF Contributions,3197,2282,4332,3859
+5060,43770,785,520527,Parking Fund,DCS ‐ Parking Services,IMRF Contributions,0,0,0,0
+5060,43770,786,520527,Parking Fund,DCS ‐ Parking Services,IMRF Contributions,4420,5049,4370,3952
+5060,43770,787,520527,Parking Fund,DCS ‐ Parking Services,IMRF Contributions,5454,3892,7390,6583
+5060,43770,788,520527,Parking Fund,DCS ‐ Parking Services,IMRF Contributions,6394,5128,8664,7718
+5060,43770,793,520527,Parking Fund,DCS ‐ Parking Services,IMRF Contributions,19929,10484,11188,9059
+5060,43770,101,520528,Parking Fund,DCS ‐ Parking Services,S125 Admin. Expenses,0,0,0,0
+5060,43770,101,520900,Parking Fund,DCS ‐ Parking Services,Change in NPO,16257,59496,0,0
+5060,43770,101,530650,Parking Fund,DCS ‐ Parking Services,Conferences Training,2345,105,6000,0
+5060,43770,793,530650,Parking Fund,DCS ‐ Parking Services,Conferences Training,851,0,0,0
+5060,43770,101,530658,Parking Fund,DCS ‐ Parking Services,Temporary Services,14532,14363,10000,0
+5060,43770,101,530660,Parking Fund,DCS ‐ Parking Services,General Contractuals,0,0,91000,91000
+5060,43770,783,530660,Parking Fund,DCS ‐ Parking Services,General Contractuals,85302,123411,136400,135771
+5060,43770,784,530660,Parking Fund,DCS ‐ Parking Services,General Contractuals,261792,212599,257800,262419
+5060,43770,785,530660,Parking Fund,DCS ‐ Parking Services,General Contractuals,0,0,83500,50000
+5060,43770,786,530660,Parking Fund,DCS ‐ Parking Services,General Contractuals,126230,337204,142700,142400
+5060,43770,787,530660,Parking Fund,DCS ‐ Parking Services,General Contractuals,63477,84867,160000,162500
+5060,43770,788,530660,Parking Fund,DCS ‐ Parking Services,General Contractuals,607254,514849,582900,584535
+5060,43770,101,530667,Parking Fund,DCS ‐ Parking Services,External Support,19204,50000,30000,30000
+5060,43770,788,530667,Parking Fund,DCS ‐ Parking Services,External Support,0,0,0,0
+5060,43770,101,530675,Parking Fund,DCS ‐ Parking Services,Bank Charges,0,5280,0,0
+5060,43770,784,530675,Parking Fund,DCS ‐ Parking Services,Bank Charges,14752,15382,15000,15000
+5060,43770,786,530675,Parking Fund,DCS ‐ Parking Services,Bank Charges,21994,40561,25000,40000
+5060,43770,788,530675,Parking Fund,DCS ‐ Parking Services,Bank Charges,48768,30593,55000,35000
+5060,41300,169,530804,Parking Fund,DCS ‐ Parking Services,Bond Paying Agent Fees,0,0,0,0
+5060,43770,101,540657,Parking Fund,DCS ‐ Parking Services,Property Taxes on Leased Lots,0,0,0,0
+5060,43770,787,540657,Parking Fund,DCS ‐ Parking Services,Property Taxes on Leased Lots,61207,62578,75000,67000
+5060,43770,783,540674,Parking Fund,DCS ‐ Parking Services,Property Repair,6243,377,10000,0
+5060,43770,784,540674,Parking Fund,DCS ‐ Parking Services,Property Repair,13816,16139,20000,20000
+5060,43770,785,540674,Parking Fund,DCS ‐ Parking Services,Property Repair,0,7645,10000,10000
+5060,43770,786,540674,Parking Fund,DCS ‐ Parking Services,Property Repair,465,892,20000,20000
+5060,43700,787,540674,Parking Fund,DCS ‐ Parking Services,Property Repair,0,0,0,0
+5060,43770,787,540674,Parking Fund,DCS ‐ Parking Services,Property Repair,22400,0,25000,25000
+5060,43770,788,540674,Parking Fund,DCS ‐ Parking Services,Property Repair,24936,26916,27000,27000
+5060,43770,783,540691,Parking Fund,DCS ‐ Parking Services,Water Charges,10,0,0,0
+5060,43770,784,540691,Parking Fund,DCS ‐ Parking Services,Water Charges,558,303,1000,600
+5060,43770,788,540691,Parking Fund,DCS ‐ Parking Services,Water Charges,2155,1026,4000,1100
+5060,43770,783,540692,Parking Fund,DCS ‐ Parking Services,Electricity,7280,6942,10000,7000
+5060,43770,784,540692,Parking Fund,DCS ‐ Parking Services,Electricity,20857,23380,30000,24000
+5060,43770,787,540692,Parking Fund,DCS ‐ Parking Services,Electricity,1748,1348,2000,1400
+5060,43770,788,540692,Parking Fund,DCS ‐ Parking Services,Electricity,38871,43812,48000,44000
+5060,43770,788,540693,Parking Fund,DCS ‐ Parking Services,Natural Gas,2004,2992,4500,3500
+5060,43770,787,540707,Parking Fund,DCS ‐ Parking Services,Lot Rental Reimbursement,29019,21382,58000,58000
+5060,43770,793,550601,Parking Fund,DCS ‐ Parking Services,Printing,32779,77815,65000,70000
+5060,43770,101,550602,Parking Fund,DCS ‐ Parking Services,Membership Dues,665,265,1500,0
+5060,43770,101,550603,Parking Fund,DCS ‐ Parking Services,Postage,0,0,0,0
+5060,43770,793,550603,Parking Fund,DCS ‐ Parking Services,Postage,19064,12780,15000,15000
+5060,43770,784,550632,Parking Fund,DCS ‐ Parking Services,Laundry Service,182,106,200,0
+5060,43770,786,550632,Parking Fund,DCS ‐ Parking Services,Laundry Service,600,0,600,0
+5060,43770,788,550632,Parking Fund,DCS ‐ Parking Services,Laundry Service,500,80,500,500
+5060,43770,101,550652,Parking Fund,DCS ‐ Parking Services,Legal Postings and Doc. Fees,497,70,1000,500
+5060,43770,785,550656,Parking Fund,DCS ‐ Parking Services,Miscellaneous Expense,0,0,0,0
+5060,43770,101,550663,Parking Fund,DCS ‐ Parking Services,Software License Updates,15321,17846,0,0
+5060,43770,101,550671,Parking Fund,DCS ‐ Parking Services,Office Machine Service,0,0,0,0
+5060,43770,101,560620,Parking Fund,DCS ‐ Parking Services,Office Supplies,1106,1843,2500,500
+5060,43770,793,560620,Parking Fund,DCS ‐ Parking Services,Office Supplies,4792,0,5000,500
+5060,43770,783,560623,Parking Fund,DCS ‐ Parking Services,Cleaning Supplies,365,42,500,0
+5060,43770,784,560623,Parking Fund,DCS ‐ Parking Services,Cleaning Supplies,1405,0,2500,0
+5060,43770,786,560623,Parking Fund,DCS ‐ Parking Services,Cleaning Supplies,0,0,0,0
+5060,43770,788,560623,Parking Fund,DCS ‐ Parking Services,Cleaning Supplies,3299,3875,5000,5000
+5060,43770,784,560625,Parking Fund,DCS ‐ Parking Services,Clothing,328,63,600,0
+5060,43770,786,560625,Parking Fund,DCS ‐ Parking Services,Clothing,371,0,1200,0
+5060,43770,788,560625,Parking Fund,DCS ‐ Parking Services,Clothing,426,0,1000,0
+5060,43770,101,560631,Parking Fund,DCS ‐ Parking Services,Operational Supplies,1860,1238,2500,1500
+5060,43770,786,560631,Parking Fund,DCS ‐ Parking Services,Operational Supplies,9114,6084,10000,6500
+5060,43770,788,560631,Parking Fund,DCS ‐ Parking Services,Operational Supplies,39284,11057,40000,12000
+5060,43770,793,560631,Parking Fund,DCS ‐ Parking Services,Operational Supplies,0,0,0,0
+5060,43770,783,560634,Parking Fund,DCS ‐ Parking Services,Sign Replacement,103,0,1000,0
+5060,43770,784,560634,Parking Fund,DCS ‐ Parking Services,Sign Replacement,178,0,2000,0
+5060,43770,786,560634,Parking Fund,DCS ‐ Parking Services,Sign Replacement,12482,2309,10000,0
+5060,43770,787,560634,Parking Fund,DCS ‐ Parking Services,Sign Replacement,3785,1515,10000,0
+5060,43770,788,560634,Parking Fund,DCS ‐ Parking Services,Sign Replacement,4311,0,5000,1000
+5060,43770,786,560637,Parking Fund,DCS ‐ Parking Services,Vehicle Equipment Parts,0,0,0,0
+5060,43770,788,560637,Parking Fund,DCS ‐ Parking Services,Vehicle Equipment Parts,0,0,0,0
+5060,43770,783,570705,Parking Fund,DCS ‐ Parking Services,Building Improvements,0,18450,76500,75000
+5060,43770,784,570705,Parking Fund,DCS ‐ Parking Services,Building Improvements,280294,245514,0,0
+5060,43770,785,570705,Parking Fund,DCS ‐ Parking Services,Building Improvements,0,0,0,0
+5060,43770,786,570705,Parking Fund,DCS ‐ Parking Services,Building Improvements,0,0,0,0
+5060,43770,787,570705,Parking Fund,DCS ‐ Parking Services,Building Improvements,0,0,0,0
+5060,43770,788,570705,Parking Fund,DCS ‐ Parking Services,Building Improvements,466792,0,400000,0
+5060,41300,793,570707,Parking Fund,DCS ‐ Parking Services,Capital Improvements,0,0,0,0
+5060,43770,783,570707,Parking Fund,DCS ‐ Parking Services,Capital Improvements,0,0,283556,10000
+5060,43770,784,570707,Parking Fund,DCS ‐ Parking Services,Capital Improvements,11059,0,283556,0
+5060,43770,785,570707,Parking Fund,DCS ‐ Parking Services,Capital Improvements,0,38000,0,0
+5060,43770,786,570707,Parking Fund,DCS ‐ Parking Services,Capital Improvements,290788,329539,450000,200000
+5060,43770,787,570707,Parking Fund,DCS ‐ Parking Services,Capital Improvements,135093,330196,580000,125000
+5060,43770,788,570707,Parking Fund,DCS ‐ Parking Services,Capital Improvements,0,0,283556,0
+5060,43770,783,570710,Parking Fund,DCS ‐ Parking Services,Equipment,190,0,0,0
+5060,43770,784,570710,Parking Fund,DCS ‐ Parking Services,Equipment,2712,0,0,0
+5060,43770,786,570710,Parking Fund,DCS ‐ Parking Services,Equipment,530,0,1000,0
+5060,43770,787,570710,Parking Fund,DCS ‐ Parking Services,Equipment,2618,0,0,0
+5060,43770,788,570710,Parking Fund,DCS ‐ Parking Services,Equipment,10597,4000,5000,0
+5060,43770,101,570720,Parking Fund,DCS ‐ Parking Services,Computer Equipment,0,11463,0,0
+5060,43770,783,570720,Parking Fund,DCS ‐ Parking Services,Computer Equipment,0,0,0,0
+5060,43770,783,570750,Parking Fund,DCS ‐ Parking Services,Vehicles,0,0,0,0
+5060,43770,784,570750,Parking Fund,DCS ‐ Parking Services,Vehicles,0,240,0,0
+5060,43770,786,570750,Parking Fund,DCS ‐ Parking Services,Vehicles,0,0,32000,0
+5060,43770,787,570750,Parking Fund,DCS ‐ Parking Services,Vehicles,0,0,0,0
+5060,43770,788,570750,Parking Fund,DCS ‐ Parking Services,Vehicles,0,0,0,0
+5060,41300,101,580898,Parking Fund,DCS ‐ Parking Services,Amortization,31069,31075,0,0
+5060,41300,101,580899,Parking Fund,DCS ‐ Parking Services,Depreciation Expense,1559101,1530044,0,0
+5060,41300,101,580999,Parking Fund,DCS ‐ Parking Services,Less Fixed Assets Capitalized,838340,141038,0,0
+5060,0,0,174590,Parking Fund,DCS ‐ Parking Services,Gain (Loss) on Disposal of Capital Assets,108725,0,0,0
+5060,41300,157,581802,Parking Fund,DCS ‐ Parking Services,2010C Bond Interest Expense,138196,94904,57550,27149
+5060,41300,157,581801,Parking Fund,DCS ‐ Parking Services,2010C Bond Principal Payment,0,0,760025,215635
+5060,41300,146,581802,Parking Fund,DCS ‐ Parking Services,2016B Bond Interest Expense,158661,135488,132955,129055
+5060,41300,146,581801,Parking Fund,DCS ‐ Parking Services,2016B Bond Principal Payment,0,0,195000,195000
+5060,41300,140,581802,Parking Fund,DCS ‐ Parking Services,2016E Bond Interest Expense,357081,344731,334231,321181
+5060,41300,140,581801,Parking Fund,DCS ‐ Parking Services,2016E Bond Principal Payment,0,0,435000,445000
+5060,41300,138,581802,Parking Fund,DCS ‐ Parking Services,2018A Bond Interest Expense,0,0,207868,184108
+5060,41300,138,581801,Parking Fund,DCS ‐ Parking Services,2018A Bond Principal Payment,0,0,880000,895000
+5060,41300,141,581802,Parking Fund,DCS ‐ Parking Services,2020A Bond Interest Payment,0,0,0,12537
+5060,41300,141,581801,Parking Fund,DCS ‐ Parking Services,2020A Bond Principal Payment,0,0,0,0
+5060,41300,101,591826,Parking Fund,DCS ‐ Parking Services,Transfer To Sir Fund,1000000,1000000,300000,300000
+5060,41300,101,591801,Parking Fund,DCS ‐ Parking Services,Transfer To General Fund,0,40000,0,0
+5040,41300,101,510501,Water Fund,Water/Sewer,Regular Salaries,99806,94412,104735,197333
+5040,43730,101,510501,Water Fund,Water/Sewer,Regular Salaries,68613,40989,130248,182226
+5040,43730,776,510501,Water Fund,Water/Sewer,Regular Salaries,167186,154109,214388,220274
+5040,43730,777,510501,Water Fund,Water/Sewer,Regular Salaries,145524,152911,262485,248155
+5040,43730,781,510501,Water Fund,Water/Sewer,Regular Salaries,0,0,0,0
+5040,43750,101,510501,Water Fund,Water/Sewer,Regular Salaries,65911,39543,97061,94693
+5040,43750,781,510501,Water Fund,Water/Sewer,Regular Salaries,289086,334691,264611,248155
+5040,41300,101,510503,Water Fund,Water/Sewer,Overtime,87,877,0,0
+5040,43730,101,510503,Water Fund,Water/Sewer,Overtime,131,0,0,0
+5040,43730,776,510503,Water Fund,Water/Sewer,Overtime,11898,13842,10000,10000
+5040,43730,777,510503,Water Fund,Water/Sewer,Overtime,8520,6344,30000,30000
+5040,43750,781,510503,Water Fund,Water/Sewer,Overtime,26447,25994,20000,20000
+5040,43730,101,510518,Water Fund,Water/Sewer,Seasonal Employees,0,4487,0,0
+5040,43750,781,510519,Water Fund,Water/Sewer,Vacation Time Payout,1406,5331,0,0
+5040,43730,776,520515,Water Fund,Water/Sewer,Health Insurance Opt Out,399,0,0,0
+5040,43750,781,520515,Water Fund,Water/Sewer,Health Insurance Opt Out,504,0,0,0
+5040,41300,101,520520,Water Fund,Water/Sewer,Life Insurance Expense,196,177,186,186
+5040,43730,101,520520,Water Fund,Water/Sewer,Life Insurance Expense,76,47,107,200
+5040,43730,776,520520,Water Fund,Water/Sewer,Life Insurance Expense,214,153,279,279
+5040,43730,777,520520,Water Fund,Water/Sewer,Life Insurance Expense,271,226,419,419
+5040,43750,101,520520,Water Fund,Water/Sewer,Life Insurance Expense,76,46,93,93
+5040,43750,781,520520,Water Fund,Water/Sewer,Life Insurance Expense,520,535,419,419
+5040,41300,101,520521,Water Fund,Water/Sewer,Health Insurance Expense,29001,25528,25988,49988
+5040,43730,101,520521,Water Fund,Water/Sewer,Health Insurance Expense,13112,8460,23777,46917
+5040,43730,776,520521,Water Fund,Water/Sewer,Health Insurance Expense,25823,16921,29847,53691
+5040,43730,777,520521,Water Fund,Water/Sewer,Health Insurance Expense,51280,47885,81167,78068
+5040,43750,101,520521,Water Fund,Water/Sewer,Health Insurance Expense,13112,8460,20201,20201
+5040,43750,781,520521,Water Fund,Water/Sewer,Health Insurance Expense,85871,97922,81167,78068
+5040,41300,101,520522,Water Fund,Water/Sewer,Social Security Expense,5683,5709,6494,12655
+5040,43730,101,520522,Water Fund,Water/Sewer,Social Security Expense,4376,2927,7968,11339
+5040,43730,776,520522,Water Fund,Water/Sewer,Social Security Expense,10540,9947,13912,14277
+5040,43730,777,520522,Water Fund,Water/Sewer,Social Security Expense,8759,9098,18134,17246
+5040,43750,101,520522,Water Fund,Water/Sewer,Social Security Expense,3719,2221,6018,5871
+5040,43750,781,520522,Water Fund,Water/Sewer,Social Security Expense,18165,20977,17646,16626
+5040,41300,101,520523,Water Fund,Water/Sewer,Medicare Expense,1329,1335,1519,2856
+5040,43730,101,520523,Water Fund,Water/Sewer,Medicare Expense,1023,685,1889,2642
+5040,43730,776,520523,Water Fund,Water/Sewer,Medicare Expense,2465,2326,3254,3339
+5040,43730,777,520523,Water Fund,Water/Sewer,Medicare Expense,2050,2128,4241,4033
+5040,43750,101,520523,Water Fund,Water/Sewer,Medicare Expense,870,519,1407,1373
+5040,43750,781,520523,Water Fund,Water/Sewer,Medicare Expense,4247,4905,4127,3888
+5040,41300,101,520527,Water Fund,Water/Sewer,IMRF Contributions,9862,6380,9227,16152
+5040,43730,101,520527,Water Fund,Water/Sewer,IMRF Contributions,6461,2562,10401,15198
+5040,43730,776,520527,Water Fund,Water/Sewer,IMRF Contributions,17774,10905,19232,18697
+5040,43730,777,520527,Water Fund,Water/Sewer,IMRF Contributions,15262,10320,25768,23198
+5040,43750,101,520527,Water Fund,Water/Sewer,IMRF Contributions,6486,2562,8551,7897
+5040,43750,781,520527,Water Fund,Water/Sewer,IMRF Contributions,29578,22295,25074,22364
+5040,43730,101,520528,Water Fund,Water/Sewer,Change in IMRF NPL,17517,7555,0,0
+5040,43730,101,520900,Water Fund,Water/Sewer,Change in NPO,2377,1042,0,0
+5040,43730,101,530650,Water Fund,Water/Sewer,Conferences Training,5316,8675,14500,7000
+5040,43730,101,530658,Water Fund,Water/Sewer,Temporary Services,0,0,5000,0
+5040,41300,101,530660,Water Fund,Water/Sewer,General Contractuals,21033,19016,24000,24000
+5040,43730,776,530660,Water Fund,Water/Sewer,General Contractuals,36190,36425,51000,49500
+5040,43770,776,530660,Water Fund,Water/Sewer,General Contractuals,0,0,0,0
+5040,43730,101,530667,Water Fund,Water/Sewer,External Support,36031,177848,163000,168000
+5040,43750,101,530667,Water Fund,Water/Sewer,External Support,0,0,0,0
+5040,43730,776,530667,Water Fund,Water/Sewer,External Support,26825,14653,75000,76100
+5040,43730,777,530667,Water Fund,Water/Sewer,External Support,228748,197869,361500,339000
+5040,43750,781,530667,Water Fund,Water/Sewer,External Support,290950,255396,310000,359500
+5040,41300,101,530675,Water Fund,Water/Sewer,Bank Charges,50326,60258,55000,60000
+5040,41999,776,540674,Water Fund,Water/Sewer,Property Repair,272,0,0,0
+5040,43730,776,540674,Water Fund,Water/Sewer,Property Repair,6191,23626,30000,45000
+5040,43730,101,540690,Water Fund,Water/Sewer,Telecommunication Charges,0,1651,2300,2300
+5040,43730,776,540690,Water Fund,Water/Sewer,Telecommunication Charges,1851,2589,3650,3650
+5040,43730,777,540690,Water Fund,Water/Sewer,Telecommunication Charges,0,2485,3000,3000
+5040,43730,776,540692,Water Fund,Water/Sewer,Electricity,91707,105000,105000,110000
+5040,43730,776,540693,Water Fund,Water/Sewer,Natural Gas,1723,5088,4500,5000
+5040,43730,776,560691,Water Fund,Water/Sewer,City Of Chicago Water Expense,7137996,7128340,7400000,7650000
+5040,41300,101,550601,Water Fund,Water/Sewer,Printing,699,579,600,0
+5040,41300,172,550601,Water Fund,Water/Sewer,Printing,0,0,0,0
+5040,43730,101,550601,Water Fund,Water/Sewer,Printing,2693,1784,2500,2500
+5040,43730,101,550602,Water Fund,Water/Sewer,Membership Dues,3487,3996,4400,4400
+5040,41300,101,550603,Water Fund,Water/Sewer,Postage,24386,20994,26000,26000
+5040,43730,101,550603,Water Fund,Water/Sewer,Postage,379,126,400,400
+5040,43730,101,550632,Water Fund,Water/Sewer,Laundry Service,162,1630,0,0
+5040,43750,101,550632,Water Fund,Water/Sewer,Laundry Service,2719,1976,0,0
+5040,43730,101,550652,Water Fund,Water/Sewer,Legal Postings and Doc. Fees,0,231,300,1000
+5040,41300,101,550663,Water Fund,Water/Sewer,Software License Updates,0,0,0,0
+5040,43730,101,550671,Water Fund,Water/Sewer,Office Machine Service,2647,2417,2300,2500
+5040,41300,101,560620,Water Fund,Water/Sewer,Office Supplies,0,0,0,0
+5040,43730,101,560620,Water Fund,Water/Sewer,Office Supplies,0,0,200,200
+5040,43750,101,560620,Water Fund,Water/Sewer,Office Supplies,0,0,200,200
+5040,43730,101,560625,Water Fund,Water/Sewer,Clothing,2746,2662,5000,5000
+5040,43750,101,560625,Water Fund,Water/Sewer,Clothing,2903,2462,5000,5000
+5040,43730,776,560631,Water Fund,Water/Sewer,Operational Supplies,26633,23155,30000,30000
+5040,43730,777,560631,Water Fund,Water/Sewer,Operational Supplies,108911,112521,130000,130000
+5040,43730,778,560631,Water Fund,Water/Sewer,Operational Supplies,992,1499,2500,2500
+5040,43730,781,560631,Water Fund,Water/Sewer,Operational Supplies,0,50,0,0
+5040,43750,781,560631,Water Fund,Water/Sewer,Operational Supplies,9225,8714,25000,25000
+5040,43730,777,560633,Water Fund,Water/Sewer,Roadway Maintenance,27516,16661,35000,35000
+5040,43730,781,560633,Water Fund,Water/Sewer,Roadway Maintenance,0,0,0,0
+5040,43750,781,560633,Water Fund,Water/Sewer,Roadway Maintenance,20226,15164,35000,35000
+5040,43730,776,570707,Water Fund,Water/Sewer,Capital Improvements,57688,0,1845666,570000
+5040,43730,777,570707,Water Fund,Water/Sewer,Capital Improvements,1594532,1355504,3262880,6375000
+5040,43730,781,570707,Water Fund,Water/Sewer,Capital Improvements,0,0,0,0
+5040,43750,777,570707,Water Fund,Water/Sewer,Capital Improvements,0,0,0,0
+5040,43750,781,570707,Water Fund,Water/Sewer,Capital Improvements,1913178,1892084,3891000,4786000
+5040,41300,101,570711,Water Fund,Water/Sewer,Software,0,0,0,0
+5040,43730,777,570711,Water Fund,Water/Sewer,Software,0,0,0,0
+5040,43730,776,570710,Water Fund,Water/Sewer,Equipment,3655,7873,20000,10000
+5040,43730,777,570710,Water Fund,Water/Sewer,Equipment,5482,7107,7500,7500
+5040,43750,781,570710,Water Fund,Water/Sewer,Equipment,4160,6771,7500,7500
+5040,43730,776,570720,Water Fund,Water/Sewer,Computer Equipment,0,0,0,0
+5040,43730,777,570720,Water Fund,Water/Sewer,Computer Equipment,0,0,1200,0
+5040,43750,781,570720,Water Fund,Water/Sewer,Computer Equipment,932,0,0,0
+5040,43730,777,570740,Water Fund,Water/Sewer,Facilities Furnishings,0,0,0,0
+5040,43730,777,570750,Water Fund,Water/Sewer,Vehicles,0,49961,90000,0
+5040,43750,781,570750,Water Fund,Water/Sewer,Vehicles,364027,23499,40000,0
+5040,43730,101,580700,Water Fund,Water/Sewer,Bad Debt Expense,0,0,0,0
+5040,41300,101,580898,Water Fund,Water/Sewer,Amortization,11570,11576,0,0
+5040,41300,101,580899,Water Fund,Water/Sewer,Depreciation Expense,1466666,1639424,0,0
+5040,41300,101,580999,Water Fund,Water/Sewer,Less Fixed Assets Capitalized,3254912,2759654,0,0
+5040,41300,157,581802,Water Fund,Water/Sewer,2010C Bond Interest Expense,57271,39330,23850,11251
+5040,41300,157,581801,Water Fund,Water/Sewer,2010C Bond Principal,0,0,314975,89365
+5040,41300,159,581802,Water Fund,Water/Sewer,2011B Bond Interest Expense,95600,95523,95261,6068
+5040,41300,159,581801,Water Fund,Water/Sewer,2011B Bond Principal,0,0,17520,388360
+5040,41300,148,581802,Water Fund,Water/Sewer,2012A Bond Interest Expense,31137,26035,21618,18075
+5040,41300,148,581801,Water Fund,Water/Sewer,2012A Bond Principal,0,0,177135,233770
+5040,41300,142,581802,Water Fund,Water/Sewer,2020B Bond Interest,0,0,0,79732
+5040,41300,142,581801,Water Fund,Water/Sewer,2020B Bond Principal,0,0,0,0
+5040,41300,101,591826,Water Fund,Water/Sewer,Transfer to Sir Fund,1000000,1000000,570000,670000
+4025,41300,101,530804,Debt Service Fund,Finance,Bond Paying Agent Fees,3000,7042,8500,8500
+4025,41300,185,581801,2007A Debt Service Fund,Finance,Bond Principal Payment,0,125000,0,0
+4025,41300,185,581802,2007A Debt Service Fund,Finance,Bond Interest Expense,0,152641,0,0
+4025,41300,158,581801,2011A Debt Service Fund,Finance,Bond Principal Payment,0,0,680000,0
+4025,41300,158,581802,2011A Debt Service Fund,Finance,Bond Interest Expense,0,0,10200,0
+4025,41300,159,581801,2011B Debt Service Fund,Finance,Bond Principal Payment,12480,12480,12480,276640
+4025,41300,159,581802,2011B Debt Service Fund,Finance,Bond Interest Expense,68606,68232,67857,4322
+4025,41300,148,581801,2012A Debt Service Fund,Finance,Bond Principal Payment,796950,834900,557865,736230
+4025,41300,148,581802,2012A Debt Service Fund,Finance,Bond Interest Expense,100720,84780,68082,56925
+4025,41300,160,581801,2015A Debt Service Fund,Finance,Bond Principal Payment,650000,935000,1070000,625000
+4025,41300,160,581802,2015A Debt Service Fund,Finance,Bond Interest Expense,341550,328550,309850,288450
+4025,41300,154,581801,2015B Debt Service Fund,Finance,Bond Principal Payment,420000,430000,450000,240000
+4025,41300,154,581802,2015B Debt Service Fund,Finance,Bond Interest Expense,269888,257288,244388,230888
+4025,41300,145,581801,2016A Debt Service Fund,Finance,Bond Principal Payment,0,0,0,0
+4025,41300,145,581802,2016A Debt Service Fund,Finance,Bond Interest Expense,640119,640119,640119,640118
+4025,41300,147,581801,2016C Debt Service Fund,Finance,Bond Principal Payment,0,2845000,0,0
+4025,41300,147,581802,2016C Debt Service Fund,Finance,Bond Interest Expense,63663,68897,0,0
+4025,41300,139,581801,2016D Debt Service Fund,Finance,Bond Principal Payment,0,0,750000,25000
+4025,41300,139,581802,2016D Debt Service Fund,Finance,Bond Interest Expense,305281,152641,301531,279032
+4025,41300,150,530805,2017A Debt Service Fund,Finance,Bond Issuance Fees,0,0,0,0
+4025,41300,150,581801,2017A Debt Service Fund,Finance,Bond Principal Payment,0,0,0,0
+4025,41300,150,581802,2017A Debt Service Fund,Finance,Bond Interest Expense,397174,420537,420538,420538
+4025,41300,165,581801,2017B Debt Service Fund,Finance,Bond Principal Payment,400000,295000,195000,495000
+4025,41300,165,581802,2017B Debt Service Fund,Finance,Bond Interest Expense,49091,39400,27600,19800
+4025,41300,166,581801,2017C Debt Service Fund,Finance,Bond Principal Payment,870000,905000,945000,0
+4025,41300,166,581802,2017C Debt Service Fund,Finance,Bond Interest Expense,120511,92500,47250,0
+4025,41300,141,581801,2020A Debt Service Fund,Finance,Bond Principal Payment,0,0,0,0
+4025,41300,141,581802,2020A Debt Service Fund,Finance,Bond Interest Expense,0,0,0,266073
+4025,41300,142,581801,2020B Debt Service Fund,Finance,Bond Principal Payment,0,0,0,0
+4025,41300,142,581802,2020B Debt Service Fund,Finance,Bond Interest Expense,0,0,0,56794
+4025,41300,199,591812,Transfer to CIP Fund,Finance,Transfer to CIP Fund,0,0,17225000,0
+6028,41080,133,510501,Health Insurance Fund,HR ‐ Human Resources,Regular Salaries,0,0,99507,98369
+6028,41080,133,510503,Health Insurance Fund,HR ‐ Human Resources,Overtime,0,0,1000,1000
+6028,41080,133,520520,Health Insurance Fund,HR ‐ Human Resources,Life Insurance Expense,0,0,116,116
+6028,41080,133,520521,Health Insurance Fund,HR ‐ Human Resources,Health Insurance Expense,0,0,21495,23628
+6028,41080,133,520522,Health Insurance Fund,HR ‐ Human Resources,Social Security Expense,0,0,12127,12057
+6028,41080,133,520523,Health Insurance Fund,HR ‐ Human Resources,Medicare Expense,0,0,1457,1441
+6028,41080,133,520527,Health Insurance Fund,HR ‐ Human Resources,IMRF Contributions,0,0,8767,8204
+6028,41080,101,520683,Health Insurance Fund,HR ‐ Human Resources,Health Insurance Claims,6075166,6801466,7000000,7200000
+6028,41080,101,520684,Health Insurance Fund,HR ‐ Human Resources,Allied FSA Med Contributions Paid,224695,250594,280000,260000
+6028,41080,101,520685,Health Insurance Fund,HR ‐ Human Resources,Vision Insurance Premiums Paid,25707,48697,50000,40000
+6028,41080,101,520686,Health Insurance Fund,HR ‐ Human Resources,Aflac Premiums Paid,30632,0,0,0
+6028,41080,101,520687,Health Insurance Fund,HR ‐ Human Resources,Life Insurance Premiums,106112,114182,115000,115000
+6028,41090,101,520687,Health Insurance Fund,HR ‐ Human Resources,Life Insurance Premiums,18973,0,0,0
+6028,41080,101,520688,Health Insurance Fund,HR ‐ Human Resources,Dental Insurance Premiums,205201,261632,275000,215000
+6028,41080,101,520689,Health Insurance Fund,HR ‐ Human Resources,Allied FSA Dep Care Contributions Paid,38748,45870,50000,40000
+6028,41080,101,530667,Health Insurance Fund,HR ‐ Human Resources,External Support,49310,43672,125000,125000
+6026,41071,101,510501,Self Insured Retention Fund,LEGAL ‐ SIRF,Regular Salaries,62533,62444,67950,67247
+6026,41071,101,510503,Self Insured Retention Fund,LEGAL ‐ SIRF,Overtime,457,187,0,0
+6026,41071,101,520520,Self Insured Retention Fund,LEGAL ‐ SIRF,Life Insurance Expense,98,87,93,93
+6026,41071,101,520521,Self Insured Retention Fund,LEGAL ‐ SIRF,Health Insurance Expense,22521,19504,19145,21495
+6026,41071,101,520522,Self Insured Retention Fund,LEGAL ‐ SIRF,Social Security Expense,3467,3593,4213,4169
+6026,41071,101,520523,Self Insured Retention Fund,LEGAL ‐ SIRF,Medicare Expense,811,840,985,975
+6026,41071,101,520527,Self Insured Retention Fund,LEGAL ‐ SIRF,IMRF Contributions,6220,4056,5986,5608
+6026,41071,151,520678,Self Insured Retention Fund,LEGAL ‐ SIRF,Workers Comp Claims,1002717,125573,670000,400000
+6026,41071,151,520679,Self Insured Retention Fund,LEGAL ‐ SIRF,Workers Comp‐TTD,320471,230915,220000,220000
+6026,41071,151,520680,Self Insured Retention Fund,LEGAL ‐ SIRF,Workers Comp‐Other,157640,272090,110000,360000
+6026,41071,101,530667,Self Insured Retention Fund,LEGAL ‐ SIRF,External Support,11644,16864,45000,45000
+6026,41071,101,530679,Self Insured Retention Fund,LEGAL ‐ SIRF,Legal Fees Workers Comp,58184,36529,55000,55000
+6026,41071,101,530680,Self Insured Retention Fund,LEGAL ‐ SIRF,Legal Fees Liability Claims,159305,199107,150000,150000
+6026,41071,101,550603,Self Insured Retention Fund,LEGAL ‐ SIRF,Postage,0,0,300,300
+6026,41071,101,550681,Self Insured Retention Fund,LEGAL ‐ SIRF,Insurance Premiums,322865,316955,363000,435000
+6026,41071,101,580679,Self Insured Retention Fund,LEGAL ‐ SIRF,Liability Claims,1368216,617770,350000,350000
+7023,33000,101,510501,Fire Pension Fund,Fire,Regular Salaries,6618461,6754227,6754227,7431450
+7023,33000,101,530660,Fire Pension Fund,Fire,General Contractuals,92547,60119,60185,80000
+7023,33000,101,530671,Fire Pension Fund,Fire,Investment Management Fees,104846,108349,108349,95000
+7023,33000,101,550603,Fire Pension Fund,Fire,Postage,2732,66,0,0
+7022,34000,101,510501,Police Pension Fund,Police,Regular Salaries,8009047,8861895,8275000,8523250
+7022,34000,101,530660,Police Pension Fund,Police,General Contractuals,72207,61115,85000,85000
+7022,34000,101,530671,Police Pension Fund,Police,Investment Management Fees,257297,210958,300000,310000
+7022,34000,101,550603,Police Pension Fund,Police,Postage,2549,795,0,0
