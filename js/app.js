@@ -28,14 +28,14 @@
 
     app.MainChartModel = Backbone.Model.extend({
         setYear: function(year, index){
-            var exp = this.get('expenditures');
+            // var exp = this.get('expenditures');
             var approp = this.get('appropriations');
-            var expChange = BudgetHelpers.calc_change(exp[index], exp[index -1]);
+            // var expChange = BudgetHelpers.calc_change(exp[index], exp[index -1]);
             var appropChange = BudgetHelpers.calc_change(approp[index], approp[index - 1]);
             this.set({
-                'selectedExp': accounting.formatMoney(exp[index]),
+                // 'selectedExp': accounting.formatMoney(exp[index]),
                 'selectedApprop': accounting.formatMoney(approp[index]),
-                'expChange': expChange,
+                // 'expChange': expChange,
                 'appropChange': appropChange,
                 'viewYear': year,
                 'prevYear': year - 1
@@ -59,16 +59,16 @@
             });
             
             var max_app = _.max(this.models, function(obj){return obj.get('appropriations')});
-            var max_exp = _.max(this.models, function(obj){return obj.get('expenditures')});
-            var maxes = [max_app.get('appropriations'), max_exp.get('expenditures')];
+            // var max_exp = _.max(this.models, function(obj){return obj.get('expenditures')});
+            var maxes = [max_app.get('appropriations')];
             this.maxNum = maxes.sort(function(a,b){return b-a})[0];
             $.each(this.models, function(i, row){
 
                 var apps = row.get('appropriations');
-                var exps = row.get('expenditures');
+                // var exps = row.get('expenditures');
 
                 var app_perc = parseFloat((apps/self.maxNum) * 100) + '%';
-                var exp_perc = parseFloat((exps/self.maxNum) * 100) + '%';
+                // var exp_perc = parseFloat((exps/self.maxNum) * 100) + '%';
                 row.set({app_perc:app_perc, exp_perc:exp_perc});
             });
         }
@@ -136,13 +136,13 @@
             });
             var yearIndex = yearRange.indexOf(parseInt(year))
             var selExp = exp[yearIndex];
-            var prevExp = exp[yearIndex - 1];
-            var expChange = BudgetHelpers.calc_change(selExp, prevExp);
+            // var prevExp = exp[yearIndex - 1];
+            // var expChange = BudgetHelpers.calc_change(selExp, prevExp);
             var selApprop = approp[yearIndex];
             var prevApprop = approp[yearIndex - 1];
             var appropChange = BudgetHelpers.calc_change(selApprop, prevApprop);
             this.mainChartData = new app.MainChartModel({
-                expenditures: exp,
+                // expenditures: exp,
                 appropriations: approp,
                 title: title,
                 viewYear: year,
@@ -150,7 +150,7 @@
                 selectedExp: accounting.formatMoney(selExp),
                 selectedApprop: accounting.formatMoney(selApprop),
                 appropChange: appropChange,
-                expChange: expChange,
+                // expChange: expChange,
                 view: self.topLevelView
             });
             var bd = []
@@ -194,7 +194,6 @@
                 "aaSorting": [[1, "desc"]],
                 "aoColumns": [
                     null,
-                    {'sType': 'currency'},
                     {'sType': 'currency'},
                     null
                 ],
@@ -316,9 +315,9 @@
             var self = this;
             var exp = self.getChartTotals(expendTitle, guts, year);
             var approp = self.getChartTotals(apropTitle, guts, year);
-            var prevExp = self.getChartTotals(expendTitle, guts, year - 1);
+            // var prevExp = self.getChartTotals(expendTitle, guts, year - 1);
             var prevApprop = self.getChartTotals(apropTitle, guts, year - 1);
-            var expChange = BudgetHelpers.calc_change(self.reduceTotals(exp), self.reduceTotals(prevExp));
+            // var expChange = BudgetHelpers.calc_change(self.reduceTotals(exp), self.reduceTotals(prevExp));
             var appropChange = BudgetHelpers.calc_change(self.reduceTotals(approp), self.reduceTotals(prevApprop));
             var self = this;
             $.each(guts, function(i, item){
@@ -328,7 +327,7 @@
                 summary['description'] = item.get(view + ' Description');
                 summary['expenditures'] = self.reduceTotals(exp);
                 summary['appropriations'] = self.reduceTotals(approp);
-                summary['expChange'] = expChange;
+                // summary['expChange'] = expChange;
                 summary['appropChange'] = appropChange;
                 summary['rowId'] = item.get(view + ' ID');
                 summary['type'] = view
@@ -389,11 +388,11 @@
                 } else {
                     $('.main-approp').show();
                 }
-                if(!model.get('expChange')){
-                    $('.main-exp').hide();
-                } else {
-                    $('.main-exp').show();
-                }
+                // if(!model.get('expChange')){
+                //     $('.main-exp').hide();
+                // } else {
+                //     $('.main-exp').show();
+                // }
             });
         },
         updateCrumbs: function(){
@@ -437,9 +436,9 @@
             this._modelBinder.bind(this.model, this.el, {
                 viewYear: '.viewYear',
                 prevYear: '.prevYear',
-                selectedExp: '.expenditures',
+                // selectedExp: '.expenditures',
                 selectedApprop: '.appropriations',
-                expChange: '.expChange',
+                // expChange: '.expChange',
                 appropChange: '.appropChange'
             });
             this.updateChart(this.model, this.model.get('viewYear'));
@@ -449,24 +448,24 @@
             if (typeof this.highChart !== 'undefined'){
                 delete this.highChart;
             }
-            var exps = jQuery.extend(true, [], data.get('expenditures'));
+            // var exps = jQuery.extend(true, [], data.get('expenditures'));
             var approps = jQuery.extend(true, [], data.get('appropriations'));
 
             if (debugMode == true) {
                 console.log('main chart data:')
-                console.log(exps);
+                // console.log(exps);
                 console.log(approps);
             }
 
             var exp = [];
             var approp = [];
-            $.each(exps, function(i, e){
-                if (isNaN(e))
-                    e = null;
-                else
-                    e = parseInt(e);
-                exp.push(e);
-            })
+            // $.each(exps, function(i, e){
+            //     if (isNaN(e))
+            //         e = null;
+            //     else
+            //         e = parseInt(e);
+            //     exp.push(e);
+            // })
             $.each(approps, function(i, e){
                 if (isNaN(e))
                     e = null;
@@ -499,7 +498,7 @@
             var selectedYearIndex = year - collection.startYear;
             this.highChart = new Highcharts.Chart(this.chartOpts, function(){
                 this.series[0].data[selectedYearIndex].select(true, true);
-                this.series[1].data[selectedYearIndex].select(true, true);
+                // this.series[1].data[selectedYearIndex].select(true, true);
             });
         },
         pointClick: function(e){
@@ -562,7 +561,7 @@
             var self = this;
             this.model.on('change', function(model){
                 var sel = '#' + model.get('slug') + '-selected-chart';
-                var exp = accounting.unformat(model.get('expenditures'));
+                // var exp = accounting.unformat(model.get('expenditures'));
                 var approp = accounting.unformat(model.get('appropriations'));
                 if((exp + approp) == 0){
                     $(self.el).hide();
@@ -577,20 +576,16 @@
                 } else {
                     $(sel).parent().find('.sparkline-budgeted').show();
                 }
-                if(!model.get('expChange')){
-                    $(sel).parent().find('.sparkline-spent').hide();
-                } else {
-                    $(sel).parent().find('.sparkline-spent').show();
-                }
+                $(sel).parent().find('.sparkline-spent').show();
             });
         },
         render: function(){
             this.$el.html(BudgetHelpers.template_cache('breakdownSummary', {model:this.model}));
             this._modelBinder.bind(this.model, this.el, {
-                expenditures: {selector: '[name="expenditures"]', converter: this.moneyChanger},
+                // expenditures: {selector: '[name="expenditures"]', converter: this.moneyChanger},
                 appropriations: {selector: '[name="appropriations"]', converter: this.moneyChanger},
                 app_perc: {selector: '[name=app_perc]'},
-                exp_perc: {selector: '[name=exp_perc]'}
+                // exp_perc: {selector: '[name=exp_perc]'}
             });
             return this;
         },
@@ -657,7 +652,7 @@
             this.$el.html(BudgetHelpers.template_cache('breakdownDetail', {model: this.model}));
             this._modelBinder.bind(this.model, this.el, {
                 prevYear: '.prevYear',
-                expChange: '.expChange',
+                // expChange: '.expChange',
                 appropChange: '.appropChange'
             });
             return this;
