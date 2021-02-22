@@ -3,12 +3,12 @@
     var app = {}
 
     // Configuration variables to set
-    startYear   = 2018;  // first year of budget data
+    startYear   = 2019;  // first year of budget data
     endYear     = 2021;  // last year of budget data
     activeYear  = 2021;  // default year to select
     debugMode   = true; // change to true for debugging message in the javascript console
     municipalityName = 'Oak Park Village Budget'; // name of budget municipality 
-    apropTitle  = 'Budgeted'; // label for first chart line
+    apropTitle  = 'Expenditures'; // label for first chart line
     expendTitle = 'DELETE';   // label for second chart line
 
     // CSV data source for budget data
@@ -28,7 +28,7 @@
 
     app.MainChartModel = Backbone.Model.extend({
         setYear: function(year, index){
-            var exp = this.get('actual');
+            var exp = this.get('expenditures');
             var approp = this.get('appropriations');
             var expChange = BudgetHelpers.calc_change(exp[index], exp[index -1]);
             var appropChange = BudgetHelpers.calc_change(approp[index], approp[index - 1]);
@@ -165,7 +165,7 @@
                 if (summary){
                     var row = new app.BreakdownRow(summary);
                     bd.push(row);
-                    all_nums.push(summary['expenditures']);
+                    // all_nums.push(summary['expenditures']);
                     all_nums.push(summary['appropriations']);
                 }
             });
@@ -219,10 +219,10 @@
                     }
                     var loadit = []
                     $.each(json, function(i, j){
-                        if (debugMode == true){
-                            console.log("Process row");
-                            console.log(j);
-                        }
+                        // if (debugMode == true){
+                        //     console.log("Process row");
+                        //     console.log(j);
+                        // }
                         j['Fund Slug'] = BudgetHelpers.convertToSlug(j['Fund ID']);
                         j['Department Slug'] = BudgetHelpers.convertToSlug(j['Department ID']);
                         j['Control Officer Slug'] = BudgetHelpers.convertToSlug(j['Program ID']);
@@ -295,6 +295,13 @@
                 var val = row.get(attr);
                 totals.push(parseInt(val));
             });
+
+            if (debugMode == true) {
+                console.log('getChartTotals:');
+                console.log(category, rows, year);
+                console.log(totals);
+            }
+
             return totals;
         },
         getSummary: function(view, query, year){
@@ -346,6 +353,12 @@
                 }
                 summary['slug'] = item.get(view + ' Slug');
             });
+
+            if (debugMode == true) {
+                console.log('summary:');
+                console.log(view, query, year)
+                console.log(summary);
+            }
             if (typeof summary['expenditures'] !== 'undefined'){
                 return summary
             } else {
@@ -461,8 +474,6 @@
                     e = parseInt(e);
                 approp.push(e);
             });
-            var minValuesArray = $.grep(approp.concat(exp),
-              function(val) { return val != null; });
             var globalOpts = app.GlobalChartOpts;
             this.chartOpts.plotOptions.area.pointInterval = globalOpts.pointInterval;
             this.chartOpts.plotOptions.area.pointStart = Date.UTC(collection.startYear, 1, 1);
@@ -484,7 +495,7 @@
                 },
                 name: globalOpts.expendTitle
             }];
-            this.chartOpts.yAxis.min = Math.min.apply( Math, minValuesArray )
+            this.chartOpts.yAxis.min = 0;
             var selectedYearIndex = year - collection.startYear;
             this.highChart = new Highcharts.Chart(this.chartOpts, function(){
                 this.series[0].data[selectedYearIndex].select(true, true);
@@ -706,18 +717,12 @@
                 }
                 approp.push(e);
             });
-            var minValuesArray = $.grep(approp.concat(exp),
-              function(val) { return val != null; });
-            if (debugMode == true){
-                console.log("minValuesArray");
-                console.log(minValuesArray);
-            }
             var globalOpts = app.GlobalChartOpts;
             this.chartOpts.chart.renderTo = data.get('slug') + "-selected-chart";
             this.chartOpts.chart.marginBottom = 20;
             this.chartOpts.plotOptions.area.pointInterval = globalOpts.pointInterval
             this.chartOpts.plotOptions.area.pointStart = Date.UTC(collection.startYear, 1, 1)
-            this.chartOpts.yAxis.min = Math.min.apply( Math, minValuesArray )
+            this.chartOpts.yAxis.min = 0;
             this.chartOpts.plotOptions.series.point.events.click = this.pointClick;
             this.chartOpts.series = [{
                 color: globalOpts.apropColor,
