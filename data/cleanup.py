@@ -1,12 +1,14 @@
 import csv
 
+# link on Fund, Account, Department & Program ID
+
 def cleanup():
     f = open('raw/2021 Adopted Budget - VOP - Data2018-2021.csv', 'r')
     reader = csv.DictReader(f)
     all_rows = []
     for row in reader:
         for k,v in row.items():
-            if 'Actual' in k or 'Adopted' in k:
+            if 'Expenditures' in k:
                 v = v.replace('$', '').replace(',','').replace('-','')
                 try:
                     float(v)
