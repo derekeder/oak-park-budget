@@ -8,7 +8,7 @@ def cleanup():
     all_rows = []
     for row in reader:
         for k,v in row.items():
-            if 'Expenditures' in k:
+            if 'Estimates' in k or 'Actuals' in k:
                 v = v.replace('$', '').replace(',','').replace('-','')
                 try:
                     float(v)

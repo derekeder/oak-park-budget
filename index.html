@@ -2,38 +2,28 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=0.5, width=640, minimum-scale=0.5">
     <!-- Customize meta description -->
-    <meta name="description" content="Explore the Village of Oak Park's budget from 2016 to 2021 and learn how the money is being spent.">
+    <meta name="description" content="">
     <!-- Customize meta author -->
-    <meta name="author" content="DataMade">
+    <meta name="author" content="">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <!-- Facebook metadata -->
-    <meta content="" property="og:site_name">
-    <meta content="Oak Park Budget" property="og:title">
-    <meta content="article" property="og:type">
-    <meta content="Explore the Village of Oak Park's budget from 2016 to 2021 and learn how the money is being spent." property="og:description">
-    <meta content="http://budgetoakpark.com/" property="og:url">
-    <meta content="http://budgetoakpark.com/images/look-at-cook-screenshot.jpg" property="og:image">
-
-    <!-- Twitter metadata -->
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:site" content="@derekeder">
-    <meta name="twitter:creator" content="@derekeder">
-    <meta name="twitter:title" content="Oak Park Budget">
-    <meta name="twitter:url" content="https://datamade.us/">
-    <meta name="twitter:description" content="Explore the Village of Oak Park's budget from 2016 to 2021 and learn how the money is being spent.">
-    <meta name="twitter:image" content="http://budgetoakpark.com/images/screenshot.jpg">
-
-
     <!-- Customize page title -->
-    <title>Budget: Oak Park, IL</title>
+    <title>New York Budget</title>
+
+    <script type="text/javascript">
+        // fix window.location.origin for IE
+        if (!window.location.origin) {
+          window.location.origin = window.location.protocol + "//" + window.location.hostname + (window.location.port ? ':' + window.location.port: '');
+        }
+    </script>
 
     <!-- Bootstrap core CSS -->
-    <link rel="shortcut icon" href="/images/favicon.ico">
+    <link rel="shortcut icon" href="/favicon.png">
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/custom.css" rel="stylesheet">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -43,31 +33,21 @@
   </head>
 
   <body>
-    <a href="#content" class="sr-only">Skip to content</a>
 
+    <a href="#content" class="sr-only">Skip to content</a>
     <div id="readme" style="display: none;"><img src="" alt="Click points to see annual budgets below"></div>
-    <div class="container">
-      <div id='header'>
-        <div class='row'>
-          <div class='col-md-9'>
-            <div id='logo'>
-              <!-- Customize logo -->
-              <a href='/'>Oak Park Budget</a>
-            </div>
-            <!-- Customize page text below logo -->
-            <p>Explore the Village of Oak Park's budget from 2016 to 2021 and learn how the money is being spent. <a onclick="window.scrollTo(0, document.body.scrollHeight);">Read more</a> or <a href='/faq.html'>check out the FAQ</a></p>
-          </div>
-        </div>
-      </div>
-      <div class='well'>
+    <div class="container-fluid">
+
         <div id='main-chart'></div>
         <table id="breakdown" class='table table-condensed table-bordered'>
             <thead>
               <tr>
-                <th id='breakdown-item-title'><span id="secondary-title">Fund</span></th>
-                <th class="num"><span>Budgeted</span></th>
-                <!-- <th class="num"><span>Spent</span></th> -->
-                <th class="charts sorting_disabled"><span>Percentage</span></th>
+                <th id='breakdown-item-title'><span id="row-title">Function</span></th>
+                <th class="estimates num"><span>Estimated Spending</span></th>
+                <th class="estimates num"><span>Percentage</span></th>
+                <th class="actuals num"><span>Actual Spending</span></th>
+                <th class="actuals num"><span>Percentage</span></th>
+                <th class="bars sorting_disabled"><span></span></th>
               </tr>
             </thead>
             <tbody id="breakdown-table-body"></tbody>
@@ -78,34 +58,15 @@
             <li id="f-officers">* These budgets are controlled by the officers and offices listed even though not all expenses are incurred by the respective control officer.</li>
           </ul> -->
         </div>
-      </div>
 
-      <div class='well about'>
-        <h2>About</h2>
-        <div class='row'>
-          <div class='col-md-12'>
-            <!-- Customize about -->
-        
-          </div>
-        </div>
-      </div>
+    </div>
 
-      <div id='footer'>
-        <p class='pull-left'>
-          <!-- Customize download link -->
-          <a id="download-button" class="btn btn-warning" href="">View &amp; download data</a>
-          All the data for this project is freely available to download or explore.
-          <br />
-          <br />
-          Built by <a href="http://derekeder.com">Derek Eder</a> and Alicia Chastain
-        </p>
-        <p class='pull-right'>
-          <strong>Share:</strong>
-          <!-- Customize facebook share -->
-          <a href="http://www.facebook.com/share.php?u=http%3a%2f%2fbudgetoakpark.com/"><img alt="Facebook" src="images/facebook-lg.png" /></a>
-          <!-- Customize twitter share -->
-          <a href="http://twitter.com/share?text=Where's%20the%20money%20going%3F%20Explore%20New%20Orleans'%20budget&amp;url=http%3a%2f%2fbudgetoakpark.com/"><img alt="Twitter" src="images/twitter-lg.png" /></a>
-        </p>
+
+    <div class="container-fluid" id='footer'>
+      <div>
+        <span class='pull-left'>
+          We're open source on <a href="https://github.com/datamade/ny-budget" target='blank'><i class="fa fa-github"></i> GitHub</a> and all data for this project is available to <a href='https://openbudget.ny.gov/openbudgetdata/SpendingData.xlsx' target='blank'><i class="fa fa-download"></i> download!</a>
+        </span>
       </div>
     </div>
     <!-- loading javascript at the bottom of the page for performance -->
@@ -128,13 +89,27 @@
     <script src="lib/underscore.min.js" type="text/javascript"></script>
     <script src="lib/backbone.min.js" type="text/javascript"></script>
     <script src="lib/Backbone.ModelBinder.min.js" type="text/javascript"></script>
+    <script src="lib/filter.js" type="text/javascript"></script>
 
     <!-- custom javascript -->
-    <script src="js/dataTables.sorting.js" type="text/javascript"></script>
-    <script src="js/budget_helpers.js" type="text/javascript"></script>
-    <script src="js/budget_highcharts.js" type="text/javascript"></script>
-    <script src="js/analytics_lib.js" type="text/javascript"></script>
+    <script src="js/helpers/analytics_lib.js" type="text/javascript"></script>
+    <script src="js/helpers/budget_helpers.js" type="text/javascript"></script>
+    <script src="js/helpers/budget_highcharts.js" type="text/javascript"></script>
+    <script src="js/helpers/dataTables.sorting.js" type="text/javascript"></script>
 
+    <script src="js/settings.js" type="text/javascript"></script>
+
+    <script src="js/collections/breakdownCollection.js" type="text/javascript"></script>
+    <script src="js/collections/budgetCollection.js" type="text/javascript"></script>
+
+    <script src="js/models/breakdownRowModel.js" type="text/javascript"></script>
+    <script src="js/models/mainChartModel.js" type="text/javascript"></script>
+
+    <script src="js/views/breakdownDetailView.js" type="text/javascript"></script>
+    <script src="js/views/breakdownSummaryView.js" type="text/javascript"></script>
+    <script src="js/views/mainChartView.js" type="text/javascript"></script>
+
+    <script src="js/router.js" type="text/javascript"></script>
     <script src="js/app.js" type="text/javascript"></script>
   </body>
 </html>

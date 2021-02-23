@@ -1,8 +1,8 @@
 (function(){
 window.formatAmount =  function(value) {
-    if (value >= 1000000000)
+    if (value >= 1000000000 || value <= -1000000000)
       return "$" + value / 1000000000 + "B";
-    else if (value >= 1000000)
+    else if (value >= 1000000 || value <= -1000000)
       return "$" + value / 1000000 + "M";
     else
       return "$" + value;
@@ -24,7 +24,12 @@ window.mainChartOpts = {
       },
       credits: { enabled: false },
       legend: {
-        backgroundColor: "#ffffff",
+        align: "left",
+        verticalAlign: "top",
+        x: 80,
+        y: 10,
+        floating: true,
+        backgroundColor: 'rgba(255, 255, 255, 0.1)',
         borderColor: "#cccccc"
       },
       plotOptions: {
@@ -34,24 +39,13 @@ window.mainChartOpts = {
           point: {
             events: {}
           },
-          shadow: false
+          shadow: false,
+          animation: false
         }
       },
       title: null,
-      tooltip: {
-        borderColor: "#000",
-        formatter: function() {
-          var s = "<strong>" + Highcharts.dateFormat("%Y", this.x) + "</strong>";
-          $.each(this.points, function(i, point) {
-            s += "<br /><span style=\"color: " + point.series.color + "\">" + point.series.name + ":</span> $" + Highcharts.numberFormat(point.y, 0);
-          });
-          return s;
-        },
-        shared: true
-      },
       xAxis: {
-        gridLineColor: "#ddd",
-        gridLineWidth: 1,
+        gridLineWidth: 0,
         type: "datetime",
         tickInterval: 365 * 24 * 36e5, // one week
         labels: {
@@ -59,7 +53,7 @@ window.mainChartOpts = {
         }
       },
       yAxis: {
-        gridLineColor: "#ddd",
+        gridLineColor: "#eee",
         lineWidth: 1,
         labels: {
           formatter: function() { return window.formatAmount(this.value); }
@@ -84,21 +78,11 @@ window.sparkLineOpts =  {
             point: {
               events: {}
             },
-            shadow: false
+            shadow: false,
+            animation: false
           }
         },
         title: null,
-        tooltip: {
-          borderColor: "#000",
-          formatter: function() {
-            var s = "<strong>" + Highcharts.dateFormat("%Y", this.x) + "</strong>";
-            $.each(this.points, function(i, point) {
-              s += "<br /><span style=\"color: " + point.series.color + "\">" + point.series.name + ":</span> $" + Highcharts.numberFormat(point.y, 0);
-            });
-            return s;
-          },
-          shared: true
-        },
         xAxis: {
           dateTimeLabelFormats: { year: "%Y" },
           gridLineWidth: 0,
