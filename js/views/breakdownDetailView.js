@@ -34,6 +34,7 @@ app.BreakdownDetail = Backbone.View.extend({
             var parent_type = hierarchy[type_pos - 1];
             filter[parent_type] = this.model.get('parent');
             path = BudgetHelpers.convertToSlug(this.model.get('parent')) + '/' + this.model.get('slug')
+            // this is a bit buggy - it ignores the slug value and always uses the parent name
             filter_param_str = 'filter_1='+BudgetHelpers.convertToSlug(this.model.get('parent'))+'&filter_2='+this.model.get('slug')
         }
         isInflationAdjusted = this.model.get('isInflationAdjusted')

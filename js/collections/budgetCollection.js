@@ -176,7 +176,7 @@ app.BudgetCollection = Backbone.Collection.extend({
         this.breakdownChartData = new app.BreakdownCollection(bd);
         this.breakdownChartData.maxNum = maxNum;
         if (debugMode == true) console.log("max bar chart num: " + maxNum);
-        console.log("   *** loop through breakdownChartData.forEach (x13)")
+        // console.log("   *** loop through breakdownChartData.forEach (x13)")
         this.breakdownChartData.forEach(function(row){
             var actuals = accounting.unformat(row.get('actuals'));
             var ests = accounting.unformat(row.get('estimates'));
@@ -244,7 +244,8 @@ app.BudgetCollection = Backbone.Collection.extend({
                 }
                 var loadit = []
                 $.each(json, function(i, j){
-                    j['Fund Slug'] = BudgetHelpers.convertToSlug(j['Fund ID']);
+                    // must be based on to-level name
+                    j['Fund Slug'] = BudgetHelpers.convertToSlug(j['Fund']);
                     j['Department Slug'] = BudgetHelpers.convertToSlug(j['Department ID']);
                     loadit.push(j)
                 });
