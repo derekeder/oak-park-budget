@@ -113,7 +113,7 @@ app.BreakdownDetail = Backbone.View.extend({
         this.chartOpts.chart.renderTo = data.get('slug') + "-selected-chart";
         this.chartOpts.chart.marginBottom = 20;
         this.chartOpts.plotOptions.area.pointInterval = globalOpts.pointInterval
-        this.chartOpts.plotOptions.area.pointStart = Date.UTC(collection.startYear, 1, 1)
+        this.chartOpts.plotOptions.area.pointStart = Date.UTC(collection.startYear, 0, 1)
 
         // add a plot band
         if (projectionStartYear){
@@ -225,7 +225,7 @@ app.BreakdownDetail = Backbone.View.extend({
               });
           });
         });
-        var clickedYear = new Date(x).getFullYear();
+        var clickedYear = new Date(x).getFullYear()+1;
         var yearIndex = this.series.processedYData.indexOf(y);
         var hash = window.location.hash;
         var q = ''

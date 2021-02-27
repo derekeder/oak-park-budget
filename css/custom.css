@@ -1,38 +1,41 @@
 body {
-  background: #ffffff;
+  background: #328659;
   font-family: "Helvetica", "Arial", sans-serif;
   padding: 5px;
 }
 
-h1, h2, h3, h4, h5, h6 { color: #004B75; }
+h1, h2, h3, h4, h5, h6 { color: #006830; }
 
-a { color: #2BABE2; text-decoration: none; font-weight: bold;}
+a { color: #006830; font-weight: bold;}
 a:hover { color: #23387E; text-decoration: underline; }
 a.details:hover, a.details:active, a.details:visited, a.details:link { text-decoration: none;}
 a:focus { outline: 0;}
 
 #logo, #credit { padding: 10px 0 10px 0; max-height: 120px;}
-#logo { padding-bottom: 0;}
+#logo { 
+  padding-bottom: 5px;
+  padding-top: 40px;
+}
 #logo img {
   max-height: 80px;
   display: inline;
 }
-#logo span{
+#logo a {
   display: inline;
   font-size: 3em;
   vertical-align: bottom;
-  font-family: "Helvetica", "Arial", serif;
-  color: #004B75;
+  font-family: Georgia, serif;
+  color: #FEFEFE;
+  font-weight: bold;
 }
-#header{ 
-  color: #333333;
-  background-color: #E8EDEE;
-  margin-bottom: 20px;
-   }
+
+.lead, #footer, .lead a, .credits a {
+  color: #FEFEFE;
+}
+
 #footer{
   padding-top: 4px;
   padding-bottom: 4px;
-  color: #333333;
 /*  background-color: #E8EDEE;
 */}
 
@@ -43,8 +46,6 @@ a:focus { outline: 0;}
 #footer a{
   font-weight: normal;
 }
-
-#footer .btn { color: #fff; }
 
 .btn-primary {
   background-color: #004B75;
@@ -58,14 +59,14 @@ a:focus { outline: 0;}
 
 .btn-info {
   background-color: #fff;
-  color: #2BABE2;
-  border: 2px solid #2BABE2;
+  color: #006830;
+  border: 2px solid #006830;
 }
 
 .btn-info:hover {
   background-color: #def2fb;
-  color: #2BABE2;
-  border: 2px solid #2BABE2;
+  color: #006830;
+  border: 2px solid #006830;
 }
 
 #readme {

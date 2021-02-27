@@ -33,10 +33,10 @@ enable_inflation_toggle = true; // by default, show inflation adjusted (real) nu
 dataSource  = window.location.origin + '/data/final/oak_park_budget_cleaned.csv';
 
 app.GlobalChartOpts = {
-    estColor:   '#6e6e6e',
+    estColor:   '#006830',
     estSymbol:  'circle',
     
-    actualColor:  '#23387E',
+    actualColor:  '#006830',
     actualSymbol: 'square',
 
     estTitle:   estTitle, 
