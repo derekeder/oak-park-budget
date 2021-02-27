@@ -247,6 +247,7 @@ app.BudgetCollection = Backbone.Collection.extend({
                     // must be based on to-level name
                     j['Fund Slug'] = BudgetHelpers.convertToSlug(j['Fund']);
                     j['Department Slug'] = BudgetHelpers.convertToSlug(j['Department ID']);
+                    j['Description Slug'] = BudgetHelpers.convertToSlug(j['Description']);
                     loadit.push(j)
                 });
                 self.reset(loadit);
