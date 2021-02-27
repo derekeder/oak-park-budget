@@ -272,7 +272,7 @@ app.BudgetCollection = Backbone.Collection.extend({
     },
     reduceTotals: function(totals){
         return totals.reduce(function(a,b){
-          return a + b;
+          return parseInt(a) + parseInt(b);
         });
     },
 
@@ -290,8 +290,8 @@ app.BudgetCollection = Backbone.Collection.extend({
             var val = row.get(col_name);
             totals.push(parseInt(val));
         });
-        console.log('getChartTotals');
-        console.log(totals);
+        // console.log('getChartTotals');
+        // console.log(totals);
         return totals;
     },
     // getSummary is called for each row in chart
@@ -353,10 +353,10 @@ app.BudgetCollection = Backbone.Collection.extend({
             summary['slug'] = item.get(view + ' Slug');
         });
 
-        if (debugMode == true) {
-            console.log('summary:');
-            console.log(summary)
-        }
+        // if (debugMode == true) {
+        //     console.log('summary:');
+        //     console.log(summary)
+        // }
 
         if (typeof summary['actuals'] !== 'undefined'){
             return summary

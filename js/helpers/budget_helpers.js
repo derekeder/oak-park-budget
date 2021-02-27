@@ -24,13 +24,14 @@ var BudgetHelpers = {
     }
   },
   convertYearToRange: function(year){
+    // override this to just return year
     // 2015 -> 2014-15
-    year = year - 1
-    var next_year = (parseInt(year)+1)%100;
-    if (next_year === 0){next_year = '00'}
-    else if (next_year < 10){next_year = '0'+next_year}
-    var year_range = year + '-' + next_year
-    return year_range
+    // year = year - 1
+    // var next_year = (parseInt(year)+1)%100;
+    // if (next_year === 0){next_year = '00'}
+    // else if (next_year < 10){next_year = '0'+next_year}
+    // var year_range = year + '-' + next_year
+    return year
   },
   prettyPercent: function(num, denom){
     var percent = parseFloat((num/denom) * 100)
@@ -82,7 +83,7 @@ var BudgetHelpers = {
 
       if ( ! BudgetHelpers.template_cache.tmpl_cache[tmpl_name] ) {
           var tmpl_dir = '/js/templates';
-          var tmpl_url = tmpl_dir + '/' + tmpl_name + '.html?4';
+          var tmpl_url = tmpl_dir + '/' + tmpl_name + '.html?5';
 
           var tmpl_string;
           $.ajax({
