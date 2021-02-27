@@ -62,11 +62,11 @@ app.MainChartView = Backbone.View.extend({
         var nominal_actuals = jQuery.extend(true, [], data.get('actuals'));
         var nominal_ests = jQuery.extend(true, [], data.get('estimates'));
 
-        // if (debugMode == true) {
-        //     console.log('main chart data:')
-        //     console.log(actuals);
-        //     console.log(ests);
-        // }
+        if (debugMode == true) {
+            console.log('main chart data:')
+            console.log(nominal_actuals);
+            console.log(nominal_ests);
+        }
 
         if (isInflationAdjusted){
             var main_chart_actuals = BudgetHelpers.inflationAdjustSeries(nominal_actuals, inflation_idx, benchmark, startYear);

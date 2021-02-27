@@ -25,6 +25,10 @@ app.BreakdownCollection = Backbone.Collection.extend({
             if (isNaN(ests)){ests = 0};
             if (isNaN(actuals)){actuals = 0};
 
+            console.log('setRows');
+            console.log(ests);
+            console.log(acutals);
+
             var actual_perc = BudgetHelpers.prettyPercent(actuals, total_actual);
             var est_perc = BudgetHelpers.prettyPercent(ests, total_est);
 

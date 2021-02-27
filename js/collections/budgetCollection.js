@@ -176,10 +176,11 @@ app.BudgetCollection = Backbone.Collection.extend({
         this.breakdownChartData = new app.BreakdownCollection(bd);
         this.breakdownChartData.maxNum = maxNum;
         if (debugMode == true) console.log("max bar chart num: " + maxNum);
-        // console.log("   *** loop through breakdownChartData.forEach (x13)")
+        console.log("   *** loop through breakdownChartData.forEach (x13)")
         this.breakdownChartData.forEach(function(row){
             var actuals = accounting.unformat(row.get('actuals'));
             var ests = accounting.unformat(row.get('estimates'));
+
             var actual_perc = BudgetHelpers.prettyPercent(actuals, total_actual);
             var est_perc = BudgetHelpers.prettyPercent(ests, total_est);
             var actual_perc_bar = parseFloat((actuals/maxNum) * 100) + '%';
@@ -351,8 +352,11 @@ app.BudgetCollection = Backbone.Collection.extend({
             }
             summary['slug'] = item.get(view + ' Slug');
         });
-        console.log('summary:');
-        console.log(summary)
+
+        if (debugMode == true) {
+            console.log('summary:');
+            console.log(summary)
+        }
 
         if (typeof summary['actuals'] !== 'undefined'){
             return summary

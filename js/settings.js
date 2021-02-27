@@ -7,7 +7,7 @@ debugMode   = true; // change to true for debugging message in the javascript co
 municipalityName = 'Oak Park Village'; // name of budget municipality 
 
 // these are passed into getColumnName to read data from the source
-estTitle  = 'Actuals';    // title for first series
+estTitle  = 'Estimates';    // title for first series
 actualTitle = 'Actuals';    // title for second series
 
 mergeSeries = true;         // true if estimates & actuals span different years & can be merged into one line, otherwise false
