@@ -7,7 +7,7 @@ body {
 h1, h2, h3, h4, h5, h6 { color: #006830; }
 
 a { color: #006830; font-weight: bold;}
-a:hover { color: #23387E; text-decoration: underline; }
+a:hover { color: #006830; text-decoration: underline; }
 a.details:hover, a.details:active, a.details:visited, a.details:link { text-decoration: none;}
 a:focus { outline: 0;}
 
@@ -117,17 +117,17 @@ a:focus { outline: 0;}
   .bars span { height: 12px; display: block; text-indent: -5000px; margin: 4px;}
 
 .bars .estimates {
-    background-color: #6e6e6e;
-    border-left: solid 2px #6e6e6e;
+    background-color: #006830;
+    border-left: solid 2px #006830;
 }
 .bars .actuals {
-    background-color: #23387E;
-    border-left: solid 2px #23387E;
+    background-color: #006830;
+    border-left: solid 2px #006830;
 }
 
   /* Colors */
-  .estimates { color: #6e6e6e; }
-  .actuals { color: #23387E; }
+  .estimates { color: #006830; }
+  .actuals { color: #006830; }
 
 /* Expanded rows */
 #breakdown .expanded-content td {
