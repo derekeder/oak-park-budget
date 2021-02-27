@@ -8,7 +8,7 @@ def cleanup():
     all_rows = []
     for row in reader:
         for k,v in row.items():
-            if 'Expenditures' in k:
+            if 'Estimates' in k or 'Actuals' in k:
                 v = v.replace('$', '').replace(',','').replace('-','')
                 try:
                     float(v)
@@ -17,7 +17,7 @@ def cleanup():
             row[k] = v
         all_rows.append(row)
     outp = open('final/oak_park_budget_cleaned.csv', 'w')
-    writer = csv.DictWriter(outp, row.keys())
+    writer = csv.DictWriter(outp, row.keys(), quoting=csv.QUOTE_ALL)
     writer.writeheader()
     writer.writerows(all_rows)
     f.close()
