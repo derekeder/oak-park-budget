@@ -11,7 +11,7 @@ a:hover { color: #006830; text-decoration: underline; }
 a.details:hover, a.details:active, a.details:visited, a.details:link { text-decoration: none;}
 a:focus { outline: 0;}
 
-#logo, #credit { padding: 10px 0 10px 0; max-height: 120px;}
+#logo, #credit { padding: 10px 0 10px 0;}
 #logo { 
   padding-bottom: 5px;
   padding-top: 40px;
@@ -21,7 +21,6 @@ a:focus { outline: 0;}
   display: inline;
 }
 #logo a {
-  display: inline;
   font-size: 3em;
   vertical-align: bottom;
   font-family: Georgia, serif;
@@ -79,13 +78,11 @@ a:focus { outline: 0;}
 #timeline-chart {
   height: 180px;
   width: 100%;
-  min-width: 500px;
 }
 
 #main-chart {
     min-height: 200px;
     width: 100%;
-    min-width: 500px;
 }
 
 #breadcrumbs { font-weight: bold; font-size: 20px; }
@@ -93,7 +90,6 @@ a:focus { outline: 0;}
 /* Breakdown table */
 #breakdown{
   width: 100%;
-  min-width: 500px;
 }
 #breakdown a { cursor: pointer; }
 #breakdown .num { text-align: right; }
@@ -171,7 +167,6 @@ a.breakdown-choice:hover{
 /* Scorecard */
 #scorecard{
   width: 100%;
-  min-width: 500px;
 }
 #scorecard { border-top: 3px solid #dddddd; margin: 0; }
 #scorecard h2 { font-size: 20px; }
