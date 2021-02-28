@@ -76,12 +76,11 @@ a:focus { outline: 0;}
 }
 
 #timeline-chart {
-  height: 180px;
+  height: 220px;
   width: 100%;
 }
 
 #main-chart {
-    min-height: 200px;
     width: 100%;
 }
 

@@ -76,7 +76,7 @@ app.MainChartView = Backbone.View.extend({
         else{
             var main_chart_actuals = nominal_actuals
             var main_chart_ests = nominal_ests
-            var legend_append = ' (not adjusted for inflation)'
+            var legend_append = ''
         }
 
         var minValuesArray = $.grep(main_chart_ests.concat(main_chart_actuals),
