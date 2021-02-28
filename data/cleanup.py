@@ -9,9 +9,10 @@ def cleanup():
     for row in reader:
         for k,v in row.items():
             if 'Estimates' in k or 'Actuals' in k:
-                v = v.replace('$', '').replace(',','').replace('-','')
+                v = v.replace('$', '').replace(',','')
                 try:
-                    float(v)
+                    int(v)
+                    v=int(v)*-1
                 except:
                     v = 0
             row[k] = v
