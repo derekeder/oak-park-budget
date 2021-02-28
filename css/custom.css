@@ -1,5 +1,5 @@
 body {
-  background: #328659;
+  background: #328659 url(../images/bg-green.jpg);
   font-family: "Helvetica", "Arial", sans-serif;
   padding: 5px;
 }
@@ -81,6 +81,7 @@ a:focus { outline: 0;}
 }
 
 #main-chart {
+    min-height: 220px;
     width: 100%;
 }
 
