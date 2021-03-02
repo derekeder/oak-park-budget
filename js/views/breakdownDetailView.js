@@ -225,7 +225,7 @@ app.BreakdownDetail = Backbone.View.extend({
               });
           });
         });
-        var clickedYear = new Date(x).getFullYear()+1;
+        var clickedYear = new Date(x).getFullYear();
         var yearIndex = this.series.processedYData.indexOf(y);
         var hash = window.location.hash;
         var q = ''
