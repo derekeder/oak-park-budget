@@ -1,6 +1,6 @@
 var app = {};
 
-startYear   = 2018;  // first year of budget data
+startYear   = 2013;  // first year of budget data
 endYear     = 2021;  // last year of budget data
 activeYear  = 2021;  // default year to select
 debugMode   = false; // change to true for debugging message in the javascript console

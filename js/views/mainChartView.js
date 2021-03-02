@@ -85,7 +85,7 @@ app.MainChartView = Backbone.View.extend({
         // chart options for main chart
         this.chartOpts.chart.borderWidth = 0;
         this.chartOpts.plotOptions.area.pointInterval = globalOpts.pointInterval;
-        this.chartOpts.plotOptions.area.pointStart = Date.UTC(collection.startYear, 0, 1);
+        this.chartOpts.plotOptions.area.pointStart = Date.UTC(collection.startYear, 0, 15);
         this.chartOpts.plotOptions.series.point.events.click = this.yearClick;
         if (mergeSeries){
             // add estimates to the end of actuals series

@@ -113,7 +113,7 @@ app.BreakdownDetail = Backbone.View.extend({
         this.chartOpts.chart.renderTo = data.get('slug') + "-selected-chart";
         this.chartOpts.chart.marginBottom = 20;
         this.chartOpts.plotOptions.area.pointInterval = globalOpts.pointInterval
-        this.chartOpts.plotOptions.area.pointStart = Date.UTC(collection.startYear, 0, 1)
+        this.chartOpts.plotOptions.area.pointStart = Date.UTC(collection.startYear, 0, 15)
 
         // add a plot band
         if (projectionStartYear){
