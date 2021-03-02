@@ -29,37 +29,78 @@ def cleanup():
     
     all_rows = []
     # start with 2021 budget
+    print('***importing 2021 budget***')
     with open(budget_2021) as csvfile:
         reader = csv.DictReader(csvfile)
         for row in reader:
             all_rows.append(row)
     
+    print ('imported %s rows' % len(all_rows))
+    
     # append 2019 budget
+    print('***importing 2019 budget***')
     with open(budget_2019) as csvfile:
         reader = csv.DictReader(csvfile)
+        rows_2019 = []
+        count = 0
         for row in reader:
             for main_row in all_rows:
                 if match_rows(row, main_row):
-                    main_row['Actuals 2016'] = row['2016 Actual']
-                    main_row['Actuals 2017'] = row['2017 Actual']
+                    row['imported'] = True
+                    main_row['Actuals 2016'] = row['Actuals 2016']
+                    main_row['Actuals 2017'] = row['Actuals 2017']
+                    count = count + 1
+            rows_2019.append(row)
+
+        print ('matched %s rows' % count) 
+
+        # import the rows we didn't match
+        count = 0
+        for row in rows_2019:
+            if 'imported' not in row.keys():
+                count = count + 1
+                all_rows.append(row)
+
+        print ('imported %s additional rows' % count) 
+        print ('rows parsed: %s' % len(rows_2019))
 
     # append 2017 budget
+    print('***importing 2017 budget***')
     with open(budget_2017) as csvfile:
         reader = csv.DictReader(csvfile)
+        rows_2017 = []
+        count = 0
         for row in reader:
             for main_row in all_rows:
                 if match_rows(row, main_row):
-                    main_row['Actuals 2013'] = row['2013 Actual']
-                    main_row['Actuals 2014'] = row['2014 Actual']
-                    main_row['Actuals 2015'] = row['2015 Actual']
+                    row['imported'] = True
+                    main_row['Actuals 2013'] = row['Actuals 2013']
+                    main_row['Actuals 2014'] = row['Actuals 2014']
+                    main_row['Actuals 2015'] = row['Actuals 2015']
+                    count = count + 1
+            rows_2017.append(row)
+
+        print ('matched %s rows' % count)
+
+        # import the rows we didn't match
+        count = 0
+        for row in rows_2017:
+            if 'imported' not in row.keys():
+                count = count + 1
+                all_rows.append(row)
+
+        print ('imported %s additional rows' % count) 
+        print ('rows parsed: %s' % len(rows_2017)) 
+        print ('final length: %s' % len(all_rows))
     
     # loop through the result and fill in blanks with zeroes
     for row in all_rows:
-        row['Actuals 2013'] = row.get('Actuals 2013', '0')
-        row['Actuals 2014'] = row.get('Actuals 2014', '0')
-        row['Actuals 2015'] = row.get('Actuals 2015', '0')
-        row['Actuals 2016'] = row.get('Actuals 2016', '0')
-        row['Actuals 2017'] = row.get('Actuals 2017', '0')
+        # note - second stop parameter is not inclusive in the range
+        for year in range(2013, 2020): 
+            row['Actuals %s' % year] = row.get('Actuals %s' % year, '0')
+        for year in range(2020, 2022):
+            row['Estimates %s' % year] = row.get('Estimates %s' % year, '0')
+
         for k,v in row.items():
             if 'Estimates' in k or 'Actuals' in k:
                 row[k] = process_cell(v)
@@ -78,7 +119,7 @@ def match_rows(a, b):
 
 def process_cell(v):
     if v is None:
-        v = 0
+        return 0
     v = v.replace('$', '').replace(',','')
     try:
         int(v)

@@ -1,4 +1,4 @@
-Fund ID,Department ID,Program ID,Account ID,Fund Name,Department,Description,2013 Actual,2014 Actual,2015 Actual
+Fund ID,Department ID,Program ID,Account ID,Fund,Department,Description,Actuals 2013,Actuals 2014,Actuals 2015
 1001,41030,101,510501,General Fund,Adjudication,Regular Salaries,"-186,441","-167,502","-191,603"
 1001,41030,101,510503,General Fund,Adjudication,Overtime,"-7,034","-5,492","-7,032"
 1001,41030,101,510519,General Fund,Adjudication,Vacation Time Payout,‐,-190,‐
@@ -2359,25 +2359,25 @@ Fund ID,Department ID,Program ID,Account ID,Fund Name,Department,Description,201
 6028,41080,101,520688,Health Insurance Fund,HR ‐ Human Resources,Dental Insurance Premiums,‐,‐,‐
 6028,41080,101,530667,Health Insurance Fund,HR ‐ Human Resources,External Support,"-1,301","-1,464",‐
 6028,41090,101,530667,Health Insurance Fund,HR ‐ Human Resources,External Support,‐,"-31,875",‐
-6026 41071,101,,591890 Self Insured Retention Fund,,LEGAL ‐ Risk Management,Transfer To Other Funds,‐,"-131,136",‐
-6026 41071,101,,510501 Self Insured Retention Fund,,LEGAL ‐ Risk Management,Regular Salaries,‐,‐,"-129,187"
-6026 41071,101,,520520 Self Insured Retention Fund,,LEGAL ‐ Risk Management,Life Insurance Expense,‐,‐,-87
-6026 41071,101,,520521 Self Insured Retention Fund,,LEGAL ‐ Risk Management,Health Insurance Expense,‐,‐,"-19,522"
-6026 41071,101,,520522 Self Insured Retention Fund,,LEGAL ‐ Risk Management,Social Security Expense,‐,‐,"-7,796"
-6026 41071,101,,520523 Self Insured Retention Fund,,LEGAL ‐ Risk Management,Medicare Expense,‐,‐,"-1,823"
-6026 41071,101,,520527 Self Insured Retention Fund,,LEGAL ‐ Risk Management,IMRF Contributions,‐,‐,"-18,613"
-6026 41071,101,,520678 Self Insured Retention Fund,,LEGAL ‐ Risk Management,Workers Comp Claims,"-2,087","-2,719",-696
-6026 41071,151,,550678 Self Insured Retention Fund,,LEGAL ‐ Risk Management,Workers Comp Claims,"-738,185","-999,062","-360,853"
-6026 41071,101,,530667 Self Insured Retention Fund,,LEGAL ‐ Risk Management,External Support,"-25,700","-22,504","-23,000"
-6026 41071,101,,530675 Self Insured Retention Fund,,LEGAL ‐ Risk Management,Bank Charges,-56,‐,‐
-6026 41071,101,,530679 Self Insured Retention Fund,,LEGAL ‐ Risk Management,Legal Fees Workers Comp,"-54,772","-37,808","-27,376"
-6026 41071,101,,530680 Self Insured Retention Fund,,LEGAL ‐ Risk Management,Legal Fees Liability Claims,"-205,843","-157,122","-258,956"
-6026 41071,101,,550603 Self Insured Retention Fund,,LEGAL ‐ Risk Management,Postage,-167,-199,-365
-6026 41071,101,,550605 Self Insured Retention Fund,,LEGAL ‐ Risk Management,Travel & Mileage Reimbursement,‐,‐,-29
-6026 41071,101,,550663 Self Insured Retention Fund,,LEGAL ‐ Risk Management,Software License Updates,"-3,500","-1,650","-3,650"
-6026 41071,101,,550681 Self Insured Retention Fund,,LEGAL ‐ Risk Management,Insurance Premiums,"-245,058","-260,085","-296,619"
-6026 41071,101,,580679 Self Insured Retention Fund,,LEGAL ‐ Risk Management,Liability Claims,"-454,468","-336,948","-461,881"
-6026 41071 101,,,591890 Self Insured Retention Fund,,LEGAL ‐ Risk Management,Transfer To Other Funds,"-496,858",‐,‐
+6026,41071,101,591890,Self Insured Retention Fund,LEGAL ‐ Risk Management,Transfer To Other Funds,‐,"-131,136",‐
+6026,41071,101,510501,Self Insured Retention Fund,LEGAL ‐ Risk Management,Regular Salaries,‐,‐,"-129,187"
+6026,41071,101,520520,Self Insured Retention Fund,LEGAL ‐ Risk Management,Life Insurance Expense,‐,‐,-87
+6026,41071,101,520521,Self Insured Retention Fund,LEGAL ‐ Risk Management,Health Insurance Expense,‐,‐,"-19,522"
+6026,41071,101,520522,Self Insured Retention Fund,LEGAL ‐ Risk Management,Social Security Expense,‐,‐,"-7,796"
+6026,41071,101,520523,Self Insured Retention Fund,LEGAL ‐ Risk Management,Medicare Expense,‐,‐,"-1,823"
+6026,41071,101,520527,Self Insured Retention Fund,LEGAL ‐ Risk Management,IMRF Contributions,‐,‐,"-18,613"
+6026,41071,101,520678,Self Insured Retention Fund,LEGAL ‐ Risk Management,Workers Comp Claims,"-2,087","-2,719",-696
+6026,41071,151,550678,Self Insured Retention Fund,LEGAL ‐ Risk Management,Workers Comp Claims,"-738,185","-999,062","-360,853"
+6026,41071,101,530667,Self Insured Retention Fund,LEGAL ‐ Risk Management,External Support,"-25,700","-22,504","-23,000"
+6026,41071,101,530675,Self Insured Retention Fund,LEGAL ‐ Risk Management,Bank Charges,-56,‐,‐
+6026,41071,101,530679,Self Insured Retention Fund,LEGAL ‐ Risk Management,Legal Fees Workers Comp,"-54,772","-37,808","-27,376"
+6026,41071,101,530680,Self Insured Retention Fund,LEGAL ‐ Risk Management,Legal Fees Liability Claims,"-205,843","-157,122","-258,956"
+6026,41071,101,550603,Self Insured Retention Fund,LEGAL ‐ Risk Management,Postage,-167,-199,-365
+6026,41071,101,550605,Self Insured Retention Fund,LEGAL ‐ Risk Management,Travel & Mileage Reimbursement,‐,‐,-29
+6026,41071,101,550663,Self Insured Retention Fund,LEGAL ‐ Risk Management,Software License Updates,"-3,500","-1,650","-3,650"
+6026,41071,101,550681,Self Insured Retention Fund,LEGAL ‐ Risk Management,Insurance Premiums,"-245,058","-260,085","-296,619"
+6026,41071,101,580679,Self Insured Retention Fund,LEGAL ‐ Risk Management,Liability Claims,"-454,468","-336,948","-461,881"
+6026,41071,101,591890,Self Insured Retention Fund,LEGAL ‐ Risk Management,Transfer To Other Funds,"-496,858",‐,‐
 7023,33000,101,510501,Fire Pension Fund,Fire,Regular Salaries,"-5,288,266","-5,493,754","-5,981,707"
 7023,33000,101,530660,Fire Pension Fund,Fire,General Contractuals,"-109,518","-66,812","-72,468"
 7023,33000,101,530671,Fire Pension Fund,Fire,Investment Management Fees,"-88,315","-92,811","-96,971"
