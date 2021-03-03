@@ -39,59 +39,13 @@ def cleanup():
     
     # append 2019 budget
     print('***importing 2019 budget***')
-    with open(budget_2019) as csvfile:
-        reader = csv.DictReader(csvfile)
-        rows_2019 = []
-        count = 0
-        for row in reader:
-            for main_row in all_rows:
-                if match_rows(row, main_row):
-                    row['imported'] = True
-                    main_row['Actuals 2016'] = set_or_add(main_row, row, 'Actuals 2016')
-                    main_row['Actuals 2017'] = set_or_add(main_row, row, 'Actuals 2017')
-                    count = count + 1
-            rows_2019.append(row)
-
-        print ('matched %s rows' % count) 
-
-        # import the rows we didn't match
-        count = 0
-        for row in rows_2019:
-            if 'imported' not in row.keys():
-                count = count + 1
-                all_rows.append(row)
-
-        print ('imported %s additional rows' % count) 
-        print ('rows parsed: %s' % len(rows_2019))
+    append_budget(budget_2019, ['Actuals 2016','Actuals 2017'], all_rows)
 
     # append 2017 budget
     print('***importing 2017 budget***')
-    with open(budget_2017) as csvfile:
-        reader = csv.DictReader(csvfile)
-        rows_2017 = []
-        count = 0
-        for row in reader:
-            for main_row in all_rows:
-                if match_rows(row, main_row):
-                    row['imported'] = True
-                    main_row['Actuals 2013'] = set_or_add(main_row, row, 'Actuals 2013')
-                    main_row['Actuals 2014'] = set_or_add(main_row, row, 'Actuals 2014')
-                    main_row['Actuals 2015'] = set_or_add(main_row, row, 'Actuals 2015')
-                    count = count + 1
-            rows_2017.append(row)
-
-        print ('matched %s rows' % count)
-
-        # import the rows we didn't match
-        count = 0
-        for row in rows_2017:
-            if 'imported' not in row.keys():
-                count = count + 1
-                all_rows.append(row)
-
-        print ('imported %s additional rows' % count) 
-        print ('rows parsed: %s' % len(rows_2017)) 
-        print ('final length: %s' % len(all_rows))
+    append_budget(budget_2017, ['Actuals 2013','Actuals 2014','Actuals 2015'], all_rows)
+    
+    print ('final length: %s' % len(all_rows))
     
     # loop through the result and fill in blanks with zeroes
     for row in all_rows:
@@ -105,29 +59,43 @@ def cleanup():
             if 'Estimates' in k or 'Actuals' in k:
                 row[k] = invert_cell(process_cell(v))
                 
-
     outp = open('final/oak_park_budget_cleaned.csv', 'w')
     writer = csv.DictWriter(outp, fieldnames=fieldnames, quoting=csv.QUOTE_ALL)
     writer.writeheader()
     writer.writerows(all_rows)
     outp.close()
 
+def append_budget(filepath, keys, all_rows):
+    with open(filepath) as csvfile:
+        reader = csv.DictReader(csvfile)
+        rows_import = []
+        count = 0
+        for row in reader:
+            for main_row in all_rows:
+                if match_rows(row, main_row):
+                    row['imported'] = True
+                    for k in keys:
+                        main_row[k] = set_or_add(main_row, row, k)
+                    count = count + 1
+            rows_import.append(row)
+
+        print ('matched %s rows' % count)
+
+        # import the rows we didn't match
+        count = 0
+        for row in rows_import:
+            if 'imported' not in row.keys():
+                count = count + 1
+                all_rows.append(row)
+
+        print ('imported %s additional rows' % count) 
+        print ('rows parsed: %s' % len(rows_import)) 
+
 def match_rows(a, b):
     if  a['Fund ID'] == b['Fund ID'] and a['Department ID'] == b['Department ID'] and a['Program ID'] == b['Program ID'] and a['Account ID'] == b['Account ID']:
         return True
     else:
         return False
-
-# def group_by(l, keys):
-#     from itertools import groupby
-#     from operator import itemgetter
-
-#     grouper = itemgetter("Fund ID", "Department ID", "Program ID", "Account ID")
-#     result = []
-#     for key, grp in groupby(sorted(l, key = grouper), grouper):
-#         temp_dict = dict(zip(["dept", "sku"], key))
-#         temp_dict["qty"] = sum(item["qty"] for item in grp)
-#         result.append(temp_dict)
 
 def set_or_add(a, b, k):
     val = a.get(k, 0)
