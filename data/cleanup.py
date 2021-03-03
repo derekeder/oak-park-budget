@@ -47,8 +47,8 @@ def cleanup():
             for main_row in all_rows:
                 if match_rows(row, main_row):
                     row['imported'] = True
-                    main_row['Actuals 2016'] = row['Actuals 2016']
-                    main_row['Actuals 2017'] = row['Actuals 2017']
+                    main_row['Actuals 2016'] = set_or_add(main_row, row, 'Actuals 2016')
+                    main_row['Actuals 2017'] = set_or_add(main_row, row, 'Actuals 2017')
                     count = count + 1
             rows_2019.append(row)
 
@@ -74,9 +74,9 @@ def cleanup():
             for main_row in all_rows:
                 if match_rows(row, main_row):
                     row['imported'] = True
-                    main_row['Actuals 2013'] = row['Actuals 2013']
-                    main_row['Actuals 2014'] = row['Actuals 2014']
-                    main_row['Actuals 2015'] = row['Actuals 2015']
+                    main_row['Actuals 2013'] = set_or_add(main_row, row, 'Actuals 2013')
+                    main_row['Actuals 2014'] = set_or_add(main_row, row, 'Actuals 2014')
+                    main_row['Actuals 2015'] = set_or_add(main_row, row, 'Actuals 2015')
                     count = count + 1
             rows_2017.append(row)
 
@@ -103,7 +103,8 @@ def cleanup():
 
         for k,v in row.items():
             if 'Estimates' in k or 'Actuals' in k:
-                row[k] = process_cell(v)
+                row[k] = invert_cell(process_cell(v))
+                
 
     outp = open('final/oak_park_budget_cleaned.csv', 'w')
     writer = csv.DictWriter(outp, fieldnames=fieldnames, quoting=csv.QUOTE_ALL)
@@ -117,16 +118,37 @@ def match_rows(a, b):
     else:
         return False
 
+# def group_by(l, keys):
+#     from itertools import groupby
+#     from operator import itemgetter
+
+#     grouper = itemgetter("Fund ID", "Department ID", "Program ID", "Account ID")
+#     result = []
+#     for key, grp in groupby(sorted(l, key = grouper), grouper):
+#         temp_dict = dict(zip(["dept", "sku"], key))
+#         temp_dict["qty"] = sum(item["qty"] for item in grp)
+#         result.append(temp_dict)
+
+def set_or_add(a, b, k):
+    val = a.get(k, 0)
+    val = process_cell(val)
+    val += process_cell(b[k])
+    return val
+
 def process_cell(v):
     if v is None:
         return 0
-    v = v.replace('$', '').replace(',','')
+    if isinstance(v, str): 
+        v = v.replace('$', '').replace(',','')
     try:
         int(v)
-        v=int(v)*-1
+        v=int(v)
     except:
         v = 0
     return v
+
+def invert_cell(v):
+    return int(v)*-1
 
 if __name__ == "__main__":
     cleanup()
