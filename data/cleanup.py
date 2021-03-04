@@ -100,8 +100,6 @@ def cleanup():
 
 def append_budget(filepath, keys, all_rows):
     rows_import = {}
-    count = 0
-    unique_key_sets = []
 
     # read in the flie to a dict
     with open(filepath) as csvfile:
@@ -124,12 +122,6 @@ def sum_value(l, k):
 
 def create_unique_key(a):
     return ('%s-%s-%s-%s' %(a['Fund ID'],a['Department ID'],a['Program ID'],a['Account ID']))
-
-def match_rows(a, b):
-    if  a['Fund ID'] == b['Fund ID'] and a['Department ID'] == b['Department ID'] and a['Program ID'] == b['Program ID'] and a['Account ID'] == b['Account ID']:
-        return True
-    else:
-        return False
 
 def set_or_add(a, b, k):
     val = a.get(k, 0)
