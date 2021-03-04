@@ -29,7 +29,7 @@ def cleanup():
     
     all_rows = []
     # start with 2021 budget
-    print('***importing 2021 budget***')
+    print('importing 2021 budget ...')
     with open(budget_2021) as csvfile:
         reader = csv.DictReader(csvfile)
         for row in reader:
@@ -38,15 +38,16 @@ def cleanup():
     print ('imported %s rows' % len(all_rows))
     
     # append 2019 budget
-    print('***importing 2019 budget***')
+    print('importing 2019 budget ...')
     append_budget(budget_2019, ['Actuals 2016','Actuals 2017'], all_rows)
 
     # append 2017 budget
-    print('***importing 2017 budget***')
+    print('importing 2017 budget ...')
     append_budget(budget_2017, ['Actuals 2013','Actuals 2014','Actuals 2015'], all_rows)
     
     print ('final length: %s' % len(all_rows))
     
+    print('cleaning values ...')
     # loop through the result and fill in blanks with zeroes
     for row in all_rows:
         # note - second stop parameter is not inclusive in the range
@@ -58,7 +59,29 @@ def cleanup():
         for k,v in row.items():
             if 'Estimates' in k or 'Actuals' in k:
                 row[k] = invert_cell(process_cell(v))
-                
+
+    print('testing sums ...')
+    correct_sums = {
+        'Actuals 2013': 116102095,
+        'Actuals 2014': 127783862,
+        'Actuals 2015': 157918447,
+        'Actuals 2016': 168366528,
+        'Actuals 2017': 175297842,
+        'Actuals 2018': 132912921,
+        'Actuals 2019': 144118821,
+        'Estimates 2020': 198502979,
+        'Estimates 2021': 150680135,
+    }
+
+    for k, v in correct_sums.items():
+        summed_value = sum_value(all_rows, k)
+        if summed_value == v:
+            print('%s: %s : sum is correct' % (k,v))
+        else:
+            print('%s: %s : sum is incorrect' % (k,v))
+            print('  off by %s' % (summed_value - v))
+    
+    print('writing output ...')       
     outp = open('final/oak_park_budget_cleaned.csv', 'w')
     writer = csv.DictWriter(outp, fieldnames=fieldnames, quoting=csv.QUOTE_ALL)
     writer.writeheader()
@@ -90,6 +113,12 @@ def append_budget(filepath, keys, all_rows):
 
         print ('imported %s additional rows' % count) 
         print ('rows parsed: %s' % len(rows_import)) 
+
+def sum_value(l, k):
+    val = 0
+    for row in l:
+        val += row[k]
+    return val
 
 def match_rows(a, b):
     if  a['Fund ID'] == b['Fund ID'] and a['Department ID'] == b['Department ID'] and a['Program ID'] == b['Program ID'] and a['Account ID'] == b['Account ID']:
