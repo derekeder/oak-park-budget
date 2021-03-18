@@ -11,7 +11,11 @@ app.BreakdownDetail = Backbone.View.extend({
         this._modelBinder = new Backbone.ModelBinder();
     },
     render: function(){
-        // console.log("*** in BreakdownDetail render")
+        if (debugMode) {
+            console.log("*** in BreakdownDetail render")
+            console.log(this.model)
+        }
+
         this.$el.html(BudgetHelpers.template_cache('breakdownDetail', {model: this.model}));
         this._modelBinder.bind(this.model, this.el, {
             prevYearRange: '.prevYearRange',
