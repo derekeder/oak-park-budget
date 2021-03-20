@@ -14,7 +14,7 @@ For more information on the Oak Park Village budget and how we built this site, 
 #### Dependencies
 
 - [jQuery](http://jquery.com)
-- [python3](http://d3js.org) (for CSV manipulation)
+- [python3](https://www.python.org/) (for CSV manipulation)
 - [Backbone](http://backbonejs.org/) (javascript MVC framework)
 - [Highcharts](http://www.highcharts.com/) (charting library)
 - [Datatables](http://datatables.net) (sortable HTML tables)
