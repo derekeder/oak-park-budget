@@ -46,7 +46,7 @@ app.BreakdownSummary = Backbone.View.extend({
         }
         if (this.$el.next().hasClass('expanded-content')){
             this.$el.next().remove();
-            this.$el.find('i').attr('class', 'fa fa-caret-right fa-lg fa-fw')
+            this.$el.find('i').attr('class', 'fa fa-caret-right fa-lg')
         } else {
             var filter = {};
             var type = this.model.get('type');
@@ -79,7 +79,7 @@ app.BreakdownSummary = Backbone.View.extend({
             this.detailView = new app.BreakdownDetail({model:this.model});
             this.detailView.render().$el.insertAfter(this.$el);
             this.detailView.updateChart();
-            this.$el.find('i').attr('class', 'fa fa-caret-down fa-lg fa-fw')
+            this.$el.find('i').attr('class', 'fa fa-caret-down fa-lg')
 
             sel_chart_slug = "#"+this.model.get('slug') + "-selected-chart"
             if(this.model.get('estChange') == null){

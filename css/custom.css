@@ -93,11 +93,11 @@ a:focus { outline: 0;}
 }
 #breakdown a { cursor: pointer; }
 #breakdown .num { text-align: right; }
-#breakdown td, #breakdown th { border: 0px; border-bottom: 1px solid #ddd; font-size: 14px; }
-#breakdown th { background: #dddddd; font-size: 12px; font-weight: bold; text-align: left; }
+#breakdown td, #breakdown th { border: 0px; border-bottom: 1px solid #ddd; font-size: 16px; }
+#breakdown th { background: #dddddd; font-size: 16px; font-weight: bold; text-align: left; }
 #breakdown th.bars { width: 15%; }
 /*#breakdown th.controls { width: 20px; }*/
-#breakdown th span { color: #1b3364; cursor: pointer; }
+#breakdown th span { color: #006830; cursor: pointer; }
 
 #breakdown th.sorting_asc span {
   background: url(../images/sort-up.png) no-repeat 100% 50%;
