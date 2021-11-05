@@ -29,8 +29,10 @@
     <!-- Customize page title -->
     <title>Oak Park Budget</title>
 
-    <!-- Bootstrap core CSS -->
-    <link rel="shortcut icon" href="/favicon.png">
+    <!-- Bootstrap and core CSS -->
+    <link rel="icon" type="image/png" href="/favicon.png">
+    <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32" />
+    <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16" />
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/custom.css" rel="stylesheet">
 
@@ -63,58 +65,48 @@
         
         <h1>Frequently asked questions</h1>
 
-        <h3>Who is responsible for providing most of Oak Park’s services?</h3>
-
+        <h3 id='services'>Who is responsible for providing most of Oak Park’s services?</h3>
         <p>
         Oak Park has 6 main entities that collect taxes and provide services within Oak Park.
         </p>
         <ul>
-
         <li><a href="https://www.oprfhs.org/">District 200</a>, also known as Oak Park and River Forest High School, serves more than 3,400 students.
-
         <li><a href="https://www.op97.org/">District 97</a> provides education for nearly 6,000 K-8 students in Oak Park.
-
         <li><a href="https://www.oak-park.us/">The Village of Oak Park</a> is the governing body for  Oak Park.
         <li><a href="https://www.oppl.org/">The Oak Park Public Library</a> has three branches in the village.
-
         <li><a href="https://www.pdop.org/">The Park District of Oak Park</a> serves the recreational needs of Oak Parkers, providing nearly 3,000 recreation programs and special events annually.
-
         <li><a href="https://oakparktownship.org/">The Oak Park Township</a> provides social services such as mental health programs, senior services, and youth services in Oak Park. The Township also assists homeowners with real estate tax assessments. </li>
         </ul>
-        <h3>Why focus on The Village of Oak Park?</h3>
-
-
+		  
+        <h3 id='why-focus'>Why focus on The Village of Oak Park?</h3>
         <p>
-        We started with The Village of Oak Park’s budget because it is community's the governing body.
+        We started with The Village of Oak Park’s budget because it is Oak Park's governing body.
         </p>
-        <h3>Who are The Village of Oak Park’s elected officials?</h3>
-
-
+		  
+        <h3 id='elected-officials'>Who are The Village of Oak Park’s elected officials?</h3>
         <p>
         The Village of Oak Park operates under the <a href="https://youtu.be/2CgyobcGFXc">Village Manager form of government.</a> An elected <a href="https://www.oak-park.us/your-government/elected-officials">Village Board</a> president and six trustees set policy, but hire a professional manager to oversee day-to-day operations and the delivery of municipal government services. The elected <a href="https://www.oak-park.us/your-government/office-village-clerk">Village Clerk</a> records the proceedings of all Village Board meetings and special meetings; maintains all official legislative records, certifications and the Village seal; and monitors Village compliance with the Illinois Open Meetings Act and Illinois Freedom of Information Act. 
         </p>
-        <h3>What services does The Village of Oak Park provide?</h3>
-
-
+       
+		<h3 id='services'>What services does The Village of Oak Park provide?</h3>
         <p>
         The Village of Oak Park's responsibilities include creating a safe community; protecting the community's public health; maintaining municipal infrastructure; and managing land use (building codes and planning). To provide the related services, the Village operates the Fire, Police,  Public Health, and Public Works departments, among other smaller departments.</p>
-        <h3>Where can I find The Village of Oak Park’s budget?</h3>
-
-
+      
+		<h3 id='village-budget'>Where can I find The Village of Oak Park’s budget?</h3>
         <p>
         The budgets are posted on The Village of Oak Park’s <a href="https://www.oak-park.us/your-government/budget-purchasing/budget-summaries">website</a>.
         </p>
-        <h3>What is included on this website?</h3>
+		  
+        <h3 id='whats-included'>What is included on this website?</h3>
         <p>
-        This website includes  only the Village's expenses, as reported in actual budget documents. The funds, departments, and descriptions are as the Village officially reports. The Village codes interfund transfers as expenses in its budgets. For consistency, these interfund transfers are likewise included as expenses in this website. All expenses and their coding is unchanged by us, with the <a href="#data-issues">exception of merging duplicate line items</a>. </p>
+        This website includes only the Village's expenses, as reported in actual budget documents. The funds, departments, and descriptions are as the Village officially reports. The Village codes interfund transfers as expenses in its budgets. For consistency, these interfund transfers are likewise included as expenses in this website. All expenses and their coding is unchanged by us, with the <a href="#data-issues">exception of merging duplicate line items</a>.</p>
         <p> Actual spending amounts for 2013-2015 can be found in the fiscal year <a href="https://www.oak-park.us/sites/default/files/budgets/2017/2017-vop-adopted-budget.pdf">2017 Approved Budget</a>. Actual spending amounts for 2016 and 2017 can be found in the fiscal year <a href="https://www.oak-park.us/sites/default/files/budgets/2019/2019-adopted-budget-web.pdf">2019 Approved Budget</a>.  The fiscal year <a href="https://www.oak-park.us/sites/default/files/budgets/2021/fy21_adopted_budget_web.pdf">2021 Approved Budget</a> includes actual spending amounts for 2018 and 2019, as well as, estimated amounts for 2020 and 2021. The Village Board is reviewing its <a href="https://oak-park.legistar.com/View.ashx?M=F&ID=9927997&GUID=93E02FA1-5C6B-43E1-A670-47DDB1460E54">2022 Recommended Budget</a>, which was last published by the Village on on October 11, 2021. </p>
 		  
-		<h3>Are interfund transfers included?</h3>
+		<h3 id='interfund-transfers'>Are interfund transfers included?</h3>
         <p>
         The Village codes interfund transfers as expenses in its budgets. For consistency, these interfund transfers are likewise included as expenses in this website. Many of those transfers, as well as debt service and bond principal payments, are coded as expenses for the Finance Department. Because of this, the Finance Department’s expenses are typically larger than the actual costs associated with operating the department.</p>
 		  
-		  
-        <h3>How did you build it?</h3>
+        <h3 id='how-did-you-build-it'>How did you build it?</h3>
         <p>
         This project had two primary parts to it: the data collection and cleanup, and the website itself. All the code and data are <a href="https://github.com/derekeder/oak-park-budget">open source on GitHub</a>.
         </p>
@@ -128,7 +120,6 @@
         To understand how we verified that our converted budget data matched the source documents, it is helpful to understand what each expense table in the budget document includes. For our purposes, we focused on 2 expense amounts for each expense line item:
         </p>
         <ul>
-
         <li>the <em>adopted budget expense</em> (the approved amount) for the budget’s fiscal year
 
         <li>the <em>actual expense</em> (the amount the Village spent)  for the prior years</ul>
@@ -142,9 +133,8 @@
         <p>
         <br>
         The 2021 Budget includes actual expenses for 2018 and 2019 and the adopted budget expenses for 2021. After pulling the expenses for 2018, 2019, and 2021, we totaled up the values for each year. To ensure our data was correct, we compared our total 2021 expenses with the total reported in the 2021 Budget. The budget documents do not include totals for actual expenses in prior years. So, when our total for the adopted budget expenses matched the same reported in the budget, we were assured that we had captured all three years of data correctly. Once the totals matched, we doubled checked our data by visually comparing our spreadsheet with the source PDF documents to catch any omissions or errors. None were found.</p>
-        <h3>Were there any issues with the budget data?</h3>
-
-
+       
+		<h3 id='data-issues'>Were there any issues with the budget data?</h3>
         <p>
         There were several issues we encountered when preparing the budget data for this site:
         </p>
@@ -158,10 +148,9 @@
           <p>We used a combination of Fund ID, Department ID, Program ID, and Account ID to identify and group each line item in the budget across all included years. However, in doing so, we discovered that there were a number of duplicate line items. To resolve this, we aggregated matching line items and combined them into one row. You can see how we did this in our <a href="https://github.com/derekeder/oak-park-budget/blob/main/data/cleanup.py">data cleanup script</a>.
         </p></li>
         </ul>
-        <h3>More questions?</h3>
-
-
-        <p>
+        
+		<h3 id='questions'>More questions?</h3>
+		<p>
         If you have additional questions not already answered in this FAQ, please email us at <a href="mailto:info@budgetoakpark.com">info@budgetoakpark.com</a>.
         </p>
 
