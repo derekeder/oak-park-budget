@@ -43,7 +43,7 @@
     <![endif]-->
   </head>
 
-  <body>
+<body>
     <a href="#content" class="sr-only">Skip to content</a>
     <div id="readme" style="display: none;"><img src="" alt="Click points to see annual budgets below"></div>
     <div class="container">
@@ -55,7 +55,8 @@
               <a href='/'>Budget: Oak Park, IL</a>
             </div>
             <!-- Customize page text below logo -->
-            <p class='lead'><a href="https://budgetoakpark.com/">Explore the Village of Oak Park's budget</a> from 2013 to 2021 and learn how the money is being spent. <br /><a onclick="window.scrollTo(0, document.body.scrollHeight);">Read more</a> or <a href='/faq.html'>check out the FAQ &raquo;</a></p>
+          <p class='lead'>Explore the Village of Oak Park's budget from 2013 to 2021 and learn how the money is being spent.</p>
+ <!-- <br /><a onclick="window.scrollTo(0, document.body.scrollHeight);">Read more</a> or <a href='/faq.html'>check out the FAQ &raquo;</a></p>-->
           </div>
         </div>
       </div>
@@ -104,25 +105,25 @@
 		  
 		<h3 id='interfund-transfers'>Are interfund transfers included?</h3>
         <p>
-        The Village codes interfund transfers as expenses in its budgets. For consistency, these interfund transfers are likewise included as expenses in this website. Many of those transfers, as well as debt service and bond principal payments, are coded as expenses for the Finance Department. Because of this, the Finance Department’s expenses are typically larger than the actual costs associated with operating the department.</p>
+        The Village codes interfund transfers as expenses in its budgets. For consistency, these interfund transfers are likewise included as expenses in this website. Many of those transfers, as well as debt service and bond principal payments, are coded as expenses for the Finance Department. Because of this, the Finance Department’s expenses appear larger than the actual costs associated with operating the department.</p>
 		  
         <h3 id='how-did-you-build-it'>How did you build it?</h3>
         <p>
-        This project had two primary parts to it: the data collection and cleanup, and the website itself. All the code and data are <a href="https://github.com/derekeder/oak-park-budget">open source on GitHub</a>.
+        This project had two primary parts: the data collection and cleanup, and the website itself. All of the code and data are <a href="https://github.com/derekeder/oak-park-budget">open source on GitHub</a>.
         </p>
         <p>
         The website was built by Derek and is based off of the open source <a href="https://datamade.us/products/budget-breakdown/">Budget Breakdown</a> code developed by Derek Eder, Nick Rougeux, Open City and DataMade, which has been used to visualize budgets for Cook County and Macoupin County, IL, the City of New Orleans, Washington State, and New York State. We customized the code to fit Oak Park’s budget and match the colors of the Village flag. 
         </p>
         <p>
-        The data was collected, extracted, and cleaned by Alicia. Using an open source tool called <a href="https://tabula.technology/">Tabula</a>, she was able to extract budget tables from the fiscal year 2017, 2019, and 2021 adopted budget PDFs. Once the data from each budget was converted to a separate spreadsheet, we merged them  into one spreadsheet containing all the years' budget data using our <a href="https://github.com/derekeder/oak-park-budget/blob/main/data/cleanup.py">data cleanup script</a>.
+        The data was collected, extracted, and cleaned by Alicia. Using an open source tool called <a href="https://tabula.technology/">Tabula</a>, she was able to extract budget tables from the fiscal year 2017, 2019, and 2021 adopted budget PDFs. Once the data from each budget was extracted into its own spreadsheet, we merged the set into one spreadsheet containing all the years' budget data using our <a href="https://github.com/derekeder/oak-park-budget/blob/main/data/cleanup.py">data cleanup script</a>.
         </p>
         <p>
-        To understand how we verified that our converted budget data matched the source documents, it is helpful to understand what each expense table in the budget document includes. For our purposes, we focused on 2 expense amounts for each expense line item:
+        To understand how we verified that our converted budget data matched the source documents, it is helpful to understand what each expense table in the budget document includes. For our purposes, we focused on two expense amounts for each expense line item:
         </p>
         <ul>
         <li>the <em>adopted budget expense</em> (the approved amount) for the budget’s fiscal year
 
-        <li>the <em>actual expense</em> (the amount the Village spent)  for the prior years</ul>
+        <li>the <em>actual expense</em> (the amount the Village spent) for the prior years</ul>
         <p>
         To illustrate this format, here is page 70 of the Fiscal Year 2021 Budget:<br /></p>
 
