@@ -1,11 +1,11 @@
 Budget: Oak Park
 =====================================
 
-Explore the Village of Oak Park's budget from 2013 to 2021 and learn how the money is being spent.
+Explore the Village of Oak Park's budget from 2013 to 2022 and learn how the money is being spent.
 
 Budget: Oak Park is a budget transparency tool for the Village of Oak Park, Illinois. It was built by Oak Park Residents Derek Eder and Alicia Chastain. It is not an official application from the Village.
 
-By extracting data from the Village’s official budgets from 2017, 2019 and 2021, we were able to display and compare annual budgets from 2013 through 2021. The funds, departments and descriptions are as the Village officially reports them and are unchanged by us, with the exception of merging duplicate line items.
+By extracting data from the Village’s official budgets from 2017, 2019, 2021, and 2022, we were able to display and compare annual budgets from 2013 through 2022. The funds, departments and descriptions are as the Village officially reports them and are unchanged by us, with the exception of merging duplicate line items.
 
 Our goal with this tool is to increase transparency around one of the most important but challenging parts of government: the budgeting process. We hope that by making this information more readily accessible and easier to understand, we can bring more informed voices into the discussions and debates around budget priorities in Oak Park.
 
@@ -37,7 +37,7 @@ See examples of prepped data:
   - [Macoupin County](https://github.com/datamade/macoupin-budget/blob/master/data/macoupin-budget_1997-2014.csv)
   - [A blank template to populate](https://docs.google.com/spreadsheets/d/1I6xZe8syHTiLguZ56l6J1KW0nAJVrUilvq0eP-BpE2A/edit?usp=sharing)
 
-####Configuration
+#### Configuration
 1. Once the data is prepared, set dataSource in js/app.js to link up to your data.
   
   *If your budget data is in CSV form:*

@@ -20,9 +20,11 @@ def cleanup():
         'Actuals 2018',
         'Actuals 2019',
         'Estimates 2020',
-        'Estimates 2021'
+        'Estimates 2021',
+        'Estimates 2022',
     ]
 
+    budget_2022 = 'raw/2022 Recommended Budget - VOP.csv'
     budget_2021 = 'raw/2021 Adopted Budget - VOP - Data2018-2021.csv'
     budget_2019 = 'raw/2019 Adopted Budget - VOP - Data2016-2017.csv'
     budget_2017 = 'raw/2017 Adopted Budget - Data2013-2015.csv'
@@ -46,6 +48,10 @@ def cleanup():
     
     print ('imported %s rows' % len(all_rows))
     
+    # append 2022 budget
+    print('importing 2022 budget ...')
+    append_budget(budget_2022, ['Estimates 2022'], all_rows)
+    
     # append 2019 budget
     print('importing 2019 budget ...')
     append_budget(budget_2019, ['Actuals 2016','Actuals 2017'], all_rows)
@@ -63,7 +69,7 @@ def cleanup():
         # note - second stop parameter is not inclusive in the range
         for year in range(2013, 2020): 
             row['Actuals %s' % year] = row.get('Actuals %s' % year, '0')
-        for year in range(2020, 2022):
+        for year in range(2020, 2023):
             row['Estimates %s' % year] = row.get('Estimates %s' % year, '0')
 
         for k,v in row.items():
@@ -83,6 +89,7 @@ def cleanup():
         'Actuals 2019': 144118821,
         'Estimates 2020': 198502979,
         'Estimates 2021': 150680135,
+        'Estimates 2022': 171891925,
     }
 
     for k, v in correct_sums.items():
