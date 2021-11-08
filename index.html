@@ -24,14 +24,16 @@
     <meta name="twitter:title" content="Budget: Oak Park, IL">
     <meta name="twitter:url" content="https://budgetoakpark.com">
     <meta name="twitter:description" content="Explore the Village of Oak Park's budget from 2013 to 2021 and learn how the money is being spent.">
-    <meta name="twitter:image" content="https://budgetoakpark.com/images/screenshot.png">
+    <meta name="twitter:image:src" content="https://budgetoakpark.com/images/screenshot.png">
 
 
     <!-- Customize page title -->
     <title>Budget: Oak Park, IL</title>
 
-    <!-- Bootstrap core CSS -->
-    <link rel="shortcut icon" href="/favicon.png">
+    <!-- Bootstrap and core CSS -->
+    <link rel="icon" type="image/png" href="/favicon.png">
+    <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32" />
+    <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16" />
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/custom.css" rel="stylesheet">
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
@@ -66,10 +68,10 @@
               <tr>
                 <th id='breakdown-item-title'><span id="row-title">Function</span></th>
                 <th class="estimates num"><span>Estimated Spending</span></th>
-                <th class="estimates num hidden-sm"><span>Percentage</span></th>
+                <th class="estimates num"><span></span></th>
                 <th class="actuals num"><span>Actual Spending</span></th>
-                <th class="actuals num"><span>Percentage</span></th>
-                <th class="bars sorting_disabled"><span></span></th>
+                <th class="actuals num"><span></span></th>
+                <th class="bars sorting_disabled hidden-xs"><span></span></th>
               </tr>
             </thead>
             <tbody id="breakdown-table-body"></tbody>
@@ -101,7 +103,7 @@
     <div id='footer'>
       <p class='pull-left'>
         <!-- Customize download link -->
-        <a id="download-button" class="btn btn-info" href="">View &amp; download data</a>
+        <a id="download-button" class="btn btn-info" href="/data/final/oak_park_budget_cleaned.csv">View &amp; download data</a>
         All the data for this project is freely available to download or explore.
         <br />
         <br />
@@ -112,7 +114,7 @@
         <!-- Customize facebook share -->
         <a href="http://www.facebook.com/share.php?u=http%3a%2f%2fbudgetoakpark.com/"><img alt="Facebook" src="images/facebook-lg.png" /></a>
         <!-- Customize twitter share -->
-        <a href="http://twitter.com/share?text=Where's%20the%20money%20going%3F%20Explore%20New%20Orleans'%20budget&amp;url=http%3a%2f%2fbudgetoakpark.com/"><img alt="Twitter" src="images/twitter-lg.png" /></a>
+        <a href="http://twitter.com/share?text=Where%27s%20the%20money%20going%3F%20Explore%20Oak%20Park%27s%20budget&amp;url=https%3a%2f%2fbudgetoakpark.com/"><img alt="Twitter" src="images/twitter-lg.png" /></a>
       </p>
     </div>
   </div>

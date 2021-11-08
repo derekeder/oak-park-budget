@@ -26,6 +26,8 @@ def cleanup():
     budget_2021 = 'raw/2021 Adopted Budget - VOP - Data2018-2021.csv'
     budget_2019 = 'raw/2019 Adopted Budget - VOP - Data2016-2017.csv'
     budget_2017 = 'raw/2017 Adopted Budget - Data2013-2015.csv'
+    dept_descriptions = 'raw/VOP Department descriptions - VOP Departments.csv'
+    fund_descriptions = 'raw/VOP Department descriptions - VOP Funds.csv'
     
     all_rows = {}
     # start with 2021 budget
@@ -91,6 +93,24 @@ def cleanup():
             print('%s: %s : sum is incorrect' % (k,v))
             print('  off by %s' % (summed_value - v))
     
+    print('adding department descriptions ...')
+    with open(dept_descriptions) as csvfile:
+        reader = csv.DictReader(csvfile)
+        for row in reader:
+            for p in rows_to_print:
+                if row['Department ID'] == p['Department ID']:
+                    p['Department Description'] = row['Description']
+
+    print('adding fund descriptions ...')
+    with open(fund_descriptions) as csvfile:
+        reader = csv.DictReader(csvfile)
+        for row in reader:
+            for p in rows_to_print:
+                if row['Fund ID'] == p['Fund ID']:
+                    p['Fund Description'] = row['Description']
+    
+    fieldnames.append('Department Description')
+    fieldnames.append('Fund Description')
     print('writing output ...')       
     outp = open('final/oak_park_budget_cleaned.csv', 'w')
     writer = csv.DictWriter(outp, fieldnames=fieldnames, quoting=csv.QUOTE_ALL)
