@@ -20,9 +20,11 @@ def cleanup():
         'Actuals 2018',
         'Actuals 2019',
         'Estimates 2020',
-        'Estimates 2021'
+        'Estimates 2021',
+        'Estimates 2022',
     ]
 
+    budget_2022 = 'raw/2022 Recommended Budget - VOP.csv'
     budget_2021 = 'raw/2021 Adopted Budget - VOP - Data2018-2021.csv'
     budget_2019 = 'raw/2019 Adopted Budget - VOP - Data2016-2017.csv'
     budget_2017 = 'raw/2017 Adopted Budget - Data2013-2015.csv'
@@ -30,21 +32,25 @@ def cleanup():
     fund_descriptions = 'raw/VOP Department descriptions - VOP Funds.csv'
     
     all_rows = {}
-    # start with 2021 budget
-    print('importing 2021 budget ...')
-    with open(budget_2021) as csvfile:
+    # start with 2022 budget
+    print('importing 2022 budget ...')
+    with open(budget_2022) as csvfile:
         reader = csv.DictReader(csvfile)
         for row in reader:
             unique_key = create_unique_key(row)
             if unique_key not in all_rows:
                 all_rows[unique_key] = {}
             for k, v in row.items():
-                if k in ['Actuals 2018', 'Actuals 2019', 'Estimates 2020', 'Estimates 2021']:
+                if k in ['Estimates 2022']:
                     all_rows[unique_key][k] = set_or_add(all_rows[unique_key], row, k)
                 else:
                     all_rows[unique_key][k] = v
     
     print ('imported %s rows' % len(all_rows))
+    
+    # append 2021 budget
+    print('importing 2021 budget ...')
+    append_budget(budget_2021, ['Actuals 2018', 'Actuals 2019', 'Estimates 2020', 'Estimates 2021'], all_rows)
     
     # append 2019 budget
     print('importing 2019 budget ...')
@@ -63,7 +69,7 @@ def cleanup():
         # note - second stop parameter is not inclusive in the range
         for year in range(2013, 2020): 
             row['Actuals %s' % year] = row.get('Actuals %s' % year, '0')
-        for year in range(2020, 2022):
+        for year in range(2020, 2023):
             row['Estimates %s' % year] = row.get('Estimates %s' % year, '0')
 
         for k,v in row.items():
@@ -83,6 +89,7 @@ def cleanup():
         'Actuals 2019': 144118821,
         'Estimates 2020': 198502979,
         'Estimates 2021': 150680135,
+        'Estimates 2022': 171891925,
     }
 
     for k, v in correct_sums.items():

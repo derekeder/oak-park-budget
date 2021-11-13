@@ -1,8 +1,8 @@
 var app = {};
 
 startYear   = 2013;  // first year of budget data
-endYear     = 2021;  // last year of budget data
-activeYear  = 2021;  // default year to select
+endYear     = 2022;  // last year of budget data
+activeYear  = 2022;  // default year to select
 debugMode   = false; // change to true for debugging message in the javascript console
 municipalityName = 'Oak Park Village'; // name of budget municipality 
 
@@ -16,7 +16,7 @@ plotBandBuffer = 0;        // move the plot band start N months back, for stylin
 
 
 // Inflation Index (for inflation adjusted dollars)
-benchmark = 2021;
+benchmark = 2022;
 inflation_idx = {
     1995: 149.3, 1996: 153.4, 1997: 158.0, 1998: 161.1, 1999: 163.7,
     2000: 167.9, 2001: 173.6, 2002: 177.6, 2003: 181.2, 2004: 184.8,
