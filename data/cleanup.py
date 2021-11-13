@@ -32,25 +32,25 @@ def cleanup():
     fund_descriptions = 'raw/VOP Department descriptions - VOP Funds.csv'
     
     all_rows = {}
-    # start with 2021 budget
-    print('importing 2021 budget ...')
-    with open(budget_2021) as csvfile:
+    # start with 2022 budget
+    print('importing 2022 budget ...')
+    with open(budget_2022) as csvfile:
         reader = csv.DictReader(csvfile)
         for row in reader:
             unique_key = create_unique_key(row)
             if unique_key not in all_rows:
                 all_rows[unique_key] = {}
             for k, v in row.items():
-                if k in ['Actuals 2018', 'Actuals 2019', 'Estimates 2020', 'Estimates 2021']:
+                if k in ['Estimates 2022']:
                     all_rows[unique_key][k] = set_or_add(all_rows[unique_key], row, k)
                 else:
                     all_rows[unique_key][k] = v
     
     print ('imported %s rows' % len(all_rows))
     
-    # append 2022 budget
-    print('importing 2022 budget ...')
-    append_budget(budget_2022, ['Estimates 2022'], all_rows)
+    # append 2021 budget
+    print('importing 2021 budget ...')
+    append_budget(budget_2021, ['Actuals 2018', 'Actuals 2019', 'Estimates 2020', 'Estimates 2021'], all_rows)
     
     # append 2019 budget
     print('importing 2019 budget ...')
