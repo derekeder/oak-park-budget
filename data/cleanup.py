@@ -19,12 +19,13 @@ def cleanup():
         'Actuals 2017',
         'Actuals 2018',
         'Actuals 2019',
-        'Estimates 2020',
-        'Estimates 2021',
+        'Actuals 2020',
+        'Actuals 2021',
         'Estimates 2022',
+        'Estimates 2023',
     ]
 
-    budget_2022 = 'raw/2022 Recommended Budget - VOP.csv'
+    budget_2023 = 'raw/2023 Adopted Budget - Entire Budget.csv'
     budget_2021 = 'raw/2021 Adopted Budget - VOP - Data2018-2021.csv'
     budget_2019 = 'raw/2019 Adopted Budget - VOP - Data2016-2017.csv'
     budget_2017 = 'raw/2017 Adopted Budget - Data2013-2015.csv'
@@ -32,32 +33,33 @@ def cleanup():
     fund_descriptions = 'raw/VOP Department descriptions - VOP Funds.csv'
     
     all_rows = {}
-    # start with 2022 budget
-    print('importing 2022 budget ...')
-    with open(budget_2022) as csvfile:
+    # start with 2023 budget, which has 2023, 2022, 2021 and 2020
+    print('importing estimates for years 2023 and 2022')
+    print('importing actuals for years 2021 and 2020')
+    with open(budget_2023) as csvfile:
         reader = csv.DictReader(csvfile)
         for row in reader:
             unique_key = create_unique_key(row)
             if unique_key not in all_rows:
                 all_rows[unique_key] = {}
             for k, v in row.items():
-                if k in ['Estimates 2022']:
+                if k in ['Estimates 2023']:
                     all_rows[unique_key][k] = set_or_add(all_rows[unique_key], row, k)
                 else:
                     all_rows[unique_key][k] = v
     
     print ('imported %s rows' % len(all_rows))
+
+    # append 2021 budget, which as 2019 and 2018 actuals
+    print('importing actuals for years 2019 and 2018')
+    append_budget(budget_2021, ['Actuals 2018', 'Actuals 2019'], all_rows)
     
-    # append 2021 budget
-    print('importing 2021 budget ...')
-    append_budget(budget_2021, ['Actuals 2018', 'Actuals 2019', 'Estimates 2020', 'Estimates 2021'], all_rows)
-    
-    # append 2019 budget
-    print('importing 2019 budget ...')
+    # append 2019 budget, which as 2017 and 2016 actuals
+    print('importing actuals for years 2017 and 2016')
     append_budget(budget_2019, ['Actuals 2016','Actuals 2017'], all_rows)
 
-    # append 2017 budget
-    print('importing 2017 budget ...')
+    # append 2017 budget, which as 2014 and 2013 actuals
+    print('importing actuals for years 2014 and 2013')
     append_budget(budget_2017, ['Actuals 2013','Actuals 2014','Actuals 2015'], all_rows)
     
     print ('final length: %s' % len(all_rows))
@@ -67,9 +69,9 @@ def cleanup():
     rows_to_print = []
     for unique_key, row in all_rows.items():
         # note - second stop parameter is not inclusive in the range
-        for year in range(2013, 2020): 
+        for year in range(2013, 2022): 
             row['Actuals %s' % year] = row.get('Actuals %s' % year, '0')
-        for year in range(2020, 2023):
+        for year in range(2022, 2024):
             row['Estimates %s' % year] = row.get('Estimates %s' % year, '0')
 
         for k,v in row.items():
@@ -87,9 +89,10 @@ def cleanup():
         'Actuals 2017': 175297842,
         'Actuals 2018': 132912921,
         'Actuals 2019': 144118821,
-        'Estimates 2020': 198502979,
-        'Estimates 2021': 150680135,
+        'Actuals 2020': 198502979,
+        'Actuals 2021': 150680135,
         'Estimates 2022': 171891925,
+        'Estimates 2023': 199453326,
     }
 
     for k, v in correct_sums.items():
