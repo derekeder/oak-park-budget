@@ -89,9 +89,9 @@ def cleanup():
         'Actuals 2017': 175297842,
         'Actuals 2018': 132912921,
         'Actuals 2019': 144118821,
-        'Actuals 2020': 198502979,
-        'Actuals 2021': 150680135,
-        'Estimates 2022': 171891925,
+        'Actuals 2020': 151218743,
+        'Actuals 2021': 146703249,
+        'Estimates 2022': 171848484,
         'Estimates 2023': 199453326,
     }
 
