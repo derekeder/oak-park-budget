@@ -36,7 +36,7 @@ var BudgetHelpers = {
   prettyPercent: function(num, denom){
     var percent = parseFloat((num/denom) * 100)
     if (percent > 0 && percent < 1){ var pretty = '<1%'; }
-    else{ var pretty = parseInt(percent)+'%'; }
+    else{ var pretty = percent.toFixed(1)+'%'; }
     return pretty
   },
   // adjusts inflation for a data series spanning across years, where first figure is startYear (for line charts)
