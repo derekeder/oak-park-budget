@@ -1306,8 +1306,7 @@ Fund ID,Department ID,Program ID,Account ID,Fund,Department,Description,Actuals 
 2310,41020,101,550603,Sustainability Fund,Village Manager's Office (VMO),Postage,-5,‐,-200,-200
 2310,41020,101,550605,Sustainability Fund,Village Manager's Office (VMO),Travel & Mileage Reimbursement,‐,‐,-750,-750
 2310,41020,101,560606,Sustainability Fund,Village Manager's Office (VMO),Books & Subscriptions,‐,‐,-500,-500
-2310,41020,101,560620,Sustainability Fund,Village Manager's Office (VMO),Office Supplies,‐,-707,"-1,200","-1,200"
-2310,41020,101,560620,Sustainability Fund,Village Manager's Office (VMO),Operational Supplies,‐,‐,‐,"-25,500"
+2310,41020,101,560620,Sustainability Fund,Village Manager's Office (VMO),Office Supplies,‐,-707,"-1,200","-26,700"
 2310,41020,101,570668,Sustainability Fund,Village Manager's Office (VMO),Energy Efficiency Grant Programs,‐,‐,"-250,000","-170,000"
 2310,41020,101,570850,Sustainability Fund,Village Manager's Office (VMO),Solar Projects,"-8,277",‐,"-224,436",‐
 2310,41020,101,570851,Sustainability Fund,Village Manager's Office (VMO),Sustainable VOP Projects,‐,"-100,000","-400,000",‐
@@ -1365,7 +1364,6 @@ Fund ID,Department ID,Program ID,Account ID,Fund,Department,Description,Actuals 
 3032,43900,858,570752,Fleet Replacement Fund,DPW ‐ Fleet Operations,Capital Lease Principal,‐,"-85,954","-47,255","-48,024"
 3032,43900,851,570752,Fleet Replacement Fund,DPW ‐ Fleet Operations,Capital Lease Principal,"-83,176",‐,"-88,825","-91,792"
 3095,43710,101,510501,Capital Improvement Fund,DPW ‐ Capital Projects,Regular Salaries,"-22,278","-34,016","-38,000","-34,408"
-3095,43710,101,510501,Capital Improvement Fund,DPW ‐ Capital Projects,Regular Salaries,‐,‐,‐,‐
 3095,46260,101,510501,Capital Improvement Fund,DPW ‐ Capital Projects,Regular Salaries,"-94,094","-98,646","-103,000","-102,952"
 3095,43780,721,510501,Capital Improvement Fund,DPW ‐ Capital Projects,Regular Salaries,"-347,593","-183,283","-197,000","-516,391"
 3095,43700,721,510501,Capital Improvement Fund,DPW ‐ Capital Projects,Regular Salaries,‐,‐,‐,‐
