@@ -861,38 +861,38 @@ Fund ID,Department ID,Program ID,Account ID,Fund,Department,Description,Actuals 
 1001,43900,733,510515,General Fund,DPW ‐ Fleet Operations,Comp Time,-366,-57,‐,‐
 1001,43900,734,510515,General Fund,DPW ‐ Fleet Operations,Comp Time,-198,-31,‐,‐
 1001,43900,101,510518,General Fund,DPW ‐ Fleet Operations,Seasonal Employees,‐,‐,‐,‐
-1,43900,101,510506,General Fund,DPW ‐ Fleet Operations,"Equip Allow (Auto,Phone,Tools)","-1,508",-505,‐,‐
-1,43900,731,510506,General Fund,DPW ‐ Fleet Operations,"Equip Allow (Auto,Phone,Tools)",-960,-960,"-1,000","-1,000"
-1,43900,732,510506,General Fund,DPW ‐ Fleet Operations,"Equip Allow (Auto,Phone,Tools)","-1,620","-1,620","-1,650","-1,650"
-1,43900,733,510506,General Fund,DPW ‐ Fleet Operations,"Equip Allow (Auto,Phone,Tools)","-2,220","-2,220","-2,250","-2,250"
-1,43900,734,510506,General Fund,DPW ‐ Fleet Operations,"Equip Allow (Auto,Phone,Tools)","-1,200","-1,200","-1,200","-1,200"
-1,43900,731,520515,General Fund,DPW ‐ Fleet Operations,Health Insurance Opt‐Out,‐,‐,‐,‐
-1,43900,101,510519,General Fund,DPW ‐ Fleet Operations,Vacation Time Payout,‐,"-10,913",‐,‐
-1,43900,101,520520,General Fund,DPW ‐ Fleet Operations,Life Insurance Expense,-188,-164,-186,-186
-1,43900,731,520520,General Fund,DPW ‐ Fleet Operations,Life Insurance Expense,-120,-116,-119,-119
-1,43900,732,520520,General Fund,DPW ‐ Fleet Operations,Life Insurance Expense,-203,-196,-201,-201
-1,43900,733,520520,General Fund,DPW ‐ Fleet Operations,Life Insurance Expense,-279,-230,-238,-238
-1,43900,734,520520,General Fund,DPW ‐ Fleet Operations,Life Insurance Expense,-151,-145,-149,-149
-1,43900,101,520521,General Fund,DPW ‐ Fleet Operations,Health Insurance Expense,"-37,637","-30,003","-44,700","-46,462"
-1,43900,731,520521,General Fund,DPW ‐ Fleet Operations,Health Insurance Expense,"-21,058","-20,299","-20,600","-24,076"
-1,43900,732,520521,General Fund,DPW ‐ Fleet Operations,Health Insurance Expense,"-35,534","-34,255","-34,800","-40,629"
-1,43900,733,520521,General Fund,DPW ‐ Fleet Operations,Health Insurance Expense,"-48,695","-40,364","-41,200","-48,152"
-1,43900,734,520521,General Fund,DPW ‐ Fleet Operations,Health Insurance Expense,"-26,322","-25,374","-25,800","-30,095"
-1,43900,101,520522,General Fund,DPW ‐ Fleet Operations,Social Security Expense,"-10,530","-10,559","-11,323","-13,924"
-1,43900,731,520522,General Fund,DPW ‐ Fleet Operations,Social Security Expense,"-5,191","-5,428","-5,026","-5,827"
-1,43900,732,520522,General Fund,DPW ‐ Fleet Operations,Social Security Expense,"-8,672","-8,685","-8,311","-9,833"
-1,43900,733,520522,General Fund,DPW ‐ Fleet Operations,Social Security Expense,"-11,884","-10,263","-9,858","-11,653"
-1,43900,734,520522,General Fund,DPW ‐ Fleet Operations,Social Security Expense,"-6,424","-6,434","-6,157","-7,283"
-1,43900,101,520523,General Fund,DPW ‐ Fleet Operations,Medicare Expense,"-2,463","-2,469","-2,647","-3,111"
-1,43900,731,520523,General Fund,DPW ‐ Fleet Operations,Medicare Expense,"-1,214","-1,269","-1,177","-1,363"
-1,43900,732,520523,General Fund,DPW ‐ Fleet Operations,Medicare Expense,"-2,028","-2,031","-1,943","-2,300"
-1,43900,733,520523,General Fund,DPW ‐ Fleet Operations,Medicare Expense,"-2,779","-2,400","-2,305","-2,725"
-1,43900,734,520523,General Fund,DPW ‐ Fleet Operations,Medicare Expense,"-1,502","-1,505","-1,441","-1,703"
-1,43900,101,520527,General Fund,DPW ‐ Fleet Operations,IMRF Contributions,"-16,524","-14,317","-10,788","-5,421"
-1,43900,731,520527,General Fund,DPW ‐ Fleet Operations,IMRF Contributions,"-8,013","-7,843","-5,152","-2,566"
-1,43900,732,520527,General Fund,DPW ‐ Fleet Operations,IMRF Contributions,"-13,373","-12,530","-8,695","-4,329"
-1,43900,733,520527,General Fund,DPW ‐ Fleet Operations,IMRF Contributions,"-18,326","-14,780","-10,305","-5,131"
-1,43900,734,520527,General Fund,DPW ‐ Fleet Operations,IMRF Contributions,"-9,906","-9,282","-6,441","-3,207"
+1001,43900,101,510506,General Fund,DPW ‐ Fleet Operations,"Equip Allow (Auto,Phone,Tools)","-1,508",-505,‐,‐
+1001,43900,731,510506,General Fund,DPW ‐ Fleet Operations,"Equip Allow (Auto,Phone,Tools)",-960,-960,"-1,000","-1,000"
+1001,43900,732,510506,General Fund,DPW ‐ Fleet Operations,"Equip Allow (Auto,Phone,Tools)","-1,620","-1,620","-1,650","-1,650"
+1001,43900,733,510506,General Fund,DPW ‐ Fleet Operations,"Equip Allow (Auto,Phone,Tools)","-2,220","-2,220","-2,250","-2,250"
+1001,43900,734,510506,General Fund,DPW ‐ Fleet Operations,"Equip Allow (Auto,Phone,Tools)","-1,200","-1,200","-1,200","-1,200"
+1001,43900,731,520515,General Fund,DPW ‐ Fleet Operations,Health Insurance Opt‐Out,‐,‐,‐,‐
+1001,43900,101,510519,General Fund,DPW ‐ Fleet Operations,Vacation Time Payout,‐,"-10,913",‐,‐
+1001,43900,101,520520,General Fund,DPW ‐ Fleet Operations,Life Insurance Expense,-188,-164,-186,-186
+1001,43900,731,520520,General Fund,DPW ‐ Fleet Operations,Life Insurance Expense,-120,-116,-119,-119
+1001,43900,732,520520,General Fund,DPW ‐ Fleet Operations,Life Insurance Expense,-203,-196,-201,-201
+1001,43900,733,520520,General Fund,DPW ‐ Fleet Operations,Life Insurance Expense,-279,-230,-238,-238
+1001,43900,734,520520,General Fund,DPW ‐ Fleet Operations,Life Insurance Expense,-151,-145,-149,-149
+1001,43900,101,520521,General Fund,DPW ‐ Fleet Operations,Health Insurance Expense,"-37,637","-30,003","-44,700","-46,462"
+1001,43900,731,520521,General Fund,DPW ‐ Fleet Operations,Health Insurance Expense,"-21,058","-20,299","-20,600","-24,076"
+1001,43900,732,520521,General Fund,DPW ‐ Fleet Operations,Health Insurance Expense,"-35,534","-34,255","-34,800","-40,629"
+1001,43900,733,520521,General Fund,DPW ‐ Fleet Operations,Health Insurance Expense,"-48,695","-40,364","-41,200","-48,152"
+1001,43900,734,520521,General Fund,DPW ‐ Fleet Operations,Health Insurance Expense,"-26,322","-25,374","-25,800","-30,095"
+1001,43900,101,520522,General Fund,DPW ‐ Fleet Operations,Social Security Expense,"-10,530","-10,559","-11,323","-13,924"
+1001,43900,731,520522,General Fund,DPW ‐ Fleet Operations,Social Security Expense,"-5,191","-5,428","-5,026","-5,827"
+1001,43900,732,520522,General Fund,DPW ‐ Fleet Operations,Social Security Expense,"-8,672","-8,685","-8,311","-9,833"
+1001,43900,733,520522,General Fund,DPW ‐ Fleet Operations,Social Security Expense,"-11,884","-10,263","-9,858","-11,653"
+1001,43900,734,520522,General Fund,DPW ‐ Fleet Operations,Social Security Expense,"-6,424","-6,434","-6,157","-7,283"
+1001,43900,101,520523,General Fund,DPW ‐ Fleet Operations,Medicare Expense,"-2,463","-2,469","-2,647","-3,111"
+1001,43900,731,520523,General Fund,DPW ‐ Fleet Operations,Medicare Expense,"-1,214","-1,269","-1,177","-1,363"
+1001,43900,732,520523,General Fund,DPW ‐ Fleet Operations,Medicare Expense,"-2,028","-2,031","-1,943","-2,300"
+1001,43900,733,520523,General Fund,DPW ‐ Fleet Operations,Medicare Expense,"-2,779","-2,400","-2,305","-2,725"
+1001,43900,734,520523,General Fund,DPW ‐ Fleet Operations,Medicare Expense,"-1,502","-1,505","-1,441","-1,703"
+1001,43900,101,520527,General Fund,DPW ‐ Fleet Operations,IMRF Contributions,"-16,524","-14,317","-10,788","-5,421"
+1001,43900,731,520527,General Fund,DPW ‐ Fleet Operations,IMRF Contributions,"-8,013","-7,843","-5,152","-2,566"
+1001,43900,732,520527,General Fund,DPW ‐ Fleet Operations,IMRF Contributions,"-13,373","-12,530","-8,695","-4,329"
+1001,43900,733,520527,General Fund,DPW ‐ Fleet Operations,IMRF Contributions,"-18,326","-14,780","-10,305","-5,131"
+1001,43900,734,520527,General Fund,DPW ‐ Fleet Operations,IMRF Contributions,"-9,906","-9,282","-6,441","-3,207"
 1001,43900,101,530650,General Fund,DPW ‐ Fleet Operations,Conferences Training,"-3,550","-4,224","-6,500","-9,165"
 1001,43900,101,530667,General Fund,DPW ‐ Fleet Operations,External Support,"-1,918","-1,954","-12,550","-170,250"
 1001,43900,731,530667,General Fund,DPW ‐ Fleet Operations,External Support,"-34,234","-17,514","-30,000",‐
