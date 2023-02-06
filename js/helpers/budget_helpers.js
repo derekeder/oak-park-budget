@@ -35,7 +35,7 @@ var BudgetHelpers = {
   },
   prettyPercent: function(num, denom){
     var percent = parseFloat((num/denom) * 100)
-    if (percent > 0 && percent < 1){ var pretty = '<1%'; }
+    if (percent > 0 && percent < 0.1){ var pretty = '<0.1%'; }
     else{ var pretty = percent.toFixed(1)+'%'; }
     return pretty
   },
