@@ -246,6 +246,7 @@ app.BudgetCollection = Backbone.Collection.extend({
                 $.each(json, function(i, j){
                     // must be based on to-level name
                     j['Fund Slug'] = BudgetHelpers.convertToSlug(j['Fund']);
+                    j['Function Slug'] = BudgetHelpers.convertToSlug(j['Function']);
                     j['Department Slug'] = BudgetHelpers.convertToSlug(j['Department ID']);
                     j['Description Slug'] = BudgetHelpers.convertToSlug(j['Description']);
                     loadit.push(j)
@@ -256,7 +257,8 @@ app.BudgetCollection = Backbone.Collection.extend({
                     console.log(loadit);
                 }
                 self.hierarchy = {
-                    "Fund": ['Fund', 'Department', 'Description']
+                    "Function": ['Function', 'Department', 'Description'],  
+                    "Fund": ['Fund', 'Department', 'Description'],
                 }
 
                 self.updateTables();

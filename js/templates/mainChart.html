@@ -56,5 +56,25 @@
         </td>
       </tr>
   </table>
-
+  <div id="breakdown-tabs">
+    <div id="breakdown-nav">
+        <ul class="tabs group">
+            <% if (model.get('view') == 'Function'){ %>
+                <li class="current">
+            <% } else { %>
+                <li>
+            <% } %>
+                <a class="breakdown-choice" href="javascript://" data-choice="Function">Spending by Function</a>
+            </li>
+            <% if (model.get('view') == 'Fund'){ %>
+                <li class="current">
+            <% } else { %>
+                <li>
+            <% } %>
+                <a class="breakdown-choice" href="javascript://" data-choice="Fund">Spending by Fund</a>
+            </li>
+        </ul>
+        <div class="clear"></div>
+    </div>
+  </div>
 
