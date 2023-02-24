@@ -328,6 +328,9 @@ app.BudgetCollection = Backbone.Collection.extend({
         // get info for each row of the sortable chart
         $.each(guts, function(i, item){
             summary['rowName'] = item.get(view);
+            if (view == 'Department') {
+              summary['rowName'] = item.get("Fund") + " - " + item.get(view);
+            }
             summary['prevYear'] = year - 1;
             summary['prevYearRange'] = BudgetHelpers.convertYearToRange(year-1)
             summary['year'] = year;
