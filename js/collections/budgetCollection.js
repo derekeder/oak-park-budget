@@ -327,10 +327,6 @@ app.BudgetCollection = Backbone.Collection.extend({
 
         // get info for each row of the sortable chart
         $.each(guts, function(i, item){
-            summary['rowName'] = item.get(view);
-            if (view == 'Department') {
-              summary['rowName'] = item.get("Fund") + " - " + item.get(view);
-            }
             summary['prevYear'] = year - 1;
             summary['prevYearRange'] = BudgetHelpers.convertYearToRange(year-1)
             summary['year'] = year;
@@ -342,6 +338,7 @@ app.BudgetCollection = Backbone.Collection.extend({
             summary['rowId'] = item.get(view + ' ID');
             summary['type'] = view
             summary['link'] = item.get('Link to Website');
+            summary['rowName'] = item.get(view);
             var hierarchy = self.hierarchy_current
             var ranking = hierarchy.indexOf(view)
             if (ranking == 0){
@@ -350,9 +347,11 @@ app.BudgetCollection = Backbone.Collection.extend({
             } else if(ranking == 1){
                 summary['child'] = hierarchy[2];
                 summary['parent_type'] = hierarchy[0];
+                summary['rowName'] = item.get(hierarchy[0]) + " - " + item.get(view);
             } else if(ranking == 2) {
                 summary['child'] = null;
                 summary['parent_type'] = hierarchy[1];
+                summary['rowName'] = item.get(hierarchy[0]) + " - " + item.get(hierarchy[1]) + " - " + item.get(view);
             }
             if(summary['parent_type']){
                 summary['parent'] = self.mainChartData.get('title')
