@@ -70,7 +70,7 @@ app.BreakdownDetail = Backbone.View.extend({
         app_router.navigate('?'+new_q);
 
         collection.updateTables();
-        document.title = document.title + ' | ' + this.model.get('rowName');
+        document.title = document.title + ' | ' + this.model.get('rowNameDisplay');
 
         $('html, body').animate({
             scrollTop: $('#breadcrumbs').offset().top

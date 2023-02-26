@@ -41,7 +41,7 @@ with open(budget_cleaned) as csvfile:
 
 print('writing output ...')       
 outp = open('final/oak_park_budget_cleaned.csv', 'w')
-writer = csv.DictWriter(outp, fieldnames=fieldnames, quoting=csv.QUOTE_ALL)
+writer = csv.DictWriter(outp, fieldnames=fieldnames, quoting=csv.QUOTE_NONNUMERIC)
 writer.writeheader()
 writer.writerows(budget_data)
 outp.close()

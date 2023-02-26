@@ -338,7 +338,7 @@ app.BudgetCollection = Backbone.Collection.extend({
             summary['rowId'] = item.get(view + ' ID');
             summary['type'] = view
             summary['link'] = item.get('Link to Website');
-            summary['rowName'] = item.get(view);
+            summary['rowName'] = summary['rowNameDisplay'] = item.get(view);
             var hierarchy = self.hierarchy_current
             var ranking = hierarchy.indexOf(view)
             if (ranking == 0){
@@ -347,11 +347,11 @@ app.BudgetCollection = Backbone.Collection.extend({
             } else if(ranking == 1){
                 summary['child'] = hierarchy[2];
                 summary['parent_type'] = hierarchy[0];
-                summary['rowName'] = item.get(hierarchy[0]) + " - " + item.get(view);
+                summary['rowNameDisplay'] = item.get(hierarchy[0]) + " - " + item.get(view);
             } else if(ranking == 2) {
                 summary['child'] = null;
                 summary['parent_type'] = hierarchy[1];
-                summary['rowName'] = item.get(hierarchy[0]) + " - " + item.get(hierarchy[1]) + " - " + item.get(view);
+                summary['rowNameDisplay'] = item.get(hierarchy[0]) + " - " + item.get(hierarchy[1]) + " - " + item.get(view);
             }
             if(summary['parent_type']){
                 summary['parent'] = self.mainChartData.get('title')
