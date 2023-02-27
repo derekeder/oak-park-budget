@@ -70,7 +70,7 @@ app.BreakdownDetail = Backbone.View.extend({
         app_router.navigate('?'+new_q);
 
         collection.updateTables();
-        document.title = document.title + ' | ' + this.model.get('rowName');
+        document.title = document.title + ' | ' + this.model.get('rowNameDisplay');
 
         $('html, body').animate({
             scrollTop: $('#breadcrumbs').offset().top
@@ -96,6 +96,11 @@ app.BreakdownDetail = Backbone.View.extend({
         var nominal_actuals = data.allActuals;
         var nominal_ests = data.allEstimates;
 
+        if (debugMode == true){
+          console.log("updateChart")
+          console.log(data)
+        }
+
         if (this.model.get('isInflationAdjusted')){
             var detail_chart_actuals = BudgetHelpers.inflationAdjustSeries(nominal_actuals, inflation_idx, benchmark, startYear)
             var detail_chart_ests = BudgetHelpers.inflationAdjustSeries(nominal_ests, inflation_idx, benchmark, startYear)
@@ -108,6 +113,10 @@ app.BreakdownDetail = Backbone.View.extend({
         var minValuesArray = $.grep(detail_chart_ests.concat(detail_chart_actuals),
           function(val) { return val != null; });
         if (debugMode == true){
+            console.log("detail_chart_actuals");
+            console.log(detail_chart_actuals);
+            console.log("detail_chart_ests");
+            console.log(detail_chart_ests);
             console.log("minValuesArray");
             console.log(minValuesArray);
         }

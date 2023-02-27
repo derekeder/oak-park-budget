@@ -47,13 +47,18 @@ a:focus { outline: 0;}
 }
 
 .btn-primary {
-  background-color: #004B75;
-  border-color: #004B75;
+  background-color: #006830;
+  border-color: #006830;
+}
+
+.btn-primary.active {
+  background-color: #008a40;
+  border-color: #008a40;
 }
 
 .btn-primary:hover {
-  background-color: #1f3a71;
-  border-color: #1f3a71;
+  background-color: #008a40;
+  border-color: #008a40;
 }
 
 .btn-info {
@@ -138,19 +143,6 @@ a:focus { outline: 0;}
 
 .expanded-primary { float: left; width: 48%; margin-left: 10px; }
 .expanded-secondary { float: left; width: 48%; }
-
-/* Nav */
-a.breakdown-choice{
-  font-weight: normal;
-  color: #333;
-  background-color: #bbb;
-}
-a.breakdown-choice:hover{
-  color: #333;
-  background-color: #ddd;
-  text-decoration: none;
-}
-
 
 #breakdown-nav { margin-top: -1px;}
 #breakdown-nav li {display: inline-block;}

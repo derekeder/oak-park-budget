@@ -246,8 +246,9 @@ app.BudgetCollection = Backbone.Collection.extend({
                 $.each(json, function(i, j){
                     // must be based on to-level name
                     j['Fund Slug'] = BudgetHelpers.convertToSlug(j['Fund']);
-                    j['Department Slug'] = BudgetHelpers.convertToSlug(j['Department ID']);
-                    j['Description Slug'] = BudgetHelpers.convertToSlug(j['Description']);
+                    j['Function Slug'] = BudgetHelpers.convertToSlug(j['Function']);
+                    j['Department Slug'] = BudgetHelpers.convertToSlug(j['Department']);
+                    j['Description Slug'] = BudgetHelpers.convertToSlug(j['Program ID']);
                     loadit.push(j)
                 });
                 self.reset(loadit);
@@ -256,7 +257,8 @@ app.BudgetCollection = Backbone.Collection.extend({
                     console.log(loadit);
                 }
                 self.hierarchy = {
-                    "Fund": ['Fund', 'Department', 'Description']
+                    "Function": ['Function', 'Department', 'Description'],  
+                    "Fund": ['Fund', 'Department', 'Description'],
                 }
 
                 self.updateTables();
@@ -325,7 +327,6 @@ app.BudgetCollection = Backbone.Collection.extend({
 
         // get info for each row of the sortable chart
         $.each(guts, function(i, item){
-            summary['rowName'] = item.get(view);
             summary['prevYear'] = year - 1;
             summary['prevYearRange'] = BudgetHelpers.convertYearToRange(year-1)
             summary['year'] = year;
@@ -337,6 +338,7 @@ app.BudgetCollection = Backbone.Collection.extend({
             summary['rowId'] = item.get(view + ' ID');
             summary['type'] = view
             summary['link'] = item.get('Link to Website');
+            summary['rowName'] = summary['rowNameDisplay'] = item.get(view);
             var hierarchy = self.hierarchy_current
             var ranking = hierarchy.indexOf(view)
             if (ranking == 0){
@@ -345,9 +347,11 @@ app.BudgetCollection = Backbone.Collection.extend({
             } else if(ranking == 1){
                 summary['child'] = hierarchy[2];
                 summary['parent_type'] = hierarchy[0];
+                summary['rowNameDisplay'] = item.get(hierarchy[0]) + " - " + item.get(view);
             } else if(ranking == 2) {
                 summary['child'] = null;
                 summary['parent_type'] = hierarchy[1];
+                summary['rowNameDisplay'] = item.get(hierarchy[0]) + " - " + item.get(hierarchy[1]) + " - " + item.get(view);
             }
             if(summary['parent_type']){
                 summary['parent'] = self.mainChartData.get('title')
