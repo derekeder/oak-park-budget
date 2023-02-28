@@ -1,3 +1,10 @@
+
+  <a class="btn btn-primary breakdown-choice <% if (model.get('view') == 'Function'){ %>active<% } %>" href="javascript://" data-choice="Function">View by Function</a>
+
+  <a class="btn btn-primary breakdown-choice <% if (model.get('view') == 'Fund'){ %>active<% } %>" href="javascript://" data-choice="Fund">View by Fund</a>
+
+  <div class="clear"></div><br />
+  
   <% if (model.get('showInflationToggle')){ %>
   <div id="inflation-toggle" class='pull-right'>
     <span id="inflation-toggle-label"><small>Adjust for inflation:</small></span>
@@ -37,7 +44,6 @@
               <span class="viewYear"><%= model.get('viewYear') %></span>
               <span class="title"><%= model.get('title') %></span>
           </h2>
-
           <p id='actual-change-percent'></p>
         </td>
         <td id="scorecard-est">
@@ -56,5 +62,4 @@
         </td>
       </tr>
   </table>
-
 
