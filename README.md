@@ -22,7 +22,7 @@ For more information on the Oak Park Village budget and how we built this site, 
 ## How to Re-Deploy
 This code can be customized to visualize another data set.
 
-####Data Prepatation
+#### Data Prepatation
 The budget data can be in various forms (CSV, google doc, Excel), but must adhere to a fixed format in order for the app to process it properly. Budget column headers include: Fund ID, Program ID, Department ID, Fund, Department, Description and. Values for Actuals and Estimates must be broken down into a separate column for each year.
 
 Data for this project is drawn from 3 different budget CSVs and 2 description CSVs located in `data/raw`. The data is compiled into one CSV with the `data/cleanup.py` python script. To run the script:
