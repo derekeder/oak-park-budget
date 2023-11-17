@@ -19,7 +19,7 @@ app.Router = Backbone.Router.extend({
         var params = {
             'year': activeYear,
             'figures': 'nominal',
-            'breakdown': 'Function'
+            'breakdown': 'Fund'
         }
         if (q){
             if (q[0] == '?') q = q.slice(1)
